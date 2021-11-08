@@ -9,3 +9,6 @@ git commit -m "nachricht, die deine aenderungen beschreibt"
 git push
 
 oder alternativ in der git gui alle knöpfe von oben nach unten drücken
+
+
+funktioniere!
