@@ -1,0 +1,197 @@
+<tw-storydata name="Untamed Seas - Chapter 1" startnode="1" creator="Twine" creator-version="2.3.14" ifid="DC0CBD73-20D5-4B38-9012-027D5DD677DC" zoom="1" format="Harlowe" format-version="3.2.2" options="" hidden><style role="stylesheet" id="twine-user-stylesheet" type="text/twine-css"></style><script role="script" id="twine-user-script" type="text/twine-javascript"></script><tw-passagedata pid="1" name="Ein unangenehmes Erwachen" tags="" position="1299,49" size="100,100">Stöhnend öffnet ihr die Augen. Alles tut weh. Wo seid ihr? WER seid ihr? Und was ist nur passiert? 
+Gleißend strahlt die Sonne durch den sich lichtenden Nebel. Ihr schaut euch um und erkennt schemenhaft, dass neben euch noch drei weitere Gestalten auf dem Deck liegen. Doch es bleibt keine Zeit, denn euer Schiff steuert geradewegs auf eine gewaltige Klippe zu. Ihr müsst etwas unternehmen!
+
+[[Ihr versucht so schnell wie möglich die Segel abzuschneiden, um das Schiff zu bremsen.]]
+
+[[Ihr überlasst das Schiff seinem Schicksal und springt von Bord.]]</tw-passagedata><tw-passagedata pid="2" name="Ihr überlasst das Schiff seinem Schicksal und springt von Bord." tags="" position="1381,186" size="100,100">Ihr seht, wie das Schiff Kurz vor der Klippe auf Grund läuft und mit einem gewaltigen Ruck zum Stehen kommt. Zum Glück wart ihr nicht mehr an Bord, denn der Aufprall hat ein großes Loch in euer Schiff gerissen. Zwar konntet ihr einen Teil des Proviants, der jetzt um euch herumschwimmt retten, aber das meiste ist nicht mehr zu gebrauchen (legt 3 Rationen aus dem Rationsfass zurück in den Rationsbeutel). Leider ist CHARACTERNAME bei dem Sprung vom Schiff in zu flachem Wasser gelandet und hat sich dabei IHR/SEIN Bein zertrümmert (CHARACTERNAME muss IHR/SEIN rechtes Bein ablegen).
+
+[[Wir sollten die Insel erkunden.]]</tw-passagedata><tw-passagedata pid="3" name="Wir sollten die Insel erkunden." tags="" position="1280,321" size="100,100">Ihr geht an Land. Es scheint, dass es hier außer einigen schroffen Felsen außer ein paar wunderschönen blauen Blumen nicht viel zu entdecken gibt, doch als ihr die Klippe emporblickt, entdeckt ihr an der Spitze eine menschliche Silhouette.
+
+[[Ihr besteigt den Felsen.]]
+
+[[Ihr bleibt lieber unten und macht das Schiff wieder seetüchtig.]]</tw-passagedata><tw-passagedata pid="4" name="Ihr besteigt den Felsen." tags="" position="1216,460" size="100,100">Der Aufstieg gestaltet sich als schwieriger als gedacht (legt einen Rationsmarker ab). Als ihr endlich auf dem Gipfel ankommt, dämmert es bereits. So wirkt die alte Frau, die euch nun entgegen tritt noch ein wenig mystischer. 
+&quot;Verdammte, seid willkommen! Ihr habt eine lange Reise hinter euch, doch der schwerste Teil steht euch noch bevor. Ihr solltet in Zukunft aber vorsichtiger mit eurem Schiff umgehen. Jetzt ruht euch aus und macht euch morgen auf den Weg nach Lanun Harbour. Ein alter Freund erwartet euch bereits.&quot; (Legt den Hauptmissionsmarker auf das Feld Lanun Harbour)
+Als ihr am nächsten Tag wieder unten ankommt, stellt ihr zu eurer Verwunderung fest, dass euer Schiff wie durch ein Wunder vollkommen unbeschadet in sicherem Abstand zur Felseninsel vor Anker liegt.
+
+[[Auf nach Lanun Harbour!]]</tw-passagedata><tw-passagedata pid="5" name="Auf nach Lanun Harbour!" tags="" position="1290,604" size="100,100">Hinweis: In Untamed Seas könnt ihr selbst entscheiden, wohin ihr reisen möchtet. Zieht dabei euer Boot immer auf eines der (bis zu) sechs anliegenden sechseckigen Felder. Für jedes Feld, das ihr euch so bewegt, müsst ihr einen Rationsmarker aus eurem Rationsfass zurück in den Rationsbeutel legen. Habt ihr keine Rationen mehr im Rationsfass, so müsst ihr anstatt der Rationen, pro Feld eine eurer Körperteilkarten abgeben.
+Aber behaltet euer Rationsfass immer im Blick, denn wenn ihr keine Rationen und keine Körperteilkarten mehr besitzt, habt ihr das Szenario sofort verloren.
+
+[[Erklärung Bewegung]]
+
+
+
+</tw-passagedata><tw-passagedata pid="6" name="Haupmissionsmarker-Symbol antippen" tags="" position="1295,885" size="100,100">(Nehmt den Hauptmissionsmarker vom Spielplan)
+
+Als ihr in Lanun Harbour anlegt, kommt euch sofort ein alter Seemann aus dem wuseligen Treiben im Hafen entgegen und lädt euch in seine Taverne ein.
+&quot;Da seid ihr ja endlich! Mensch, ihr seht ja völlig verdattert aus... Wisst ihr denn gar nicht, warum ihr eigentlich hergekommen seid? Hat euer Papagei euch denn den Auftrag gar nicht überbracht? Schaut mal nach!&quot;
+
+evtl. Abbildung von Papagei-Öffnung
+
+[[Schaut im Papageien nach eurem Auftrag!]]
+
+
+
+&#39;evtl. schreiben, dass vielen Menschen Gliedmaßen fehlen bzw. sie mit Krücken etc unterwegs sind...&#39;</tw-passagedata><tw-passagedata pid="7" name="Schaut im Papageien nach eurem Auftrag!" tags="" position="1297,1025" size="100,100">Abbildung des Auftrags (Brief):
+
+&quot;Bringt mir den Schatz von Harta Karun! Nur mit ihm könnt ihr zurück durch den Nebel finden und eure verlorenen Seelen retten...&quot;
+
+Der Seemann beugt sich zu euch vor: &quot;Ihr seid neu in diesen Gewässern, also seid gewarnt: Hier lauern überall Gefahren und noch nie ist jemand von der Suche nach dem Schatz von Harta Karun zurückgekehrt... Einige bezweifeln, sogar, dass es ihn wirklich gibt. Ich kann euch also leider nicht sagen, wo ihr danach suchen müsst, aber ich kann versuchen, euch auf einige Gefahren vorzubereiten. Kommt mit in meinen Keller. Ich muss euch etwas zeigen.&quot;
+
+[[Runter geht&#39;s! Was soll schon passieren?!]]
+[[Ihr bleibt lieber hier und trinkt noch eine ordentliche Buddel voll Rum.]]</tw-passagedata><tw-passagedata pid="8" name="Runter geht&#39;s! Was soll schon passieren?!" tags="" position="1378,1176" size="100,100">Als ihr den schummrigen Kellerraum betretet, schlägt ein bestialischer Gestank entgegen. In der Mitte des Raumes steht ein massiver Holztisch. Darauf könnt ihr im schwachen Licht einige verrostete Werkzeuge ausmachen und in der Mitte liegt ein einzelner/s mit Schuppen überzogener/s Arm/Bein.
+&quot;So Kameraden, ich habe gesehen, dass ihr einen Invaliden unter euch habt. Das ist nicht weiter schlimm und wird euch in dieser gefährlichen Gegend immer wieder passieren. Wenn ihr ein Körperteil verliert, solltet ihr euch aber immer schnell um Ersatz kümmern. Das hier habe ich... nun ja sagen wir von einem großzügigen Spender bekommen.&quot;
+(Nehmt Körperteil X und legt es an die entsprechende Stelle auf den Charakterbogen von CHARAKTERNAME)
+
+[[Lasst ihn euch zusammenflicken.]]</tw-passagedata><tw-passagedata pid="9" name="Ihr bleibt lieber hier und trinkt noch eine ordentliche Buddel voll Rum." tags="" position="1232,1179" size="100,100">Ach was gibt es schöneres als sich ordentlich einen hinter die Binde zu kippen? Sehr vieles... aber ob einem unbekannten Seemann in einen dunklen Keller zu folgen auch dazu gehört?
+
+[[Runter geht&#39;s! Was soll schon passieren?!]]
+[[Ihr bleibt lieber hier und trinkt noch eine ordentliche Buddel voll Rum.]]</tw-passagedata><tw-passagedata pid="10" name="Lasst ihn euch zusammenflicken." tags="" position="1288,1345" size="100,100">&quot;Ich hoffe ihr habt mir gut zugeschaut. Ich gebe euch etwas von meinem Werkzeug mit, dann könnt ihr solche Operationen zukünftig auch selber durchführen... Jetzt aber nichts wie hoch. Ihr seht aus, als könntet ihr noch den ein oder anderen Grog gebrauchen.&quot;
+
+Oben angekommen, kommen plötzlich drei Kerle in das Lokal. Sie sehen merkwürdig echsenartig aus und scheinen nicht gerade zum Spaßen aufgelegt zu sein. Dem größten von ihnen fehlt ein Arm/Bein. Schnellen Schrittes kommt er auf den alten Seemann zu.
+&quot;Duuuu hasssst meeeinen Aaarrrrrm / meeiinn Beiiinnn gestolen! Daaassss giiibt Raaacheee!&quot; 
+
+Langsam dämmert euch, dass der &quot;großzügige Spender&quot; von dem der Seemann gesprochen hat, seinen Arm vielleicht doch nicht aus freien Stücken abgegeben hatte. Was sollt ihr nur tun?
+
+[[Versteckt euch hinter dem Tresen.]]
+
+[[Sprecht die Kerle an und versucht die Situation zu klären.]]
+
+[[Versohlt den Kerlen den Hintern.]]</tw-passagedata><tw-passagedata pid="11" name="Versteckt euch hinter dem Tresen." tags="" position="1417,1493" size="100,100">Leider ist CHARAKTERNAME noch etwas unbeholfen mit dem neuen Körperteil und stößt beim Verstecken gegen ein Glas. Sofort schauen sich die drei Kerle nach euch um und als sie den schuppigen Arm/ das schuppige Bein entdecken, stürzen sie auf euch zu.
+
+[[Versohlt den Kerlen den Hintern.]]</tw-passagedata><tw-passagedata pid="12" name="Sprecht die Kerle an und versucht die Situation zu klären." tags="" position="1137,1495" size="100,100">Einen Moment lang wirkt es so, als würden sich die drei etwas beruhigen. Doch als sie den schuppigen Arm/ das schuppige Bein an euch sehen, stürzen sie sofort auf euch zu.
+
+[[Versohlt den Kerlen den Hintern.]]</tw-passagedata><tw-passagedata pid="13" name="Versohlt den Kerlen den Hintern." tags="" position="1277,1638" size="100,100">Hinweis: 
+Es kann passieren, dass ihr nach einem Dialog mit Gegnern kämpfen müsst. In diesem Fall wird das Kampfsymbol SYMBOL IM TEXT in der oberen
+linken Ecke der App angezeigt und die zu bekämpfenden Gegner sind auf dem Bildschirm zu sehen. Jeder Gegner hat eine vorgegebene Anzahl an Lebenspunkten. Ein Gegner ist besiegt, wenn seine Lebenspunkte auf 0 sinken.
+Um zu kämpfen müssen die Abenteurer ihre Körperteile einsetzen. Auf jeder Körperteil-Karte sind eine Würfelkombination sowie ein zugehöriger Effekt abgebildet.
+Im Kampf würfelt ihr für jeden Abenteurer einzeln und versucht so die Würfelkombination auf einer seiner Körperteil-Karten zu erreichen. Dafür stehen jedem Abenteurer seine 5 Kampfwürfel zur Verfügung. Ihr dürft dabei jeweils bis zu dreimal würfeln. Für den ersten Wurf nehmt ihr alle 5 Würfel. Dann entscheidet ihr euch, welche der 5 Würfel ihr behalten und welche ihr im zweiten Wurf neu würfeln wollt. Nach dem zweiten Wurf dürft ihr euch erneut entscheiden, welche der 5 Würfel ihr behalten wollt und welche ihr für den dritten und letzten Wurf neu würfeln wollt.
+Wenn ihr mit eurem Wurf zufrieden seid, könnt ihr auf weitere Würfe verzichten.
+Nach eurem letzten Wurf überprüft ihr, ob ihr mit eurem Würfelergebnis eine der Würfelkombinationen auf euren Körperteil-Karten bilden könnt. Könnt ihr mehrere Kombinationen erfüllen, müsst ihr euch für eines der Körperteile entscheiden. Der Effekt des gewählten Körperteils wird dann im Kampf aktiviert.
+Könnt ihr mit euren Würfeln nach den drei Würfen keine der Würfelkombinationen eures Abenteurers bilden, könnt ihr in diesem Kampf leider keinen Schaden verursachen.
+Der Kampf wird ausgehend vom Käpt’n im Uhrzeigersinn
+ausgewertet. Dabei wenden die Spieler die Effekte ihres zuvor ausgewählten Körperteils auf die Gegner an. Um Gegnern Schaden zuzufügen, wird der Schadenswert in der App eingegeben und anschließend das Ziel gewählt. Hat der letzte Spieler seinen Effekt benutzt oder sind bereits zuvor alle Gegner besiegt worden, bestätigt ihr den Ausgang des Kampfesmit dem „Kampf beendet!“ Button.
+
+(Aufteilen!)
+
+
+[[Kampf gegen die drei Kerle gewonnen]]
+
+[[Kampf gegen die drei Kerle verloren]]</tw-passagedata><tw-passagedata pid="14" name="Kampf gegen die drei Kerle gewonnen" tags="" position="1207,1778" size="100,100">Ihr erhaltet die Körperteile X, Y und Z.
+
+[[Jetzt lasst uns schnell packen und uns auf die Suche nach dem Schatz machen.]]</tw-passagedata><tw-passagedata pid="15" name="Kampf gegen die drei Kerle verloren" tags="" position="1367,1780" size="100,100">Ihr verliert jeder 1 Körperteil (entsprechend der Position des schuppigen Körperteils)
+Der alte Seemann gibt euch als Entschädigung X Rationen.
+
+[[Jetzt lasst uns schnell packen und uns auf die Suche nach dem Schatz machen.]]</tw-passagedata><tw-passagedata pid="16" name="Jetzt lasst uns schnell packen und uns auf die Suche nach dem Schatz machen." tags="" position="1283,1933" size="100,100">Bevor ihr aufbrecht, gibt der Seemann euch noch ein paar Vorräte für die Reise mit (nehmt 5 Rationen aus dem Beutel in euer Rationsfass).
+Zum Abschied rät euch der alte Seemann: &quot;Um mehr über den Schatz von Harta Karun zu erfahren, fahrt zum verlassenen Leuchtturm und besucht Natanja die Waise.&quot;
+Als wir ablegen, wird der Alte fast ein bisschen sentimental.
+
+[[Keine Sorge, wir kommen bald mit dem Schatz zurück!]]</tw-passagedata><tw-passagedata pid="17" name="Keine Sorge, wir kommen bald mit dem Schatz zurück!" tags="" position="1283,2108" size="100,100">[[Hauptmission: Verlassener Leuchtturm]]
+[[Nebenmission: Meerjungfrau gesichtet]]
+[[Nebenmission: Dichter Nebel]]</tw-passagedata><tw-passagedata pid="18" name="Hauptmission: Verlassener Leuchtturm" tags="" position="1273,2271" size="100,100">Schon von Weitem könnt ihr den einsamen Leuchtturm erkennen. Ihr geht an Land und klopft an die rostige Tür am Fuße des Turms.
+Dann hört ihr von hoch oben eine kindliche Stimme. Ein Mädchen steckt ihren Kopf zum Fenster heraus. Ihr seht, dass ihre Haare lichterloh in Flammen stehen. Doch das Mädchen scheint eure geschockten Blicke zu erahnen und ruft: &quot;Macht euch keine Sorgen. Ich bin Natanja die Waise und weise den Schiffen den Weg in dieser ungezähmten Gegend. Was verschlägt euch zu mir?&quot;
+
+[[Wir sind auf der Suche nach dem Schatz von Harta Karun.]]
+
+[[Erzähl uns mehr über dich.]]</tw-passagedata><tw-passagedata pid="19" name="Nebenmission: Meerjungfrau gesichtet" tags="" position="1996,2221" size="100,100">Double-click this passage to edit it.</tw-passagedata><tw-passagedata pid="20" name="Wir sind auf der Suche nach dem Schatz von Harta Karun." tags="" position="1141,2404" size="100,100">&quot;Harta Karun ist eine unheimliche Bestie. Man sagt, sie hütet seit Jahrhunderten einen unvorstellbaren Schatz. Aber niemand hat ihn je zu Gesicht bekommen... so wie ich meine Eltern nie zu Gesicht bekommen habe. Deshalb werde ich so lange brennen, bis sie mich endlich finden.&quot;
+
+
+[[Erzähl uns mehr über dich.]]
+[[Erzähl uns mehr über den Schatz.]]</tw-passagedata><tw-passagedata pid="21" name="Erzähl uns mehr über dich." tags="" position="1269,2539" size="100,100">&quot;Seit ich denken kann, bin ich allein in diesem Turm. Jeden Tag und jede Nacht halte ich hier nach meinen Eltern Ausschau, wie es mir die alte Menara geraten hat. Erst, wenn wir uns gefunden haben, werden die Flammen auf meinen Haaren zur Ruhe kommen.&quot;
+
+[[Erzähl uns mehr über die alte Menara]]
+[[Wie können wir dir helfen?]]
+[[Kannst du uns den Weg zum Schatz weisen?]]</tw-passagedata><tw-passagedata pid="22" name="Erzähl uns mehr über den Schatz." tags="" position="1027,2530" size="100,100">Man sagt, Harta Karun sei ein uraltes Ungeheuer, das schon seit Menschengedenken in dieser Gegend sein Unwesen treibt. Unzählige mutige Seemänner und -frauen sind ihm schon zum Opfer gefallen.
+Es gibt viele Geschichten über den Schatz den sie bewacht, aber niemand kann mit Sicherheit sagen, um was es sich dabei tatsächlich handelt. Manch einer bezweifelt gar, dass es diesen Schatz wirklich gibt...
+
+[[Kannst du uns den Weg zum Schatz weisen?]]</tw-passagedata><tw-passagedata pid="23" name="Erzähl uns mehr über die alte Menara" tags="" position="1121,2708" size="100,100">Manche sagen, Menara sei eine gemeine Hexe, aber ich weiß, dass das nicht stimmt. Sonst würde sie nicht jede Nacht zu mir kommen und mir von meinen Eltern erzählen.
+Sie wohnt auf einer einsamen Insel mit großen Klippen.
+
+[[Wie können wir dir helfen?]]
+[[Erzähl uns mehr über den Schatz.]]</tw-passagedata><tw-passagedata pid="24" name="Wie können wir dir helfen?" tags="" position="1274,2824" size="100,100">&quot;Ach ich glaube, niemand kann mir in meiner Lage helfen.&quot; Als das Mädchen schluchtst, sprühen feine Funken aus ihren Haaren. Dass fasst es sich wieder. &quot;Aber eines Tages werden mich meine Eltern finden, so wie es Menara prophezeit hat.&quot;
+
+[[Wenn wir etwas über sie herausfinden, werden wir es dir berichten.]]</tw-passagedata><tw-passagedata pid="25" name="Kannst du uns den Weg zum Schatz weisen?" tags="" position="887,2832" size="100,100">&quot;Keiner weiß, wo sich der Schatz von Harta Karun befindet... selbst ich nicht. Aber immer wieder sehe ich wagemutige Schatzsucher wie euch, die sich auf die Suche nach dem Schatz machen. Die wenigsten von ihnen werden je wieder gesehen. Und wer doch zurückkehrt, hat den Verstand auf der Suche verloren. Einige dieser armen Seelen fristen auf Kura-Kura ihr Dasein.
+Dort findet ihr sicher mehr heraus...&quot;
+
+[[Auf nach Kura-Kura]]</tw-passagedata><tw-passagedata pid="26" name="Auf nach Kura-Kura" tags="" position="1271,3159" size="100,100">(Legt den Hauptmissionsmarker auf das Feld &quot;Kura-Kura&quot;)
+
+[[Angekommen auf Kura-Kura]]</tw-passagedata><tw-passagedata pid="27" name="Nebenmission: Dichter Nebel" tags="" position="2761,2257" size="100,100">Double-click this passage to edit it.</tw-passagedata><tw-passagedata pid="28" name="Wenn wir etwas über sie herausfinden, werden wir es dir berichten." tags="" position="1274,2989" size="100,100">&quot;Das ist sehr großzügig von euch. Wenn ihr nach Antworten sucht, fahrt nach Kura-Kura. Aber seht euch vor, es heißt, dass jeder auf dieser Insel verrückt geworden ist.&quot;
+
+[[Auf nach Kura-Kura]] </tw-passagedata><tw-passagedata pid="29" name="Geht auf die Horde zu. Es wird schon nichts passieren." tags="" position="1100,3476" size="100,100">Als ihr ihnen näherkommt, fallen euch besonders die leeren Blicke der Menschen auf. Völlig in den Bann gezogen, seid ihr wie hypnotisiert und passt euch den rhythmischen Schritten der Horde an. Plötzlich steht ihr ihnen direkt gegenüber.
+
+[[Lasst den Charmeur mit ihnen reden, um sie von eurer friedlichen Absicht zu überzeugen.]]
+[[Lasst die Kämpferin all ihre Willenskraft aufbringen, um sich von den Blicken der Horde loszureißen.]]</tw-passagedata><tw-passagedata pid="30" name="Rennt sicherheitshalber erst einmal auf einen der Hügel." tags="" position="1262,3445" size="100,100">Ohne euch nach ihr umzusehen, lauft ihr so schnell es geht an der Horde vorbei. Auf dem Hügel angekommen, seht ihr, wie sich die Horde langsam zu euch umdreht und in rhythmischen Bewegungen auf euch zu kommt.
+
+[[Lasst den Doktor eine Falle für die Horde errichten.]]
+[[Lasst die Spionin sich heimlich verstecken und der Horde auflauern.]] </tw-passagedata><tw-passagedata pid="31" name="Lasst den Charmeur mit ihnen reden, um sie von eurer friedlichen Absicht zu überzeugen." tags="" position="881,3637" size="100,100">Zunächst wirkt die Rede des Charmeurs keine Wirkung auf die Horde zu haben. Doch als er den Schatz von Harta Karun erwähnt, geht ein Schaudern durch die Horde.
+&quot;Verschwindet! Macht, dass ihr so weit weg von hier kommt, wie es nur geht! Und redet nie wieder von diesem Schatz... denkt nicht einmal daran&quot;
+
+[[Aber was hat es denn mit dem Schatz auf sich?-&gt;Es kommt zum Kampf mit drei von den Verrückten.]]
+[[Warum sollen wir nicht über den Schatz sprechen?-&gt;Es kommt zum Kampf mit drei von den Verrückten.]]
+[[Na gut. Wir legen wieder ab.]]</tw-passagedata><tw-passagedata pid="32" name="Lasst die Kämpferin all ihre Willenskraft aufbringen, um sich von den Blicken der Horde loszureißen." tags="" position="1034,3646" size="100,100">Der Kämpferin gelingt es tatsächlich irgendwie sich von den leeren Blicken der Horde loszureißen. Sofort haut sie zweien auf die Mütze. Die anderen weichen zurück und nun könnt ihr euch alle wieder fangen.
+
+[[Es kommt zum Kampf mit drei von den Verrückten.]]</tw-passagedata><tw-passagedata pid="33" name="Lasst den Doktor eine Falle für die Horde errichten." tags="" position="1451,3651" size="100,100">Nur Doktor:
+[[Baue eine Stolperfalle aus Draht.]]
+[[Platziere Elektroschocker auf dem Boden.]]</tw-passagedata><tw-passagedata pid="34" name="Lasst die Spionin sich heimlich verstecken und der Horde auflauern." tags="" position="1198,3654" size="100,100">Als die Horde schließlich bei euch ankommt, ist die Spionin nicht mehr zu sehen. Ihr anderen werdet aber plötzlich in den Bann der Horde gezogen, als ihr in die leeren Blicke der Verrückten schaut. Völlig in den Bann gezogen, seid ihr wie hypnotisiert und passt euch den rhythmischen Schritten der Horde an.
+
+nur Spionin:
+[[Greife die Horde aus dem Hinterhalt an.]]
+[[Halte dich versteckt und beobachte das Geschehen.]]</tw-passagedata><tw-passagedata pid="35" name="Es kommt zum Kampf mit drei von den Verrückten." tags="" position="1011,4142" size="100,100">&quot;Wir haben euch gewarnt...&quot;
+
+(Kampf mit drei Horde Menschen)
+
+
+[[Kampf gegen die Verrückten gewonnen.]]
+[[Kampf gegen die Verrückten verloren.]]</tw-passagedata><tw-passagedata pid="36" name="Na gut. Wir legen wieder ab." tags="" position="661,3779" size="100,100">Double-click this passage to edit it.</tw-passagedata><tw-passagedata pid="37" name="Greife die Horde aus dem Hinterhalt an." tags="" position="1123,3804" size="100,100">Deine Klinge macht kurzen Prozess mit zwei der Besessenen. Doch als du dich damit offenbarst, dreht sich der Rest der Horde zu dir um. Die anderen können sich dadurch allerdings aus dem Bann befreien. 
+
+[[Wir haben sie umzingelt, greifen wir an!-&gt;Es kommt zum Kampf mit drei von den Verrückten.]]</tw-passagedata><tw-passagedata pid="38" name="Halte dich versteckt und beobachte das Geschehen." tags="" position="1272,3848" size="100,100">Während du im Verborgenen bleibst, werden die anderen bereits von der Horde attackiert. 
+
+[[Attackiere einen Nachzügler der Horde und versuche Informationen von ihm zu erlangen.]]
+[[Komme den anderen zur Hilfe.-&gt;Es kommt zum Kampf mit drei von den Verrückten.]]</tw-passagedata><tw-passagedata pid="39" name="Baue eine Stolperfalle aus Draht." tags="" position="1391,3806" size="100,100">Gerade rechtzeitig wird der Doktor fertig. Jetzt spannt sich ein dünner Draht unsichtbar über den Boden und als die Horde euch fast erreicht hat, wird die Falle ausgelöst. Verwirrt stolpert die ganze Horde übereinander und kugelt den Hügel wieder hinunter.
+
+[[Fragt nach dem Schatz von Harta-Karun.]]</tw-passagedata><tw-passagedata pid="40" name="Erklärung Bewegung" tags="" position="1294,739" size="100,100">Sobald ihr auf ein Feld mit einem Symbol oder einem Missionsmarker zieht (auch, wenn ihr nur darüber ziehen wolltet), müsst ihr zunächst stehen bleiben und in der App das entsprechende Symbol antippen.
+
+-&gt; Zieht jetzt auf direktem Weg nach Lanun Harbour! Dafür müsst ihr erst auf das leere Feld vor Lanun Harbour ziehen und dafür eine Ration abgeben und dann auf das Feld Lanun Harbour ziehen und dafür eine weitere Ration abgeben. Da auf dem Feld Lanun Harbour ein Missionsmarker liegt, dürft ihr nun nicht weiter ziehen, sondern müsst in der App das entsprechende Symbol antippen.
+
+[[Haupmissionsmarker-Symbol antippen]]</tw-passagedata><tw-passagedata pid="41" name="Angekommen auf Kura-Kura" tags="" position="1272,3302" size="100,100">Kura-Kura ist eine von zahlreichen Hügeln überzogene fast kreisrunde Insel. Als ihr anlegen wollt, kommt eine Horde merkwürdig aussehender Menschen auf euch zu. Doch irgendwas an ihnen kommt euch merkwürdig vor.
+
+[[Legt lieber direkt wieder ab und kommt später wieder.-&gt;Na gut. Wir legen wieder ab.]]
+[[Geht auf die Horde zu. Es wird schon nichts passieren.]]
+[[Rennt sicherheitshalber erst einmal auf einen der Hügel.]]</tw-passagedata><tw-passagedata pid="42" name="Platziere Elektroschocker auf dem Boden." tags="" position="1540,3804" size="100,100">Kurz bevor die Horde euch erreicht, schafft es der Doktor einige seiner patentierten Elektroschocker vor euch inden Boden zu stecken. Als die Horde diese erreicht, werden die ersten von ihnen geschockt und sie schrecken allesamt zurück.
+
+[[Fragt nach dem Schatz von Harta-Karun.]]</tw-passagedata><tw-passagedata pid="43" name="Fragt nach dem Schatz von Harta-Karun." tags="" position="1477,3972" size="100,100">Durch die ohnehin schon verschreckte Horde geht ein Raunen. 
+&quot;Diese Pest! Dieser Fluch! Nennt diesen Namen noch einmal, und auch eure Taschenspielertricks werden euch nicht das Leben retten!&quot;
+
+[[Aber was hat es denn mit dem Schatz auf sich?-&gt;Es kommt zum Kampf mit drei von den Verrückten.]]
+[[Warum sollen wir nicht über den Schatz sprechen?-&gt;Es kommt zum Kampf mit drei von den Verrückten.]]
+[[</tw-passagedata><tw-passagedata pid="44" name="Attackiere einen Nachzügler der Horde und versuche Informationen von ihm zu erlangen." tags="" position="1270,4016" size="100,100">Du schaffst es unbemerkt einen der Verrückten zu überwältigen. Als du ihn nach dem Schatz von Hata-Karun fragst heult er laut auf. Ob vom Schmerz deiner Klinge in seiner Schulter oder dem Namen des Schatzes in seinen Ohren ist dir unklar. Der Schrei zieht allerdings die Aufmerksamkeit der restlichen Horde auf dich! Bevor sie dich erreichen erledigst du noch deine Geisel und erbeutest dabei seinen Arm.
+
+(Erhalte Körperteil Nr. XX, Arm der Verlorenen)
+
+[[Eine Konfrontation scheint unausweichlch!-&gt;Es kommt zum Kampf mit drei von den Verrückten.]]</tw-passagedata><tw-passagedata pid="45" name="Ihr versucht so schnell wie möglich die Segel abzuschneiden, um das Schiff zu bremsen." tags="" position="1191,185" size="100,100">Euer Plan scheint aufzugehen. Das Schiff verliert an Geschwindigkeit. Doch den Aufprall könnt ihr trotzdem nicht verhindern. Der Einschlag wirbelt euch ganz schön durcheinander und einige Rationen fallen von Bord (legt 3 Rationen aus dem Rationsfass zurück in den Rationsbeutel). Leider war CHARACTERNAME beim Aufprall noch damit beschäftigt, ein Segel abzuschneiden und hat sich versehentlich SEINEN/IHREN Arm abgesäbelt (CHARACTERNAME muss IHREN/SEINEN linken Arm ablegen).
+
+[[Wir sollten die Insel erkunden.]]</tw-passagedata><tw-passagedata pid="46" name="Ihr bleibt lieber unten und macht das Schiff wieder seetüchtig." tags="" position="1378,454" size="100,100">Nachdem ihr euch von dem Schock etwas erholt habt, macht ihr euch daran euer Schiff wieder auf Vordermann zu bringen. Ihr arbeitet angestrengt bis spät in die Nacht (legt einen Rationsmarker ab), doch schließlich könnt ihr die Schäden reparieren. 
+Zufrieden legt ihr euch schlafen. Doch im Schlaf hört ihr ein seltsames Flüstern: &quot;Fahrt nach Lanun Harbour! Ein alter Freund erwartet euch...&quot; 
+(Legt den Hauptmissionsmarker auf das Feld Lanun Harbour)
+
+[[Auf nach Lanun Harbour!]]</tw-passagedata><tw-passagedata pid="47" name="Kampf gegen die Verrückten gewonnen." tags="" position="875,4292" size="100,100"></tw-passagedata><tw-passagedata pid="48" name="Kampf gegen die Verrückten verloren." tags="" position="1086,4292" size="100,100">Nach dem Kampf beginnen die Verrückten euch eure Gliedmaßen abzuschneiden (Charaktere verlieren insgesamt 4 Körperteile). Doch auf einmal hört ihr sie hektisch durcheinander rufen. Dann rennen sie völlig überhastet weg (sie verlieren dabei 2 Körperteile).
+Als ihr euch verdattert umschaut, seht ihr wie sich der Himmel verdunkelt. Haushohe Wellenberge türmen sich auf. Unter dem Wasser steuert ein riesiger Schatten direkt auf euch zu. 
+
+[[Versucht das Schiff zu erreichen und nichts wie weg hier.]]
+[[Versucht in Richtung der Verrückten zu fliehen.]]</tw-passagedata><tw-passagedata pid="49" name="Versucht das Schiff zu erreichen und nichts wie weg hier." tags="" position="1011,4442" size="100,100">Wenige Augenblicke bevor der Schatten die Insel erreicht, schafft ihr es auf das Schiff. Ihr beobachtet, wie ein gigantischer Oktopus aus dem Wasser steigt, größer als alles, was ihr je zuvor gesehen habt. Zielstrebig bewegt sich der Koloss auf eine Art geschmückten Altar zu. Darauf liegt fein säuberlich aufgereiht ein halbes Dutzend Arme und Beine... oder besser lag. Denn ehe ihr euch versehen könnt, hat sich das Ungeheuer die Gliedmaßen mit einer raschen Bewegung von seinem Tentakel geschnappt. Jetzt vertilgt es die Körperteile eins nach dem andern genüsslich. Dann lässt es sich zurück in das Wasser gleiten und verschwindet.
+Nach dem Schauspiel schaut ihr euch verdattert an: &quot;Was zum Teufel haben wir da gerade gesehen?&quot;
+- &quot;Das ist Harta Karun.&quot; entgegnet eine Stimme an eurer Seite.
+Ihr schreckt zusammen. Neben euch kauert ein Mann. Er hat weder Arme noch Beine. Ist er einer der Verrückten?
+
+[[Wer bist du?]]
+[[Was machst du auf unserem Schiff?]]</tw-passagedata><tw-passagedata pid="50" name="Versucht in Richtung der Verrückten zu fliehen." tags="" position="1161,4442" size="100,100">Ihr rennt davon und legt euch flach auf einen Hügel. Von dort beobachtet ihr, wie ein gigantischer Oktopus aus dem Wasser steigt, größer als alles, was ihr je zuvor gesehen habt. Zielstrebig bewegt sich der Koloss auf eine Art geschmückten Altar zu. Darauf liegt fein säuberlich aufgereiht ein halbes Dutzend Arme und Beine... oder besser lag. Denn ehe ihr euch versehen könnt, hat sich das Ungeheuer die Gliedmaßen mit einer raschen Bewegung von seinem Tentakel geschnappt. Jetzt vertilgt es die Körperteile eins nach dem andern genüsslich. Dann lässt es sich zurück in das Wasser gleiten und verschwindet.
+Nach dem Schauspiel schaut ihr euch verdattert an: &quot;Was zum Teufel haben wir da gerade gesehen?&quot;
+- &quot;Das ist Harta Karun.&quot; entgegnet eine Stimme an eurer Seite.
+Ihr schreckt zusammen. Neben euch kauert ein Mann. Er hat weder Arme noch Beine. Ist er einer der Verrückten?
+
+[[Wer bist du?]]
+[[Woher weißt du das?]]</tw-passagedata><tw-passagedata pid="51" name="Wer bist du?" tags="" position="1086,4592" size="100,100">&quot;Wer ich bin, kann ich euch leider nicht sagen. Ich weiß nur, dass ich auf der Suche nach dem Schatz von Harta Karun war... und nun bin ich auf dieser Insel gefangen.&quot;
+
+[[&quot;Was ist mit dir passiert?&quot;]]
+[[Lasst den Mann auf der Insel und fahrt weg von hier.]]
+[[Nehmt den Mann gefangen und fahrt weg von dieser unheimlichen Insel.]]</tw-passagedata><tw-passagedata pid="52" name="Woher weißt du das?" tags="" position="1311,4592" size="100,100">Double-click this passage to edit it.</tw-passagedata><tw-passagedata pid="53" name="Was machst du auf unserem Schiff?" tags="" position="820,4587" size="100,100">Double-click this passage to edit it.</tw-passagedata><tw-passagedata pid="54" name="&quot;Was ist mit dir passiert?&quot;" tags="" position="1211,4735" size="100,100">Double-click this passage to edit it.</tw-passagedata><tw-passagedata pid="55" name="Lasst den Mann auf der Insel und fahrt weg von hier." tags="" position="1078,4737" size="100,100">Double-click this passage to edit it.</tw-passagedata><tw-passagedata pid="56" name="Nehmt den Mann gefangen und fahrt weg von dieser unheimlichen Insel." tags="" position="960,4733" size="100,100">Double-click this passage to edit it.</tw-passagedata></tw-storydata>
+
