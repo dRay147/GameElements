@@ -1,1 +1,29 @@
-adobe xd für mockup
+Liste nötiger Körperteile:
+
+17 Holzbein			X
+18 Schuppuiger Arm  		X
+19 Meerjungfrauen Flosse	X
+20 Delfin Flosse		
+21 Wasserstrudel Teil 1		
+22 Wasserstrudel Teil 2		
+23 Kura-Kura Teil 1		
+24 Kura-Kura Teil 2		
+25 Kura-Kura Teil 3		
+26 Dichter Nebel Besonderer Arm	
+27 Gauner Schiff Teil 1
+28 Gauner Schiff Teil 2
+29 Gauner Schiff Teil 3
+30 Hambas Zauberstab
+31 Endkampf Belohnung 1
+32 Endkampf Belohnung 2
+33 Endkampf Belohnung 3
+34 Endkampf Belohnung 4
+
+
+
+
+(optional)
+__ Hakenhand
+__ Schuppiges Bein
+__
+
