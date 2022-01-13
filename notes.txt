@@ -9,7 +9,7 @@ Liste nötiger Körperteile:
 23 Kura-Kura Teil 1		
 24 Kura-Kura Teil 2		
 25 Kura-Kura Teil 3		
-26 Dichter Nebel Besonderer Arm	
+26 Insel Besonderer Arm	
 27 Gauner Schiff Teil 1
 28 Gauner Schiff Teil 2
 29 Gauner Schiff Teil 3
@@ -26,4 +26,35 @@ Liste nötiger Körperteile:
 __ Hakenhand
 __ Schuppiges Bein
 __
+
+
+
+
+1-2	2
+2-3	1
+3-B	2
+B-4	2
+4-5	2
+5-5.1	1()
+5.1-C	1
+C-3	3
+3-A	2
+A-6	1
+intended: 17
+shortest mainquest: 13
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
