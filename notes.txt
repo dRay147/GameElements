@@ -8,15 +8,15 @@ Liste nötiger Körperteile:
 22 Kura-Kura Teil 2		X a 
 23 Kura-Kura Teil 3		X l
 24 Insel Besonderer Arm		X a
-25 Gauner Schiff Teil 1		A a	Säbel
-26 Gauner Schiff Teil 2		A a	Kanone
-27 Gauner Schiff Teil 3		A l	Schiffsmast
-28 Wasserstrudel Teil 1		A l	Muschelbein
-29 Wasserstrudel Teil 2		A a	Vermoderter Arm
+25 Gauner Schiff Teil 1		X a	Säbel
+26 Gauner Schiff Teil 2		X a	Kanone
+27 Gauner Schiff Teil 3		X l	Schiffsmast
+28 Wasserstrudel Teil 1		X l	Muschelbein
+29 Wasserstrudel Teil 2		X a	Vermoderter Arm
 30 Hambas Zauberstab		X a
 31 Endkampf Belohnung 1		X a
-32 Endkampf Belohnung 2		A a	Goldener Tentakelarm
-33 Endkampf Belohnung 3		A l	Tentakelfuß
+32 Endkampf Belohnung 2		X a	Goldener Tentakelarm
+33 Endkampf Belohnung 3		X l	Tentakelfuß
 34 Endkampf Belohnung 4		A l	Flammententakelfuß
 35 Vulkaninsel Teil		X a
 36 Hakenhand			A a	Hakenhand
