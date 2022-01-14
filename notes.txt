@@ -1,24 +1,25 @@
 Liste nötiger Körperteile:
 
-17 Holzbein			X
-18 Schuppuiger Arm  		X
-19 Meerjungfrauen Flosse	X
-20 Delfin Flosse		
-21 Wasserstrudel Teil 1		
-22 Wasserstrudel Teil 2		
-23 Kura-Kura Teil 1		
-24 Kura-Kura Teil 2		
-25 Kura-Kura Teil 3		
-26 Insel Besonderer Arm	
-27 Gauner Schiff Teil 1
-28 Gauner Schiff Teil 2
-29 Gauner Schiff Teil 3
-30 Hambas Zauberstab
-31 Endkampf Belohnung 1
-32 Endkampf Belohnung 2
-33 Endkampf Belohnung 3
-34 Endkampf Belohnung 4
-
+17 Holzbein			X l
+18 Schuppuiger Arm  		X a
+19 Meerjungfrauen Flosse	X l
+20 Delfin Flosse		X l
+21 Kura-Kura Teil 1		X l
+22 Kura-Kura Teil 2		X a 
+23 Kura-Kura Teil 3		X l
+24 Insel Besonderer Arm		X a
+25 Gauner Schiff Teil 1		A a	Säbel
+26 Gauner Schiff Teil 2		A a	Kanone
+27 Gauner Schiff Teil 3		A l	Schiffsmast
+28 Wasserstrudel Teil 1		A l	Muschelbein
+29 Wasserstrudel Teil 2		A a	Vermoderter Arm
+30 Hambas Zauberstab		X a
+31 Endkampf Belohnung 1		X a
+32 Endkampf Belohnung 2		A a	Goldener Tentakelarm
+33 Endkampf Belohnung 3		A l	Tentakelfuß
+34 Endkampf Belohnung 4		A l	Flammententakelfuß
+35 Vulkaninsel Teil		X a
+36 Hakenhand			A a	Hakenhand
 
 
 
