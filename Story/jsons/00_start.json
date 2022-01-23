@@ -1,0 +1,223 @@
+{
+  "passages": [
+    {
+      "text": "Stöhnend öffnet ihr die Augen. Alles tut weh. Wo seid ihr? WER seid ihr? Und was ist nur passiert? \nGleißend strahlt die Sonne durch den sich lichtenden Nebel. Ihr schaut euch um und erkennt schemenhaft, dass neben euch noch drei weitere Gestalten auf dem Deck liegen. Doch es bleibt keine Zeit, denn euer Schiff steuert geradewegs auf eine gewaltige Klippe zu. Ihr müsst etwas unternehmen!\n\n[[Ihr versucht so schnell wie möglich die Segel abzuschneiden, um das Schiff zu bremsen.]]\n\n[[Ihr überlasst das Schiff seinem Schicksal und springt von Bord.]]",
+      "links": [
+        {
+          "name": "Ihr versucht so schnell wie möglich die Segel abzuschneiden, um das Schiff zu bremsen.",
+          "link": "Ihr versucht so schnell wie möglich die Segel abzuschneiden, um das Schiff zu bremsen.",
+          "pid": "6"
+        },
+        {
+          "name": "Ihr überlasst das Schiff seinem Schicksal und springt von Bord.",
+          "link": "Ihr überlasst das Schiff seinem Schicksal und springt von Bord.",
+          "pid": "2"
+        }
+      ],
+      "name": "Ein unangenehmes Erwachen",
+      "pid": "1",
+      "position": {
+        "x": "947",
+        "y": "40"
+      }
+    },
+    {
+      "text": "Ihr seht, wie das Schiff kurz vor der Klippe auf Grund läuft und mit einem gewaltigen Ruck zum Stehen kommt. Zum Glück wart ihr nicht mehr an Bord, denn der Aufprall hat ein großes Loch in euer Schiff gerissen. Zwar konntet ihr einen Teil des Proviants, der jetzt um euch herumschwimmt retten, aber das meiste ist nicht mehr zu gebrauchen (legt 3 Rationen aus dem Rationsfass zurück in den Rationsbeutel). Leider ist CHARACTERNAME bei dem Sprung vom Schiff in zu flachem Wasser gelandet und hat sich dabei IHR/SEIN Bein zertrümmert (CHARACTERNAME muss IHR/SEIN rechtes Bein ablegen).\nIhr schwimmt an Land. Doch auf der Insel gibt es außer einigen schroffen Felsen nicht viel zu sehen, doch als ihr die Klippe hochschaut, entdeckt ihr an der Spitze eine menschliche Silhouette.\n\n[[Ihr besteigt den Felsen.]]\n[[Ihr bleibt lieber unten und macht das Schiff wieder seetüchtig.]]\n[[Zuerst verarbeitet ihr das abgetrennte Bein zu Rationen.->Zuerst verarbeitet ihr den abgetrennten Arm zu Rationen.]]",
+      "links": [
+        {
+          "name": "Ihr besteigt den Felsen.",
+          "link": "Ihr besteigt den Felsen.",
+          "pid": "3"
+        },
+        {
+          "name": "Ihr bleibt lieber unten und macht das Schiff wieder seetüchtig.",
+          "link": "Ihr bleibt lieber unten und macht das Schiff wieder seetüchtig.",
+          "pid": "7"
+        },
+        {
+          "name": "Zuerst verarbeitet ihr das abgetrennte Bein zu Rationen.",
+          "link": "Zuerst verarbeitet ihr den abgetrennten Arm zu Rationen.",
+          "pid": "8"
+        }
+      ],
+      "name": "Ihr überlasst das Schiff seinem Schicksal und springt von Bord.",
+      "pid": "2",
+      "position": {
+        "x": "1036",
+        "y": "212"
+      }
+    },
+    {
+      "text": "Der Aufstieg gestaltet sich als schwieriger als gedacht (legt einen Rationsmarker ab). Als ihr endlich auf dem Gipfel ankommt, dämmert es bereits. So wirkt die alte Frau, die euch nun entgegen tritt noch ein wenig mystischer. \n\"Verdammte, seid willkommen! Ihr solltet in Zukunft vorsichtiger mit eurem Schiff umgehen, denn euch steht eine schwere Aufgabe bevor. Ruht euch also aus und macht euch morgen auf den Weg nach Lanun Harbour. Ihr werdet dort bereits erwartet.\" (Legt den Hauptmissionsmarker auf das Feld Lanun Harbour)\nAls ihr am nächsten Tag wieder unten ankommt, stellt ihr zu eurer Verwunderung fest, dass euer Schiff vollkommen unbeschadet in sicherem Abstand zur Felseninsel vor Anker liegt.\n\n[[Weiter->Auf nach Lanun Harbour!]]",
+      "links": [
+        {
+          "name": "Weiter",
+          "link": "Auf nach Lanun Harbour!",
+          "pid": "4"
+        }
+      ],
+      "name": "Ihr besteigt den Felsen.",
+      "pid": "3",
+      "position": {
+        "x": "780",
+        "y": "451"
+      }
+    },
+    {
+      "text": "Hinweis: In Untamed Seas könnt ihr selbst entscheiden, wohin ihr reisen möchtet. Zieht dabei euer Boot immer auf eines der (bis zu) sechs anliegenden sechseckigen Felder. Für jedes Feld, das ihr euch so bewegt, benötigt ihr eine Tagesreise und müsst einen Rationsmarker aus eurem Rationsfass zurück in den Rationsbeutel legen. Habt ihr keine Rationen mehr im Rationsfass, so müsst ihr anstatt der Rationen, pro Feld eine eurer Körperteilkarten abgeben.\nBehaltet euer Rationsfass daher immer im Blick. \nWenn ihr keine Körperteilkarten mehr besitzt, habt ihr das Szenario sofort verloren.\n\n[[Weiter->Erklärung Bewegung]]",
+      "links": [
+        {
+          "name": "Weiter",
+          "link": "Erklärung Bewegung",
+          "pid": "5"
+        }
+      ],
+      "name": "Auf nach Lanun Harbour!",
+      "pid": "4",
+      "position": {
+        "x": "949",
+        "y": "596"
+      }
+    },
+    {
+      "text": "Sobald ihr auf ein Feld mit einem Symbol oder einem Missionsmarker zieht (auch, wenn ihr nur darüber ziehen wolltet), müsst ihr zunächst stehen bleiben und in der App das entsprechende Symbol antippen.\n\n-> Zieht jetzt auf direktem Weg nach Lanun Harbour! Dafür müsst ihr erst auf das leere Feld vor Lanun Harbour ziehen und dafür eine Ration abgeben und dann auf das Feld Lanun Harbour ziehen und dafür eine weitere Ration abgeben. Da auf dem Feld Lanun Harbour ein Missionsmarker liegt, dürft ihr nun nicht weiter ziehen, sondern müsst in der App das entsprechende Symbol antippen.\n\n",
+      "name": "Erklärung Bewegung",
+      "pid": "5",
+      "position": {
+        "x": "954",
+        "y": "731"
+      }
+    },
+    {
+      "text": "Euer Plan scheint aufzugehen. Das Schiff verliert an Geschwindigkeit. Doch den Aufprall könnt ihr trotzdem nicht verhindern. Der Einschlag wirbelt euch ganz schön durcheinander und einige Rationen fallen von Bord (legt 3 Rationen aus dem Rationsfass zurück in den Rationsbeutel). Leider war CHARACTERNAME beim Aufprall noch damit beschäftigt, ein Segel abzuschneiden und hat sich versehentlich SEINEN/IHREN Arm abgesäbelt (CHARACTERNAME muss IHREN/SEINEN linken Arm ablegen).\nIhr schwimmt an Land. Doch auf der Insel gibt es außer einigen schroffen Felsen nicht viel zu sehen. Doch als ihr die Klippe hochschaut, entdeckt ihr an der Spitze eine menschliche Silhouette.\n\n[[Ihr besteigt den Felsen.]]\n[[Ihr bleibt lieber unten und macht das Schiff wieder seetüchtig.]]\n[[Zuerst verarbeitet ihr den abgetrennten Arm zu Rationen.]]",
+      "links": [
+        {
+          "name": "Ihr besteigt den Felsen.",
+          "link": "Ihr besteigt den Felsen.",
+          "pid": "3"
+        },
+        {
+          "name": "Ihr bleibt lieber unten und macht das Schiff wieder seetüchtig.",
+          "link": "Ihr bleibt lieber unten und macht das Schiff wieder seetüchtig.",
+          "pid": "7"
+        },
+        {
+          "name": "Zuerst verarbeitet ihr den abgetrennten Arm zu Rationen.",
+          "link": "Zuerst verarbeitet ihr den abgetrennten Arm zu Rationen.",
+          "pid": "8"
+        }
+      ],
+      "name": "Ihr versucht so schnell wie möglich die Segel abzuschneiden, um das Schiff zu bremsen.",
+      "pid": "6",
+      "position": {
+        "x": "877",
+        "y": "212"
+      }
+    },
+    {
+      "text": "Nachdem ihr euch von dem Schock etwas erholt habt, macht ihr euch daran euer Schiff wieder auf Vordermann zu bringen. Nachdem ihr die Schäden repariert habt, belohnt ihr euch mit einem ordentlichen Mahl (legt einen Rationsmarker ab). \nZufrieden legt ihr euch schlafen. Doch im Schlaf hört ihr ein seltsames Flüstern: \"Fahrt nach Lanun Harbour! Ein alter Freund erwartet euch...\" \n(Legt den Hauptmissionsmarker auf das Feld Lanun Harbour)\n\n[[Weiter->Auf nach Lanun Harbour!]]",
+      "links": [
+        {
+          "name": "Weiter",
+          "link": "Auf nach Lanun Harbour!",
+          "pid": "4"
+        }
+      ],
+      "name": "Ihr bleibt lieber unten und macht das Schiff wieder seetüchtig.",
+      "pid": "7",
+      "position": {
+        "x": "1128",
+        "y": "456"
+      }
+    },
+    {
+      "text": "Sonderlich appetitlich sieht das zwar nicht aus, aber um hier zu überleben sind euch alle Mittel recht. (Ihr erhaltet einen Rationsmarker)\n\n[[Ihr besteigt den Felsen.]]\n[[Ihr bleibt lieber unten und macht das Schiff wieder seetüchtig.]]",
+      "links": [
+        {
+          "name": "Ihr besteigt den Felsen.",
+          "link": "Ihr besteigt den Felsen.",
+          "pid": "3"
+        },
+        {
+          "name": "Ihr bleibt lieber unten und macht das Schiff wieder seetüchtig.",
+          "link": "Ihr bleibt lieber unten und macht das Schiff wieder seetüchtig.",
+          "pid": "7"
+        }
+      ],
+      "name": "Zuerst verarbeitet ihr den abgetrennten Arm zu Rationen.",
+      "pid": "8",
+      "position": {
+        "x": "949",
+        "y": "372"
+      }
+    },
+    {
+      "text": "Die See ist ruhiger als beim letzten Mal. Dennoch müsst ihr euer Schiff vorsichtig zu der Insel manövrieren, um es nicht zu beschädigen.\nAm Strand findet ihr einige Kisten, die wohl von anderen hier verunglückten Schiffen stammen. (Nehmt euch 2 Rationen aus dem Rationsbeutel)\nVon der Hexe Hamba ist hier jedoch keine Spur.",
+      "name": "Klippeninsel 2. Version",
+      "pid": "9",
+      "position": {
+        "x": "2092",
+        "y": "233.33333333333331"
+      }
+    },
+    {
+      "text": "Der Vulkan speiht Feuer in den Himmel. Hier jetzt anzulegen, wäre zu gefährlich.",
+      "name": "Vulkaninsel 2. Version",
+      "pid": "10",
+      "position": {
+        "x": "2256",
+        "y": "236.33333333333331"
+      }
+    },
+    {
+      "text": "Die Verrückten haben euer Schiff anfahren sehen und stehen jetzt in einer riesigen Gruppe bereit. Doch der Empfang dürfte nicht freundlich werden, denn das Säbelrasseln ist bis zu eurem Schiff zu hören.\nWenn ihr euch nicht umbringen lassen wollt, fahrt lieber weiter.",
+      "name": "Kura-Kura 2. Version",
+      "pid": "11",
+      "position": {
+        "x": "2421",
+        "y": "238.33333333333331"
+      }
+    },
+    {
+      "text": "Als ihr in den Hafen einfahrt, seht ihr den alten Seemann mit seinem Holzbein auf zu zulaufen:\n\"Was für eine Freude, euch wiederzusehen. Ihr seht aus, als könntet ihr noch ein paar Rationen gebrauchen. Aber kommt bitte erst wieder, wenn ihr Harta Karun bezwungen habt.\" (Nehmt 5 Rationen)",
+      "name": "Lanun Harbour Version 2",
+      "pid": "12",
+      "position": {
+        "x": "1763",
+        "y": "228.33333333333331"
+      }
+    },
+    {
+      "text": "Ihr seht Menaras brennende Haare schon aus der Ferne. Als ihr ihr erzählt, dass ihr ihre Eltern noch nicht gefunden habt, fängt sie an bitterlich zu weinen. Ihr solltet erst wieder kommen, wenn ihr gute Nachrichten für sie habt.",
+      "name": "Leuchtturm Version 2",
+      "pid": "13",
+      "position": {
+        "x": "1935",
+        "y": "233.33333333333331"
+      }
+    },
+    {
+      "text": "Ihr findet eine zerklüftete Insel. Die vielen Grotten und Höhlen gleichen einem Labyrinth. Hier braucht ihr einen kundigen Helfer, um euch nicht zu verlaufen. Vielleicht könnt ihr ja später zurück kommen.",
+      "name": "Grotte von Harta Karun Version 2",
+      "pid": "14",
+      "position": {
+        "x": "2568",
+        "y": "241.33333333333331"
+      }
+    },
+    {
+      "text": "Der Seemann ist nicht mehr so erfreut, euch schon wieder zu sehen.\n\"Habt ihr euren Auftrag etwa vergessen? Findet den Schatz von Harta Karun. Hier in Lanun Harbour werdet ihr da nicht fündig werden.\"",
+      "name": "Lanun Harbour Version 3",
+      "pid": "15",
+      "position": {
+        "x": "1765",
+        "y": "372.3333333333333"
+      }
+    }
+  ],
+  "name": "Untamed Seas - Chapter 1",
+  "startnode": "1",
+  "creator": "Twine",
+  "creator-version": "2.3.15",
+  "ifid": "DC0CBD73-20D5-4B38-9012-027D5DD677DC"
+}

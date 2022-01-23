@@ -1,0 +1,329 @@
+{
+  "passages": [
+    {
+      "text": "(Nehmt den Hauptmissionsmarker vom Spielplan)\n\nAls ihr in Lanun Harbour anlegt, kommt euch sofort ein alter Seemann aus dem wuseligen Treiben im Hafen entgegen. Euch fällt auf, dass vielen Menschen, die unterwegs sind, Gliedmaßen fehlen. So auch dem Seemann, der mit seinem Holzbein auf euch zugestakst kommt. Er nimmt euch mit in seine Taverne.\n\"Da seid ihr ja endlich! Mensch, ihr seht ja völlig verdattert aus... Wisst ihr denn gar nicht, warum ihr eigentlich hergekommen seid? Habt ihr den Auftrag an eurem Papageien etwa noch nicht gefunden?\"\n\n[Abbildung von Papagei-Öffnung]\n\n[[Schaut im Papageien nach eurem Auftrag!]]",
+      "links": [
+        {
+          "name": "Schaut im Papageien nach eurem Auftrag!",
+          "link": "Schaut im Papageien nach eurem Auftrag!",
+          "pid": "2"
+        }
+      ],
+      "name": "Haupmissionsmarker-Symbol antippen",
+      "pid": "1",
+      "position": {
+        "x": "955",
+        "y": "878"
+      }
+    },
+    {
+      "text": "Abbildung des Auftrags (Brief):\n\n\"Bringt mir den Schatz von Harta Karun! Nur so könnt ihr eure verlorenen Seelen retten und zurück durch den Nebel gelangen.\"\n\nDer Seemann beugt sich zu euch vor: \"Ihr seid neu in diesen Gewässern, also seid gewarnt: Hier lauern überall Gefahren und noch nie ist jemand von der Suche nach dem Schatz von Harta Karun zurückgekehrt... Einige bezweifeln sogar, dass es ihn wirklich gibt. Ich kann euch also leider nicht sagen, wo ihr danach suchen müsst, aber ich kann versuchen, euch auf einige Gefahren vorzubereiten. Kommt mit in meinen Keller. Ich muss euch etwas zeigen.\"\n\n[[Runter geht's! Was soll schon passieren?!]]\n[[Ihr bleibt lieber hier und trinkt noch eine ordentliche Buddel voll Rum.]]",
+      "links": [
+        {
+          "name": "Runter geht's! Was soll schon passieren?!",
+          "link": "Runter geht's! Was soll schon passieren?!",
+          "pid": "3"
+        },
+        {
+          "name": "Ihr bleibt lieber hier und trinkt noch eine ordentliche Buddel voll Rum.",
+          "link": "Ihr bleibt lieber hier und trinkt noch eine ordentliche Buddel voll Rum.",
+          "pid": "4"
+        }
+      ],
+      "name": "Schaut im Papageien nach eurem Auftrag!",
+      "pid": "2",
+      "position": {
+        "x": "957",
+        "y": "1017"
+      }
+    },
+    {
+      "text": "Als ihr den schummrigen Kellerraum betretet, schlägt euch ein bestialischer Gestank entgegen. In der Mitte des Raumes steht ein massiver Holztisch. Darauf könnt ihr im schwachen Licht einige verrostete Werkzeuge ausmachen. Mitten auf dem Tisch liegen ein mit Schuppen überzogener Arm und ein Holzbein\n\"So Kameraden, ich habe gesehen, dass ihr einen Invaliden unter euch habt. Das ist nicht weiter schlimm und wird euch in dieser gefährlichen Gegend immer wieder passieren. Wenn ihr ein Körperteil verliert, solltet ihr euch aber immer schnell um Ersatz kümmern.\"\n\n[[Lasst ihn euch das Holzbein anbauen.]]\n[[Lasst ihn euch den Schuppenarm anbauen.]]",
+      "links": [
+        {
+          "name": "Lasst ihn euch das Holzbein anbauen.",
+          "link": "Lasst ihn euch das Holzbein anbauen.",
+          "pid": "16"
+        },
+        {
+          "name": "Lasst ihn euch den Schuppenarm anbauen.",
+          "link": "Lasst ihn euch den Schuppenarm anbauen.",
+          "pid": "17"
+        }
+      ],
+      "name": "Runter geht's! Was soll schon passieren?!",
+      "pid": "3",
+      "position": {
+        "x": "1038",
+        "y": "1164"
+      }
+    },
+    {
+      "text": "Ach was gibt es schöneres als sich ordentlich einen hinter die Binde zu kippen? \nEuch fällt da einiges ein, aber ob einem unbekannten Seemann in einen dunklen Keller zu folgen auch dazu gehört?\n\n[[Na los! Folgt dem Seemann nach unten.->Runter geht's! Was soll schon passieren?!]]\n[[Lasst den Seemann euch stattdessen nochmal nachfüllen.]]",
+      "links": [
+        {
+          "name": "Na los! Folgt dem Seemann nach unten.",
+          "link": "Runter geht's! Was soll schon passieren?!",
+          "pid": "3"
+        },
+        {
+          "name": "Lasst den Seemann euch stattdessen nochmal nachfüllen.",
+          "link": "Lasst den Seemann euch stattdessen nochmal nachfüllen.",
+          "pid": "11"
+        }
+      ],
+      "name": "Ihr bleibt lieber hier und trinkt noch eine ordentliche Buddel voll Rum.",
+      "pid": "4",
+      "position": {
+        "x": "790",
+        "y": "1081"
+      }
+    },
+    {
+      "text": "Leider ist CHARAKTERNAME noch etwas unbeholfen mit dem neuen Körperteil und stößt beim Verstecken gegen ein Glas. Sofort schauen sich die drei Kerle nach euch um und als sie den schuppigen Arm entdecken, stürzen sie auf euch zu.\n\n[[Versohlt den Kerlen den Hintern.->Bewerft die Kerle mit eurem Krug.]]",
+      "links": [
+        {
+          "name": "Versohlt den Kerlen den Hintern.",
+          "link": "Bewerft die Kerle mit eurem Krug.",
+          "pid": "9"
+        }
+      ],
+      "name": "Versteckt euch hinter dem Tresen.",
+      "pid": "5",
+      "position": {
+        "x": "1112",
+        "y": "1576"
+      }
+    },
+    {
+      "text": "Einen Moment lang wirkt es so, als würden sich die drei etwas beruhigen. Doch als sie den schuppigen Arm/ das schuppige Bein an euch sehen, stürzen sie sofort auf euch zu.\n\n[[Versohlt den Kerlen den Hintern.->Bewerft die Kerle mit eurem Krug.]]",
+      "links": [
+        {
+          "name": "Versohlt den Kerlen den Hintern.",
+          "link": "Bewerft die Kerle mit eurem Krug.",
+          "pid": "9"
+        }
+      ],
+      "name": "Sprecht die Kerle an und versucht die Situation zu klären.",
+      "pid": "6",
+      "position": {
+        "x": "821",
+        "y": "1581"
+      }
+    },
+    {
+      "text": "Bevor ihr aufbrecht, gibt der Seemann euch noch ein paar Vorräte für die Reise mit (nehmt 7 Rationen aus dem Beutel in euer Rationsfass).\nZum Abschied rät euch der alte Seemann: \"Um mehr über den Schatz von Harta Karun zu erfahren, fahrt zum verlassenen Leuchtturm und besucht Menara die Waise. Viel Glück und kommt bald zurück!\"\n\n",
+      "name": "Jetzt lasst uns schnell packen und uns auf die Suche nach dem Schatz machen.",
+      "pid": "7",
+      "position": {
+        "x": "943",
+        "y": "1936"
+      }
+    },
+    {
+      "text": "Oben angekommen, kommen plötzlich drei Kerle in das Lokal. Sie scheinen nicht gerade zum Spaßen aufgelegt zu sein. Dem größten von ihnen fehlt ein Arm und er sieht merkwürdig schuppig aus. Schnellen Schrittes kommt er auf den alten Seemann zu und schlägt mit seiner Hakenhand auf den Tresen.\n\"Duuuu hasssst meeeinen Aaarrrrrm gestolen! Daaassss giiibt Raaacheee!\" \n\nLangsam dämmert euch, dass der \"großzügige Spender\" von dem der Seemann gesprochen hat, seinen Arm vielleicht doch nicht aus freien Stücken abgegeben hatte.\n\n[[Versteckt euch hinter dem Tresen.]]\n[[Sprecht die Kerle an und versucht die Situation zu klären.]]\n[[Bewerft die Kerle mit eurem Krug.]]",
+      "links": [
+        {
+          "name": "Versteckt euch hinter dem Tresen.",
+          "link": "Versteckt euch hinter dem Tresen.",
+          "pid": "5"
+        },
+        {
+          "name": "Sprecht die Kerle an und versucht die Situation zu klären.",
+          "link": "Sprecht die Kerle an und versucht die Situation zu klären.",
+          "pid": "6"
+        },
+        {
+          "name": "Bewerft die Kerle mit eurem Krug.",
+          "link": "Bewerft die Kerle mit eurem Krug.",
+          "pid": "9"
+        }
+      ],
+      "name": "Echsenauseinandersetzung",
+      "pid": "8",
+      "position": {
+        "x": "1172",
+        "y": "1448"
+      }
+    },
+    {
+      "text": "Hinweis: \nEs kann passieren, dass ihr nach einem Dialog mit Gegnern kämpfen müsst. In diesem Fall wird das Kampfsymbol SYMBOL IM TEXT in der oberen\nlinken Ecke der App angezeigt und die zu bekämpfenden Gegner sind auf dem Bildschirm zu sehen. Jeder Gegner hat eine vorgegebene Anzahl an Lebenspunkten. Ein Gegner ist besiegt, wenn seine Lebenspunkte auf 0 sinken.\nUm zu kämpfen müssen die Abenteurer ihre Körperteile einsetzen. Auf jeder Körperteil-Karte sind eine Würfelkombination sowie ein zugehöriger Effekt abgebildet.\nIm Kampf würfelt ihr für alle Abenteurer gemeinsam und versucht so die Würfelkombination auf einer eurer Körperteil-Karten zu erreichen. Dafür stehen euch 5 Kampfwürfel zur Verfügung. Ihr dürft dabei pro Runde jeweils bis zu dreimal würfeln. Für den ersten Wurf nehmt ihr alle 5 Würfel. Dann entscheidet ihr euch, welche der 5 Würfel ihr behalten und welche ihr im zweiten Wurf neu würfeln wollt. Nach dem zweiten Wurf dürft ihr euch erneut entscheiden, welche der 5 Würfel ihr behalten wollt und welche ihr für den dritten und letzten Wurf neu würfeln wollt.\nWenn ihr mit eurem Wurf zufrieden seid, könnt ihr auf weitere Würfe verzichten.\nNach eurem letzten Wurf überprüft ihr, ob ihr mit eurem Würfelergebnis eine der Würfelkombinationen auf euren Körperteil-Karten bilden könnt. Könnt ihr mehrere Kombinationen erfüllen, müsst ihr euch für eines der Körperteile entscheiden. Der Effekt des gewählten Körperteils wird dann im Kampf aktiviert.\nWurde eines eurer Körperteile aktiviert, so wird die auf der Karte beschriebene Aktion durchgeführt und gegebenenfalls der entsprechende Schadenswert in der App eingegeben, indem auf die Minus-Taste neben den Gegnern gedrückt wird. Kann man nicht allen Gegnern Schaden hinzufügen, so müssen die Spieler entscheiden, an wen sie die Schadenspunkte verteilen. Anschließend muss auf \"Runde bestätigen\" getippt werden.\nKönnt ihr mit euren Würfeln nach den drei Würfen keine der Würfelkombinationen eurer Abenteurer bilden, könnt ihr in dieser Runde leider keinen Schaden verursachen und tippt direkt auf \"Runde bestätigen\".\nDer Abenteurer, dessen Körperteil bei einer erfolgreichen Runde aktiviert wurde, bekommt einen X-Marker. Er darf nun für die nächsten Runden nicht mehr am Kampf teilnehmen, bis jeder Abenteurer einmal gekämpft hat. Dann werden die X-Marker wieder entfernt und jeder Spieler darf wieder kämpfen.\nDies wird so lange weitergeführt, bis alle Gegner besiegt sind. Abhängig davon, wie viele Runden ihr für einen Kampf benötigt habt, bekommt ihr dann von der App mitgeteilt, welche Auswirkungen der Kampf hatte.\n\n\n[[Kampf gegen die drei Kerle.]]",
+      "links": [
+        {
+          "name": "Kampf gegen die drei Kerle.",
+          "link": "Kampf gegen die drei Kerle.",
+          "pid": "15"
+        }
+      ],
+      "name": "Bewerft die Kerle mit eurem Krug.",
+      "pid": "9",
+      "position": {
+        "x": "958",
+        "y": "1675"
+      }
+    },
+    {
+      "text": "Oben angekommen, kommen plötzlich drei Kerle in das Lokal gehumpelt. Sie scheinen nicht gerade zum Spaßen aufgelegt zu sein. Dem größten von ihnen fehlt ein Bein. Schnellen Schrittes kommt er auf den alten Seemann zu und schlägt mit seiner Hakenhand auf den Tresen.\n\"Du hast mein Holzbein gestolen! Das wirst du noch bereuen!\" \n\nLangsam dämmert euch, dass der \"großzügige Spender\" von dem der Seemann gesprochen hat, seine Prothese vielleicht doch nicht aus freien Stücken abgegeben hatte.\n\n[[Versteckt euch hinter dem Tresen.]]\n[[Sprecht die Kerle an und versucht die Situation zu klären.]]\n[[Bewerft die Kerle mit eurem Krug.]]",
+      "links": [
+        {
+          "name": "Versteckt euch hinter dem Tresen.",
+          "link": "Versteckt euch hinter dem Tresen.",
+          "pid": "5"
+        },
+        {
+          "name": "Sprecht die Kerle an und versucht die Situation zu klären.",
+          "link": "Sprecht die Kerle an und versucht die Situation zu klären.",
+          "pid": "6"
+        },
+        {
+          "name": "Bewerft die Kerle mit eurem Krug.",
+          "link": "Bewerft die Kerle mit eurem Krug.",
+          "pid": "9"
+        }
+      ],
+      "name": "Mobberauseinandersetzung",
+      "pid": "10",
+      "position": {
+        "x": "902",
+        "y": "1456"
+      }
+    },
+    {
+      "text": "Langsam werdet ihr ganz schön beschwippst und der Seemann fragt, ob ihr endlich mit nach unten kommen wollt.\n\n[[Ihr reißt euch endlich von der Bar los und geht mit in den Keller.->Runter geht's! Was soll schon passieren?!]]\n[[Hoch mit euren Humpen, Ihr Seebären!]]",
+      "links": [
+        {
+          "name": "Ihr reißt euch endlich von der Bar los und geht mit in den Keller.",
+          "link": "Runter geht's! Was soll schon passieren?!",
+          "pid": "3"
+        },
+        {
+          "name": "Hoch mit euren Humpen, Ihr Seebären!",
+          "link": "Hoch mit euren Humpen, Ihr Seebären!",
+          "pid": "12"
+        }
+      ],
+      "name": "Lasst den Seemann euch stattdessen nochmal nachfüllen.",
+      "pid": "11",
+      "position": {
+        "x": "646",
+        "y": "1179"
+      }
+    },
+    {
+      "text": "Mit ein paar Einheimischen tanzt ihr schon torkelnd über die Tische.\n\n[[Im Keller steigt bestimmt die richtige Party.->Runter geht's! Was soll schon passieren?!]]\n[[Je mehr wir trinken, desto besser singen wir.]]",
+      "links": [
+        {
+          "name": "Im Keller steigt bestimmt die richtige Party.",
+          "link": "Runter geht's! Was soll schon passieren?!",
+          "pid": "3"
+        },
+        {
+          "name": "Je mehr wir trinken, desto besser singen wir.",
+          "link": "Je mehr wir trinken, desto besser singen wir.",
+          "pid": "13"
+        }
+      ],
+      "name": "Hoch mit euren Humpen, Ihr Seebären!",
+      "pid": "12",
+      "position": {
+        "x": "643",
+        "y": "1308"
+      }
+    },
+    {
+      "text": "Inzwischen seht ihr alles doppelt. Es ist wirklich an der Zeit, dem Alkohol abzuschwören.\n\n[[Sucht im Keller nach einem weiteren edlen Tropfen.->Runter geht's! Was soll schon passieren?!]]\n[[Nehmt einander Huckepack und lauft um die Wette.]]",
+      "links": [
+        {
+          "name": "Sucht im Keller nach einem weiteren edlen Tropfen.",
+          "link": "Runter geht's! Was soll schon passieren?!",
+          "pid": "3"
+        },
+        {
+          "name": "Nehmt einander Huckepack und lauft um die Wette.",
+          "link": "Nehmt einander Huckepack und lauft um die Wette.",
+          "pid": "14"
+        }
+      ],
+      "name": "Je mehr wir trinken, desto besser singen wir.",
+      "pid": "13",
+      "position": {
+        "x": "638",
+        "y": "1436"
+      }
+    },
+    {
+      "text": "In eurem Rausch stolpert ihr nur so durch die Gegend. Wer den Wettlauf gewonnen hat, lässt sich nicht mehr sagen, denn schon purzelt ihr alle miteinander die Kellertreppe hinunter.\nDaraufhin müsst ihr euch erst einmal übergeben und bleibt dann benommen liegen.\nDer alte Seemann kommt euch lachend zur Hilfe: \"Da habt ihr's ja doch noch in meinen Keller geschafft! Ich habe gesehen, dass ihr einen Invaliden unter euch habt. Das ist nicht weiter schlimm und wird euch in dieser gefährlichen Gegend immer wieder passieren. Wenn ihr ein Körperteil verliert, solltet ihr euch aber immer schnell um Ersatz kümmern.\"\nEr zeigt auf den Holztisch in der Mitte des schummrigen Raumes. \"Leg dich hin! Ich habe hier was für dich.\"\n\n[[Lasst ihn euch das Holzbein anbauen.]]\n[[Lasst ihn euch den Schuppenarm anbauen.]]",
+      "links": [
+        {
+          "name": "Lasst ihn euch das Holzbein anbauen.",
+          "link": "Lasst ihn euch das Holzbein anbauen.",
+          "pid": "16"
+        },
+        {
+          "name": "Lasst ihn euch den Schuppenarm anbauen.",
+          "link": "Lasst ihn euch den Schuppenarm anbauen.",
+          "pid": "17"
+        }
+      ],
+      "name": "Nehmt einander Huckepack und lauft um die Wette.",
+      "pid": "14",
+      "position": {
+        "x": "638",
+        "y": "1586"
+      }
+    },
+    {
+      "text": "Wutentbrannt stürzen die drei Männer auf euch zu und es kommt zu einer Schlägerei.\n\n5 | 2 | 1\n\n\n<3 Würfelrunden:\t+1 Körperteil (Hakenhand (36))\n=3 Würfelrunden:\t+1 Körperteil (Hakenhand (36))\n>3 Würfelrunden:\t-1 zufälliges Körperteil, +1 Körperteil (Hakenhand (36))\n\n\nHinweis: Erhaltet ihr ein Körperteil nach einem Kampf, so müsst ihr dieses entweder direkt anlegen und dafür gegebenenfalls ein anderes Körperteil ablegen oder das neu erhaltene Körperteil ablehnen. Körperteile können nicht für später aufbewahrt werden.\n\n[[Weiter->Jetzt lasst uns schnell packen und uns auf die Suche nach dem Schatz machen.]]",
+      "links": [
+        {
+          "name": "Weiter",
+          "link": "Jetzt lasst uns schnell packen und uns auf die Suche nach dem Schatz machen.",
+          "pid": "7"
+        }
+      ],
+      "name": "Kampf gegen die drei Kerle.",
+      "pid": "15",
+      "position": {
+        "x": "953",
+        "y": "1798"
+      }
+    },
+    {
+      "text": "(Nehmt die \"Holzbein\"-Karte (17) und legt sie an die entsprechende Stelle auf den Charakterbogen eines eurer Charaktere. Hinweis: Liegt an dieser Stelle bereits ein Körperteil, so muss dieses entfernt werden.)\n\n\"Das hier habe ich... nun ja sagen wir von einem großzügigen Spender bekommen. Ich hoffe ihr habt mir gut zugeschaut. Ich gebe euch etwas von meinem Werkzeug mit, dann könnt ihr solche Operationen zukünftig auch selber durchführen... Jetzt aber nichts wie hoch. Ihr seht aus, als könntet ihr noch den ein oder anderen Grog gebrauchen.\"\n\n[[Weiter->Mobberauseinandersetzung]]",
+      "links": [
+        {
+          "name": "Weiter",
+          "link": "Mobberauseinandersetzung",
+          "pid": "10"
+        }
+      ],
+      "name": "Lasst ihn euch das Holzbein anbauen.",
+      "pid": "16",
+      "position": {
+        "x": "896",
+        "y": "1304"
+      }
+    },
+    {
+      "text": "(Nehmt die \"Schuppiger Arm\"-Karte (18) und legt sie an die entsprechende Stelle auf den Charakterbogen eines eurer Charaktere. Hinweis: Liegt an dieser Stelle bereits ein Körperteil, so muss dieses entfernt werden.)\n\n\"Das hier habe ich... nun ja sagen wir von einem großzügigen Spender bekommen. Ich hoffe ihr habt mir gut zugeschaut. Ich gebe euch etwas von meinem Werkzeug mit, dann könnt ihr solche Operationen zukünftig auch selber durchführen... Jetzt aber nichts wie hoch. Ihr seht aus, als könntet ihr noch den ein oder anderen Grog gebrauchen.\"\n\n[[Weiter->Echsenauseinandersetzung]]",
+      "links": [
+        {
+          "name": "Weiter",
+          "link": "Echsenauseinandersetzung",
+          "pid": "8"
+        }
+      ],
+      "name": "Lasst ihn euch den Schuppenarm anbauen.",
+      "pid": "17",
+      "position": {
+        "x": "1150",
+        "y": "1293"
+      }
+    }
+  ],
+  "name": "Untamed Seas - Chapter 1",
+  "startnode": "1",
+  "creator": "Twine",
+  "creator-version": "2.3.15",
+  "ifid": "DC0CBD73-20D5-4B38-9012-027D5DD677DC"
+}

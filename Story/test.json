@@ -1,482 +1,346 @@
-﻿{
+{
   "passages": [
     {
-      "text": "Stöhnend öffnet ihr die Augen. Alles tut weh. Was ist nur passiert? Gleißend strahlt die Sonne durch den sich lichtenden Nebel. Ihr schaut euch um und erkennt schemenhaft, dass neben euch noch drei weitere Gestalten auf dem Deck liegen. Doch es bleibt keine Zeit, euch bekannt zu machen, denn plötzlich verdunkelt sich der Himmel. Euer Schiff steuert geradewegs auf eine gewaltige Klippe zu. Ihr müsst etwas unternehmen!\n\n[[ Ihr versucht so schnell wie möglich die Segel abzuschneiden, um das Schiff zu bremsen.]]\n\n[[Ihr überlasst das Schiff seinem Schicksal und springt von Bord.]]",
+      "text": "Stöhnend öffnet ihr die Augen. Alles tut weh. Wo seid ihr? WER seid ihr? Und was ist nur passiert? \nGleißend strahlt die Sonne durch den sich lichtenden Nebel. Ihr schaut euch um und erkennt schemenhaft, dass neben euch noch drei weitere Gestalten auf dem Deck liegen. Doch es bleibt keine Zeit, denn euer Schiff steuert geradewegs auf eine gewaltige Klippe zu. Ihr müsst etwas unternehmen!\n\n[[Ihr versucht so schnell wie möglich die Segel abzuschneiden, um das Schiff zu bremsen.]]\n\n[[Ihr überlasst das Schiff seinem Schicksal und springt von Bord.]]",
       "links": [
         {
-          "name": " Ihr versucht so schnell wie möglich die Segel abzuschneiden, um das Schiff zu bremsen.",
-          "link": " Ihr versucht so schnell wie möglich die Segel abzuschneiden, um das Schiff zu bremsen.",
-          "pid": "2"
+          "name": "Ihr versucht so schnell wie möglich die Segel abzuschneiden, um das Schiff zu bremsen.",
+          "link": "Ihr versucht so schnell wie möglich die Segel abzuschneiden, um das Schiff zu bremsen.",
+          "pid": "38"
         },
         {
           "name": "Ihr überlasst das Schiff seinem Schicksal und springt von Bord.",
           "link": "Ihr überlasst das Schiff seinem Schicksal und springt von Bord.",
-          "pid": "3"
+          "pid": "2"
         }
       ],
       "name": "Ein unangenehmes Erwachen",
       "pid": "1",
       "position": {
-        "x": "1296",
-        "y": "72"
+        "x": "947",
+        "y": "40"
       }
     },
     {
-      "text": "Euer Plan scheint aufzugehen. Das Schiff verliert an Geschwindigkeit. Doch den Aufprall könnt ihr trotzdem nicht verhindern. Der Einschlag wirbelt euch ganz schön durcheinander und einige Rationen fallen von Bord (legt 3 Rationen aus dem Rationsfass zurück in den Rationsbeutel). Leider war CHARACTERNAME beim Aufprall noch damit beschäftigt, ein Segel abzuschneiden und hat sich versehentlich SEINEN/IHREN Arm abgesäbelt (CHARACTERNAME muss IHREN/SEINEN linken Arm ablegen).\n\n[[Wir sollten die Insel erkunden.]]",
-      "links": [
-        {
-          "name": "Wir sollten die Insel erkunden.",
-          "link": "Wir sollten die Insel erkunden.",
-          "pid": "4"
-        }
-      ],
-      "name": " Ihr versucht so schnell wie möglich die Segel abzuschneiden, um das Schiff zu bremsen.",
-      "pid": "2",
-      "position": {
-        "x": "1196",
-        "y": "205"
-      }
-    },
-    {
-      "text": "Ihr seht, wie das Schiff Kurz vor der Klippe auf Grund läuft und mit einem gewaltigen Ruck zum Stehen kommt. Zum Glück wart ihr nicht mehr an Bord, denn der Aufprall hat ein großes Loch in euer Schiff gerissen. Zwar konntet ihr einen Teil des Proviants, der jetzt um euch herumschwimmt retten, aber das meiste ist nicht mehr zu gebrauchen (legt 3 Rationen aus dem Rationsfass zurück in den Rationsbeutel). Leider ist CHARACTERNAME bei dem Sprung vom Schiff in zu flachem Wasser gelandet und hat sich dabei IHR/SEIN Bein zertrümmert (CHARACTERNAME muss IHR/SEIN rechtes Bein ablegen).\n\n[[Wir sollten die Insel erkunden.]]",
-      "links": [
-        {
-          "name": "Wir sollten die Insel erkunden.",
-          "link": "Wir sollten die Insel erkunden.",
-          "pid": "4"
-        }
-      ],
-      "name": "Ihr überlasst das Schiff seinem Schicksal und springt von Bord.",
-      "pid": "3",
-      "position": {
-        "x": "1382",
-        "y": "200"
-      }
-    },
-    {
-      "text": "Ihr geht an Land. Es scheint, dass es hier außer einigen schroffen Felsen nicht viel zu entdecken gibt, doch als ihr die Klippe emporblickt, entdeckt ihr an der Spitze eine menschliche Silhouette.\n\n[[Ihr besteigt den Felsen.]]\n\n[[Ihr bleibt lieber unten und ruht euch erstmal aus.]]",
+      "text": "Ihr seht, wie das Schiff kurz vor der Klippe auf Grund läuft und mit einem gewaltigen Ruck zum Stehen kommt. Zum Glück wart ihr nicht mehr an Bord, denn der Aufprall hat ein großes Loch in euer Schiff gerissen. Zwar konntet ihr einen Teil des Proviants, der jetzt um euch herumschwimmt retten, aber das meiste ist nicht mehr zu gebrauchen (legt 3 Rationen aus dem Rationsfass zurück in den Rationsbeutel). Leider ist CHARACTERNAME bei dem Sprung vom Schiff in zu flachem Wasser gelandet und hat sich dabei IHR/SEIN Bein zertrümmert (CHARACTERNAME muss IHR/SEIN rechtes Bein ablegen).\nIhr schwimmt an Land. Doch auf der Insel gibt es außer einigen schroffen Felsen nicht viel zu sehen, doch als ihr die Klippe hochschaut, entdeckt ihr an der Spitze eine menschliche Silhouette.\n\n[[Ihr besteigt den Felsen.]]\n[[Ihr bleibt lieber unten und macht das Schiff wieder seetüchtig.]]\n[[Zuerst verarbeitet ihr das abgetrennte Bein zu Rationen.->Zuerst verarbeitet ihr den abgetrennten Arm zu Rationen.]]",
       "links": [
         {
           "name": "Ihr besteigt den Felsen.",
           "link": "Ihr besteigt den Felsen.",
-          "pid": "5"
+          "pid": "3"
         },
         {
-          "name": "Ihr bleibt lieber unten und ruht euch erstmal aus.",
-          "link": "Ihr bleibt lieber unten und ruht euch erstmal aus.",
-          "pid": "6"
+          "name": "Ihr bleibt lieber unten und macht das Schiff wieder seetüchtig.",
+          "link": "Ihr bleibt lieber unten und macht das Schiff wieder seetüchtig.",
+          "pid": "39"
+        },
+        {
+          "name": "Zuerst verarbeitet ihr das abgetrennte Bein zu Rationen.",
+          "link": "Zuerst verarbeitet ihr den abgetrennten Arm zu Rationen.",
+          "pid": "71"
         }
       ],
-      "name": "Wir sollten die Insel erkunden.",
-      "pid": "4",
+      "name": "Ihr überlasst das Schiff seinem Schicksal und springt von Bord.",
+      "pid": "2",
       "position": {
-        "x": "1298",
-        "y": "335"
+        "x": "1036",
+        "y": "212"
       }
     },
     {
-      "text": "Der Aufstieg gestaltet sich als schwieriger als gedacht (legt einen Rationsmarker ab). Als ihr endlich auf dem Gipfel ankommt, dämmert es bereits. So wirkt die alte Frau, die euch nun entgegen tritt noch ein wenig mystischer. \n\"Verdammte, seid willkommen! Ihr habt eine lange Reise hinter euch, doch der schwerste Teil steht euch noch bevor. Ihr solltet in Zukunft aber vorsichtiger mit eurem Schiff umgehen. Jetzt ruht euch aus und macht euch morgen auf den Weg nach Lanun Harbour. Ein alter Freund erwartet euch bereits.\" (Legt den Hauptmissionsmarker auf das Feld Lanun Harbour)\nAls ihr am nächsten Tag wieder unten ankommt, stellt ihr zu eurer Verwunderung fest, dass euer Schiff wie durch ein Wunder vollkommen unbeschadet in sicherem Abstand zur Felseninsel vor Anker liegt.\n\n[[Auf nach Lanun Harbour!]]",
+      "text": "Der Aufstieg gestaltet sich als schwieriger als gedacht (legt einen Rationsmarker ab). Als ihr endlich auf dem Gipfel ankommt, dämmert es bereits. So wirkt die alte Frau, die euch nun entgegen tritt noch ein wenig mystischer. \n\"Verdammte, seid willkommen! Ihr solltet in Zukunft vorsichtiger mit eurem Schiff umgehen, denn euch steht eine schwere Aufgabe bevor. Ruht euch also aus und macht euch morgen auf den Weg nach Lanun Harbour. Ihr werdet dort bereits erwartet.\" (Legt den Hauptmissionsmarker auf das Feld Lanun Harbour)\nAls ihr am nächsten Tag wieder unten ankommt, stellt ihr zu eurer Verwunderung fest, dass euer Schiff vollkommen unbeschadet in sicherem Abstand zur Felseninsel vor Anker liegt.\n\n[[Weiter->Auf nach Lanun Harbour!]]",
       "links": [
         {
-          "name": "Auf nach Lanun Harbour!",
+          "name": "Weiter",
           "link": "Auf nach Lanun Harbour!",
-          "pid": "7"
+          "pid": "4"
         }
       ],
       "name": "Ihr besteigt den Felsen.",
-      "pid": "5",
+      "pid": "3",
       "position": {
-        "x": "1190",
-        "y": "463"
+        "x": "780",
+        "y": "451"
       }
     },
     {
-      "text": "Nachdem ihr euch von dem Schock etwas erholt habt, macht ihr euch daran euer Schiff wieder auf Vordermann zu bringen. Ihr arbeitet angestrengt bis spät in die Nacht (legt einen Rationsmarker ab), doch schließlich könnt ihr die Schäden reparieren. \nZufrieden legt ihr euch schlafen. Doch im Schlaf hört ihr ein seltsames Flüstern: \"Fahrt nach Lanun Harbour! Ein alter Freund erwartet euch...\" \n(Legt den Hauptmissionsmarker auf das Feld Lanun Harbour)\n\n[[Auf nach Lanun Harbour!]]",
+      "text": "Hinweis: In Untamed Seas könnt ihr selbst entscheiden, wohin ihr reisen möchtet. Zieht dabei euer Boot immer auf eines der (bis zu) sechs anliegenden sechseckigen Felder. Für jedes Feld, das ihr euch so bewegt, benötigt ihr eine Tagesreise und müsst einen Rationsmarker aus eurem Rationsfass zurück in den Rationsbeutel legen. Habt ihr keine Rationen mehr im Rationsfass, so müsst ihr anstatt der Rationen, pro Feld eine eurer Körperteilkarten abgeben.\nBehaltet euer Rationsfass daher immer im Blick. \nWenn ihr keine Körperteilkarten mehr besitzt, habt ihr das Szenario sofort verloren.\n\n[[Weiter->Erklärung Bewegung]]",
       "links": [
         {
-          "name": "Auf nach Lanun Harbour!",
-          "link": "Auf nach Lanun Harbour!",
-          "pid": "7"
-        }
-      ],
-      "name": "Ihr bleibt lieber unten und ruht euch erstmal aus.",
-      "pid": "6",
-      "position": {
-        "x": "1388",
-        "y": "463"
-      }
-    },
-    {
-      "text": "Hinweis: In Untamed Seas könnt ihr selbst entscheiden, wohin ihr reisen möchtet. Zieht dabei euer Boot immer auf eines der (bis zu) sechs anliegenden sechseckigen Felder. Für jedes Feld, dass ihr euch so bewegt, müsst ihr einen Rationsmarker aus eurem Rationsfass zurück in den Rationsbeutel legen. Habt ihr keine Rationen mehr im Rationsfass, so müsst ihr anstatt der Rationen, pro Feld eine eurer Körperteilkarten abgeben.\nAber behaltet euer Rationsfass immer im Blick, denn wenn ihr keine Rationen und keine Körperteilkarten mehr besitzt, habt ihr das Szenario sofort verloren.\n\nSobald ihr auf ein Feld mit einem Symbol oder einem Missionsmarker zieht (auch, wenn ihr nur darüber ziehen wolltet), müsst ihr zunächst stehen bleiben und in der App das entsprechende Symbol antippen.\n\n-> Zieht jetzt auf direktem Weg nach Lanun Harbour! Dafür müsst ihr erst auf das leere Feld vor Lanun Harbour ziehen und dafür eine Ration abgeben und dann auf das Feld Lanun Harbour ziehen und dafür eine weitere Ration abgeben. Da auf dem Feld Lanun Harbour ein Missionsmarker liegt, dürft ihr nun nicht weiter ziehen, sondern müsst in der App das entsprechende Symbol antippen.\n\n[[Haupmissionsmarker-Symbol antippen]]",
-      "links": [
-        {
-          "name": "Haupmissionsmarker-Symbol antippen",
-          "link": "Haupmissionsmarker-Symbol antippen",
-          "pid": "8"
+          "name": "Weiter",
+          "link": "Erklärung Bewegung",
+          "pid": "33"
         }
       ],
       "name": "Auf nach Lanun Harbour!",
-      "pid": "7",
+      "pid": "4",
       "position": {
-        "x": "1291",
-        "y": "604"
+        "x": "949",
+        "y": "596"
       }
     },
     {
-      "text": "(Nehmt den Hauptmissionsmarker vom Spielplan)\n\nAls ihr in Lanun Harbour anlegt, kommt euch sofort ein alter Seemann aus dem wuseligen Treiben im Hafen entgegen und lädt euch in seine Taverne ein.\n\"Da seid ihr ja endlich! Mensch, ihr seht ja völlig verdattert aus... Wisst ihr denn gar nicht, warum ihr eigentlich hergekommen seid? Hat euer Papagei euch denn den Auftrag gar nicht überbracht? Schaut mal nach!\"\n\nevtl. Abbildung von Papagei-Öffnung\n\n[[Schaut im Papageien nach eurem Auftrag!]]",
+      "text": "(Nehmt den Hauptmissionsmarker vom Spielplan)\n\nAls ihr in Lanun Harbour anlegt, kommt euch sofort ein alter Seemann aus dem wuseligen Treiben im Hafen entgegen. Euch fällt auf, dass vielen Menschen, die unterwegs sind, Gliedmaßen fehlen. So auch dem Seemann, der mit seinem Holzbein auf euch zugestakst kommt. Er nimmt euch mit in seine Taverne.\n\"Da seid ihr ja endlich! Mensch, ihr seht ja völlig verdattert aus... Wisst ihr denn gar nicht, warum ihr eigentlich hergekommen seid? Habt ihr den Auftrag an eurem Papageien etwa noch nicht gefunden?\"\n\n[Abbildung von Papagei-Öffnung]\n\n[[Schaut im Papageien nach eurem Auftrag!]]",
       "links": [
         {
           "name": "Schaut im Papageien nach eurem Auftrag!",
           "link": "Schaut im Papageien nach eurem Auftrag!",
-          "pid": "9"
+          "pid": "6"
         }
       ],
       "name": "Haupmissionsmarker-Symbol antippen",
-      "pid": "8",
+      "pid": "5",
       "position": {
-        "x": "1291",
-        "y": "757"
+        "x": "955",
+        "y": "878"
       }
     },
     {
-      "text": "Abbildung des Auftrags (Brief):\n\n\"Bringt mir den Schatz von Harta Karun! Nur mit ihm könnt ihr zurück durch den Nebel finden und eure verlorenen Seelen retten...\"\n\nDer Seemann beugt sich zu euch vor: \"Ihr seid neu in diesen Gewässern, also seid gewarnt: Hier lauern überall Gefahren und noch nie ist jemand von der Suche nach dem Schatz von Harta Karun zurückgekehrt... Einige bezweifeln, sogar, dass es ihn wirklich gibt. Ich kann euch also leider nicht sagen, wo ihr danach suchen müsst, aber ich kann versuchen, euch auf einige Gefahren vorzubereiten. Kommt mit in meinen Keller. Ich muss euch etwas zeigen.\"\n\n[[Runter geht's! Was soll schon passieren?!]]\n[[Ihr bleibt lieber hier und trinkt noch eine ordentliche Buddel voll Rum.]]",
+      "text": "Abbildung des Auftrags (Brief):\n\n\"Bringt mir den Schatz von Harta Karun! Nur so könnt ihr eure verlorenen Seelen retten und zurück durch den Nebel gelangen.\"\n\nDer Seemann beugt sich zu euch vor: \"Ihr seid neu in diesen Gewässern, also seid gewarnt: Hier lauern überall Gefahren und noch nie ist jemand von der Suche nach dem Schatz von Harta Karun zurückgekehrt... Einige bezweifeln sogar, dass es ihn wirklich gibt. Ich kann euch also leider nicht sagen, wo ihr danach suchen müsst, aber ich kann versuchen, euch auf einige Gefahren vorzubereiten. Kommt mit in meinen Keller. Ich muss euch etwas zeigen.\"\n\n[[Runter geht's! Was soll schon passieren?!]]\n[[Ihr bleibt lieber hier und trinkt noch eine ordentliche Buddel voll Rum.]]",
       "links": [
         {
           "name": "Runter geht's! Was soll schon passieren?!",
           "link": "Runter geht's! Was soll schon passieren?!",
-          "pid": "10"
+          "pid": "7"
         },
         {
           "name": "Ihr bleibt lieber hier und trinkt noch eine ordentliche Buddel voll Rum.",
           "link": "Ihr bleibt lieber hier und trinkt noch eine ordentliche Buddel voll Rum.",
-          "pid": "11"
+          "pid": "8"
         }
       ],
       "name": "Schaut im Papageien nach eurem Auftrag!",
-      "pid": "9",
+      "pid": "6",
       "position": {
-        "x": "1293",
-        "y": "897"
+        "x": "957",
+        "y": "1017"
       }
     },
     {
-      "text": "Als ihr den schummrigen Kellerraum betretet, schlägt ein bestialischer Gestank entgegen. In der Mitte des Raumes steht ein massiver Holztisch. Darauf könnt ihr im schwachen Licht einige verrostete Werkzeuge ausmachen und in der Mitte liegt ein einzelner/s mit Schuppen überzogener/s Arm/Bein.\n\"So Kameraden, ich habe gesehen, dass ihr einen Invaliden unter euch habt. Das ist nicht weiter schlimm und wird euch in dieser gefährlichen Gegend immer wieder passieren. Wenn ihr ein Körperteil verliert, solltet ihr euch aber immer schnell um Ersatz kümmern. Das hier habe ich... nun ja sagen wir von einem großzügigen Spender bekommen.\"\n(Nehmt Körperteil X und legt es an die entsprechende Stelle auf den Charakterbogen von CHARAKTERNAME)\n\n[[Lasst ihn euch zusammenflicken.]]",
+      "text": "Als ihr den schummrigen Kellerraum betretet, schlägt euch ein bestialischer Gestank entgegen. In der Mitte des Raumes steht ein massiver Holztisch. Darauf könnt ihr im schwachen Licht einige verrostete Werkzeuge ausmachen. Mitten auf dem Tisch liegen ein mit Schuppen überzogener Arm und ein Holzbein\n\"So Kameraden, ich habe gesehen, dass ihr einen Invaliden unter euch habt. Das ist nicht weiter schlimm und wird euch in dieser gefährlichen Gegend immer wieder passieren. Wenn ihr ein Körperteil verliert, solltet ihr euch aber immer schnell um Ersatz kümmern.\"\n\n[[Lasst ihn euch das Holzbein anbauen.]]\n[[Lasst ihn euch den Schuppenarm anbauen.]]",
       "links": [
         {
-          "name": "Lasst ihn euch zusammenflicken.",
-          "link": "Lasst ihn euch zusammenflicken.",
-          "pid": "12"
+          "name": "Lasst ihn euch das Holzbein anbauen.",
+          "link": "Lasst ihn euch das Holzbein anbauen.",
+          "pid": "141"
+        },
+        {
+          "name": "Lasst ihn euch den Schuppenarm anbauen.",
+          "link": "Lasst ihn euch den Schuppenarm anbauen.",
+          "pid": "142"
         }
       ],
       "name": "Runter geht's! Was soll schon passieren?!",
-      "pid": "10",
+      "pid": "7",
       "position": {
-        "x": "1374",
-        "y": "1048"
+        "x": "1038",
+        "y": "1164"
       }
     },
     {
-      "text": "Ach was gibt es schöneres als sich ordentlich einen hinter die Binde zu kippen? Sehr vieles... aber ob einem unbekannten Seemann in einen dunklen Keller zu folgen auch dazu gehört?\n\n[[Runter geht's! Was soll schon passieren?!]]\n[[Ihr bleibt lieber hier und trinkt noch eine ordentliche Buddel voll Rum.]]",
+      "text": "Ach was gibt es schöneres als sich ordentlich einen hinter die Binde zu kippen? \nEuch fällt da einiges ein, aber ob einem unbekannten Seemann in einen dunklen Keller zu folgen auch dazu gehört?\n\n[[Na los! Folgt dem Seemann nach unten.->Runter geht's! Was soll schon passieren?!]]\n[[Lasst den Seemann euch stattdessen nochmal nachfüllen.]]",
       "links": [
         {
-          "name": "Runter geht's! Was soll schon passieren?!",
+          "name": "Na los! Folgt dem Seemann nach unten.",
           "link": "Runter geht's! Was soll schon passieren?!",
-          "pid": "10"
+          "pid": "7"
         },
         {
-          "name": "Ihr bleibt lieber hier und trinkt noch eine ordentliche Buddel voll Rum.",
-          "link": "Ihr bleibt lieber hier und trinkt noch eine ordentliche Buddel voll Rum.",
-          "pid": "11"
+          "name": "Lasst den Seemann euch stattdessen nochmal nachfüllen.",
+          "link": "Lasst den Seemann euch stattdessen nochmal nachfüllen.",
+          "pid": "136"
         }
       ],
       "name": "Ihr bleibt lieber hier und trinkt noch eine ordentliche Buddel voll Rum.",
-      "pid": "11",
+      "pid": "8",
       "position": {
-        "x": "1228",
-        "y": "1051"
+        "x": "790",
+        "y": "1081"
       }
     },
     {
-      "text": "\"Ich hoffe ihr habt mir gut zugeschaut. Ich gebe euch etwas von meinem Werkzeug mit, dann könnt ihr solche Operationen künftig auch selber durchführen... Jetzt aber nichts wie hoch. Ihr seht aus, als könntet ihr noch den ein oder anderen Grog gebrauchen.\"\n\nOben angekommen, kommen plötzlich drei Kerle in das Lokal. Sie sehen merkwürdig echsenartig aus und scheinen nicht gerade zum Spaßen aufgelegt zu sein. Dem größten von ihnen fehlt ein Arm/Bein. Schnellen Schrittes kommt er auf den alten Seemann zu.\n\"Duuuu hasssst meeeinen Aaarrrrrm / meeiinn Beiiinnn gestolen! Daaassss giiibt Raaacheee!\" \n\nLangsam dämmert euch, dass der \"großzügige Spender\" von dem der Seemann gesprochen hat, seinen Arm vielleicht doch nicht aus freien Stücken abgegeben hatte. Was sollt ihr nur tun?\n\n[[Versteckt euch hinter dem Tresen.]]\n\n[[Sprecht die Kerle an und versucht die Situation zu klären.]]\n\n[[Versohlt den Kerlen den Hintern.]]",
-      "links": [
-        {
-          "name": "Versteckt euch hinter dem Tresen.",
-          "link": "Versteckt euch hinter dem Tresen.",
-          "pid": "13"
-        },
-        {
-          "name": "Sprecht die Kerle an und versucht die Situation zu klären.",
-          "link": "Sprecht die Kerle an und versucht die Situation zu klären.",
-          "pid": "14"
-        },
-        {
-          "name": "Versohlt den Kerlen den Hintern.",
-          "link": "Versohlt den Kerlen den Hintern.",
-          "pid": "15"
-        }
-      ],
-      "name": "Lasst ihn euch zusammenflicken.",
-      "pid": "12",
-      "position": {
-        "x": "1284",
-        "y": "1217"
-      }
-    },
-    {
-      "text": "Leider ist CHARAKTERNAME noch etwas unbeholfen mit dem neuen Körperteil und stößt beim Verstecken gegen ein Glas. Sofort schauen sich die drei Kerle nach euch um und als sie den schuppigen Arm/ das schuppige Bein entdecken, stürzen sie auf euch zu.\n\n[[Versohlt den Kerlen den Hintern.]]",
+      "text": "Leider ist CHARAKTERNAME noch etwas unbeholfen mit dem neuen Körperteil und stößt beim Verstecken gegen ein Glas. Sofort schauen sich die drei Kerle nach euch um und als sie den schuppigen Arm entdecken, stürzen sie auf euch zu.\n\n[[Versohlt den Kerlen den Hintern.->Bewerft die Kerle mit eurem Krug.]]",
       "links": [
         {
           "name": "Versohlt den Kerlen den Hintern.",
-          "link": "Versohlt den Kerlen den Hintern.",
-          "pid": "15"
+          "link": "Bewerft die Kerle mit eurem Krug.",
+          "pid": "67"
         }
       ],
       "name": "Versteckt euch hinter dem Tresen.",
-      "pid": "13",
+      "pid": "9",
       "position": {
-        "x": "1413",
-        "y": "1365"
+        "x": "1112",
+        "y": "1576"
       }
     },
     {
-      "text": "Einen Moment lang wirkt es so, als würden sich die drei etwas beruhigen. Doch als sie den schuppigen Arm/ das schuppige Bein an euch sehen, stürzen sie sofort auf euch zu.\n\n[[Versohlt den Kerlen den Hintern.]]",
+      "text": "Einen Moment lang wirkt es so, als würden sich die drei etwas beruhigen. Doch als sie den schuppigen Arm/ das schuppige Bein an euch sehen, stürzen sie sofort auf euch zu.\n\n[[Versohlt den Kerlen den Hintern.->Bewerft die Kerle mit eurem Krug.]]",
       "links": [
         {
           "name": "Versohlt den Kerlen den Hintern.",
-          "link": "Versohlt den Kerlen den Hintern.",
-          "pid": "15"
+          "link": "Bewerft die Kerle mit eurem Krug.",
+          "pid": "67"
         }
       ],
       "name": "Sprecht die Kerle an und versucht die Situation zu klären.",
-      "pid": "14",
+      "pid": "10",
       "position": {
-        "x": "1133",
-        "y": "1367"
+        "x": "821",
+        "y": "1581"
       }
     },
     {
-      "text": "Hinweis: \nEs kann passieren, dass ihr nach einem Dialog mit Gegnern kämpfen müsst. In diesem Fall wird das Kampfsymbol SYMBOL IM TEXT in der oberen\nlinken Ecke der App angezeigt und die zu bekämpfenden Gegner sind auf dem Bildschirm zu sehen. Jeder Gegner hat eine vorgegebene Anzahl an Lebenspunkten. Ein Gegner ist besiegt, wenn seine Lebenspunkte auf 0 sinken.\nUm zu kämpfen müssen die Abenteurer ihre Körperteile einsetzen. Auf jeder Körperteil-Karte sind eine Würfelkombination sowie ein zugehöriger Effekt abgebildet.\nIm Kampf würfelt ihr für jeden Abenteurer einzeln und versucht so die Würfelkombination auf einer seiner Körperteil-Karten zu erreichen. Dafür stehen jedem Abenteurer seine 5 Kampfwürfel zur Verfügung. Ihr dürft dabei jeweils bis zu dreimal würfeln. Für den ersten Wurf nehmt ihr alle 5 Würfel. Dann entscheidet ihr euch, welche der 5 Würfel ihr behalten und welche ihr im zweiten Wurf neu würfeln wollt. Nach dem zweiten Wurf dürft ihr euch erneut entscheiden, welche der 5 Würfel ihr behalten wollt und welche ihr für den dritten und letzten Wurf neu würfeln wollt.\nWenn ihr mit eurem Wurf zufrieden seid, könnt ihr auf weitere Würfe verzichten.\nNach eurem letzten Wurf überprüft ihr, ob ihr mit eurem Würfelergebnis eine der Würfelkombinationen auf euren Körperteil-Karten bilden könnt. Könnt ihr mehrere Kombinationen erfüllen, müsst ihr euch für eines der Körperteile entscheiden. Der Effekt des gewählten Körperteils wird dann im Kampf aktiviert.\nKönnt ihr mit euren Würfeln nach den drei Würfen keine der Würfelkombinationen eures Abenteurers bilden, könnt ihr in diesem Kampf leider keinen Schaden verursachen.\nDer Kampf wird ausgehend vom Käpt’n im Uhrzeigersinn\nausgewertet. Dabei wenden die Spieler die Effekte ihres zuvor ausgewählten Körperteils auf die Gegner an. Um Gegnern Schaden zuzufügen, wird der Schadenswert in der App eingegeben und anschließend das Ziel gewählt. Hat der letzte Spieler seinen Effekt benutzt oder sind bereits zuvor alle Gegner besiegt worden, bestätigt ihr den Ausgang des Kampfesmit dem „Kampf beendet!“ Button.\n\n\n\n[[Kampf gegen die drei Kerle gewonnen]]\n\n[[Kampf gegen die drei Kerle verloren]]",
+      "text": "Bevor ihr aufbrecht, gibt der Seemann euch noch ein paar Vorräte für die Reise mit (nehmt 7 Rationen aus dem Beutel in euer Rationsfass).\nZum Abschied rät euch der alte Seemann: \"Um mehr über den Schatz von Harta Karun zu erfahren, fahrt zum verlassenen Leuchtturm und besucht Menara die Waise. Viel Glück und kommt bald zurück!\"\n\n[[Weiter->Keine Sorge, wir kommen bald mit dem Schatz zurück!]]",
       "links": [
         {
-          "name": "Kampf gegen die drei Kerle gewonnen",
-          "link": "Kampf gegen die drei Kerle gewonnen",
-          "pid": "16"
-        },
-        {
-          "name": "Kampf gegen die drei Kerle verloren",
-          "link": "Kampf gegen die drei Kerle verloren",
-          "pid": "17"
-        }
-      ],
-      "name": "Versohlt den Kerlen den Hintern.",
-      "pid": "15",
-      "position": {
-        "x": "1273",
-        "y": "1510"
-      }
-    },
-    {
-      "text": "Ihr erhaltet die Körperteile X, Y und Z.\n\n[[Jetzt lasst uns schnell packen und uns auf die Suche nach dem Schatz machen.]]",
-      "links": [
-        {
-          "name": "Jetzt lasst uns schnell packen und uns auf die Suche nach dem Schatz machen.",
-          "link": "Jetzt lasst uns schnell packen und uns auf die Suche nach dem Schatz machen.",
-          "pid": "18"
-        }
-      ],
-      "name": "Kampf gegen die drei Kerle gewonnen",
-      "pid": "16",
-      "position": {
-        "x": "1203",
-        "y": "1650"
-      }
-    },
-    {
-      "text": "Ihr verliert jeder 1 Körperteil (entsprechend der Position des schuppigen Körperteils)\nDer alte Seemann gibt euch als Entschädigung X Rationen.\n\n[[Jetzt lasst uns schnell packen und uns auf die Suche nach dem Schatz machen.]]",
-      "links": [
-        {
-          "name": "Jetzt lasst uns schnell packen und uns auf die Suche nach dem Schatz machen.",
-          "link": "Jetzt lasst uns schnell packen und uns auf die Suche nach dem Schatz machen.",
-          "pid": "18"
-        }
-      ],
-      "name": "Kampf gegen die drei Kerle verloren",
-      "pid": "17",
-      "position": {
-        "x": "1363",
-        "y": "1652"
-      }
-    },
-    {
-      "text": "Bevor ihr aufbrecht, gibt der Seemann euch noch ein paar Vorräte für die Reise mit (nehmt 5 Rationen aus dem Beutel in euer Rationsfass).\nZum Abschied rät euch der alte Seemann: \"Um mehr über den Schatz von Harta Karun zu erfahren, fahrt zum verlassenen Leuchtturm und besucht Natanja die Waise.\"\nAls wir ablegen, wird der Alte fast ein bisschen sentimental.\n\n[[Keine Sorge, wir kommen bald mit dem Schatz zurück!]]",
-      "links": [
-        {
-          "name": "Keine Sorge, wir kommen bald mit dem Schatz zurück!",
+          "name": "Weiter",
           "link": "Keine Sorge, wir kommen bald mit dem Schatz zurück!",
-          "pid": "19"
+          "pid": "12"
         }
       ],
       "name": "Jetzt lasst uns schnell packen und uns auf die Suche nach dem Schatz machen.",
-      "pid": "18",
+      "pid": "11",
       "position": {
-        "x": "1279",
-        "y": "1805"
+        "x": "943",
+        "y": "1936"
       }
     },
     {
-      "text": "[[Hauptmission: Verlassener Leuchtturm]]\n[[Nebenmission: Meerjungfrau gesichtet]]\n[[Nebenmission: Dichter Nebel]]",
+      "text": "[[Hauptmission: Verlassener Leuchtturm]]",
       "links": [
         {
           "name": "Hauptmission: Verlassener Leuchtturm",
           "link": "Hauptmission: Verlassener Leuchtturm",
-          "pid": "20"
-        },
-        {
-          "name": "Nebenmission: Meerjungfrau gesichtet",
-          "link": "Nebenmission: Meerjungfrau gesichtet",
-          "pid": "21"
-        },
-        {
-          "name": "Nebenmission: Dichter Nebel",
-          "link": "Nebenmission: Dichter Nebel",
-          "pid": "29"
+          "pid": "13"
         }
       ],
       "name": "Keine Sorge, wir kommen bald mit dem Schatz zurück!",
-      "pid": "19",
+      "pid": "12",
       "position": {
-        "x": "1279",
-        "y": "1980"
+        "x": "941",
+        "y": "2098"
       }
     },
     {
-      "text": "Schon von Weitem könnt ihr den einsamen Leuchtturm erkennen. Ihr geht an Land und klopft an die rostige Tür am Fuße des Turms.\nDann hört ihr von hoch oben eine kindliche Stimme. Ein Mädchen steckt ihren Kopf zum Fenster heraus. Ihr seht, dass ihre Haare lichterloh in Flammen stehen. Doch das Mädchen scheint eure geschockten Blicke zu erahnen und ruft: \"Macht euch keine Sorgen. Ich bin Natanja die Waise und weise den Schiffen den Weg in dieser ungezähmten Gegend. Was verschlägt euch zu mir?\"\n\n[[Wir sind auf der Suche nach dem Schatz von Harta Karun.]]\n\n[[Erzähl uns mehr über dich.]]",
+      "text": "Schon von Weitem könnt ihr den einsamen Leuchtturm erkennen. Ihr geht an Land und klopft an die rostige Tür am Fuße des Turms.\nDann hört ihr von hoch oben eine kindliche Stimme. Ein Mädchen steckt seinen Kopf zum Fenster heraus. Ihr seht, dass ihre Haare lichterloh in Flammen stehen. Doch das Mädchen scheint eure geschockten Blicke zu erahnen und ruft: \"Macht euch keine Sorgen. Ich bin Menara die Waise und weise den Schiffen den Weg in dieser ungezähmten Gegend. Was verschlägt euch zu mir?\"\n\n[[\"Wir sind auf der Suche nach dem Schatz von Harta Karun.\"]]\n[[\"Ein alter einbeiniger Seemann hat uns geschickt.\"]]",
       "links": [
         {
-          "name": "Wir sind auf der Suche nach dem Schatz von Harta Karun.",
-          "link": "Wir sind auf der Suche nach dem Schatz von Harta Karun.",
-          "pid": "22"
+          "name": "\"Wir sind auf der Suche nach dem Schatz von Harta Karun.\"",
+          "link": "\"Wir sind auf der Suche nach dem Schatz von Harta Karun.\"",
+          "pid": "15"
         },
         {
-          "name": "Erzähl uns mehr über dich.",
-          "link": "Erzähl uns mehr über dich.",
-          "pid": "23"
+          "name": "\"Ein alter einbeiniger Seemann hat uns geschickt.\"",
+          "link": "\"Ein alter einbeiniger Seemann hat uns geschickt.\"",
+          "pid": "73"
         }
       ],
       "name": "Hauptmission: Verlassener Leuchtturm",
-      "pid": "20",
+      "pid": "13",
       "position": {
-        "x": "1269",
-        "y": "2143"
+        "x": "933",
+        "y": "2263"
       }
     },
     {
-      "text": "Double-click this passage to edit it.",
+      "text": "Eigentlich sollte das Wasser hier hunderte Meter tief sein und doch ragt dort drüben mitten im Ozean ein Stein aus dem Wasser. Als ihr ihn euch genauer anseht, könnt ihr euren Augen nicht trauen. Dort sitzt eine wunderschöne Meerjungfrau und spielt auf ihrer Flöte.\n\n[[Fahrt näher an sie heran und lauscht ihrem Spiel.]]\n[[Ignoriert sie und fahrt einfach weiter.->Angekommen auf Kura-Kura]]",
+      "links": [
+        {
+          "name": "Fahrt näher an sie heran und lauscht ihrem Spiel.",
+          "link": "Fahrt näher an sie heran und lauscht ihrem Spiel.",
+          "pid": "77"
+        },
+        {
+          "name": "Ignoriert sie und fahrt einfach weiter.",
+          "link": "Angekommen auf Kura-Kura",
+          "pid": "34"
+        }
+      ],
       "name": "Nebenmission: Meerjungfrau gesichtet",
-      "pid": "21",
+      "pid": "14",
       "position": {
-        "x": "1992",
-        "y": "2133"
+        "x": "1404",
+        "y": "3321"
       }
     },
     {
-      "text": "\"Harta Karun ist eine unheimliche Bestie. Man sagt, sie hütet seit Jahrhunderten einen unvorstellbaren Schatz. Aber niemand hat ihn je zu Gesicht bekommen... so wie ich meine Eltern nie zu Gesicht bekommen habe. Deshalb werde ich so lange brennen, bis sie mich endlich finden.\"\n\n\n[[Erzähl uns mehr über dich.]]\n[[Erzähl uns mehr über den Schatz.]]",
+      "text": "\"Harta Karun ist eine unheimliche Bestie. Ab und an sehe ich ihren grausigen Schatten durch das Wasser huschen. Seit Jahrhunderten treibt sie in dieser Gegend ihr Unwesen und hütet ihren Schatz. Unzählige mutige Seemänner und -frauen sind ihr schon zum Opfer gefallen oder werden vermisst. So auch meine Eltern, doch ich werde so lange hier im Turm brennen, bis ich sie endlich finde.\"\n\n[[\"Erzähl uns mehr über dich.\"]]\n[[\"Erzähl uns mehr über den Schatz.\"]]",
       "links": [
         {
-          "name": "Erzähl uns mehr über dich.",
-          "link": "Erzähl uns mehr über dich.",
-          "pid": "23"
+          "name": "\"Erzähl uns mehr über dich.\"",
+          "link": "\"Erzähl uns mehr über dich.\"",
+          "pid": "16"
         },
         {
-          "name": "Erzähl uns mehr über den Schatz.",
-          "link": "Erzähl uns mehr über den Schatz.",
-          "pid": "24"
+          "name": "\"Erzähl uns mehr über den Schatz.\"",
+          "link": "\"Erzähl uns mehr über den Schatz.\"",
+          "pid": "17"
         }
       ],
-      "name": "Wir sind auf der Suche nach dem Schatz von Harta Karun.",
-      "pid": "22",
+      "name": "\"Wir sind auf der Suche nach dem Schatz von Harta Karun.\"",
+      "pid": "15",
       "position": {
-        "x": "1137",
-        "y": "2276"
+        "x": "848",
+        "y": "2395"
       }
     },
     {
-      "text": "\"Seit ich denken kann, bin ich allein in diesem Turm. Jeden Tag und jede Nacht halte ich hier nach meinen Eltern Ausschau, wie es mir die alte Menara geraten hat. Erst, wenn wir uns gefunden haben, werden die Flammen auf meinen Haaren zur Ruhe kommen.\"\n\n[[Erzähl uns mehr über die alte Menara]]\n[[Wie können wir dir helfen?]]\n[[Kannst du uns den Weg zum Schatz weisen?]]",
+      "text": "\"Seit ich denken kann, bin ich allein in diesem Turm. Jeden Tag und jede Nacht halte ich hier nach meinen Eltern Ausschau, wie es mir die alte Hamba geraten hat. Erst, wenn ich sie gefunden habe, werden die Flammen auf meinen Haaren zur Ruhe kommen.\"\n\n[[\"Erzähl uns mehr über die alte Hamba\"]]\n[[\"Wie können wir dir helfen?\"]]\n[[\"Kannst du uns den Weg zum Schatz weisen?\"]]",
       "links": [
         {
-          "name": "Erzähl uns mehr über die alte Menara",
-          "link": "Erzähl uns mehr über die alte Menara",
-          "pid": "25"
+          "name": "\"Erzähl uns mehr über die alte Hamba\"",
+          "link": "\"Erzähl uns mehr über die alte Hamba\"",
+          "pid": "54"
         },
         {
-          "name": "Wie können wir dir helfen?",
-          "link": "Wie können wir dir helfen?",
-          "pid": "26"
+          "name": "\"Wie können wir dir helfen?\"",
+          "link": "\"Wie können wir dir helfen?\"",
+          "pid": "18"
         },
         {
-          "name": "Kannst du uns den Weg zum Schatz weisen?",
-          "link": "Kannst du uns den Weg zum Schatz weisen?",
-          "pid": "27"
+          "name": "\"Kannst du uns den Weg zum Schatz weisen?\"",
+          "link": "\"Kannst du uns den Weg zum Schatz weisen?\"",
+          "pid": "19"
         }
       ],
-      "name": "Erzähl uns mehr über dich.",
-      "pid": "23",
+      "name": "\"Erzähl uns mehr über dich.\"",
+      "pid": "16",
       "position": {
-        "x": "1265",
-        "y": "2411"
+        "x": "942",
+        "y": "2544"
       }
     },
     {
-      "text": "Man sagt, Harta Karun sei ein uraltes Ungeheuer, das schon seit Menschengedenken in dieser Gegend sein Unwesen treibt. Unzählige mutige Seemänner und -frauen sind ihm schon zum Opfer gefallen.\nEs gibt viele Geschichten über den Schatz den sie bewacht, aber niemand kann mit Sicherheit sagen, um was es sich dabei tatsächlich handelt. Manch einer bezweifelt gar, dass es diesen Schatz wirklich gibt...\n\n[[Kannst du uns den Weg zum Schatz weisen?]]",
+      "text": "\"Es gibt viele Geschichten über den Schatz den Harta Karun bewacht, aber niemand kann mit Sicherheit sagen, um was es sich dabei tatsächlich handelt. Legenden besagen, dass der Schatz der Schlüssel zu ewigem Leben ist. \nWenn ihr wirklich danach suchen wollt, fahrt am besten nach Kura-Kura. Dort fristen einige arme Seelen ihr Dasein, die wie ihr auf der Suche nach dem Schatz waren und dabei neben Körperteilen auch den Verstand verloren haben.\"\n\n[[Auf nach Kura-Kura]]",
       "links": [
         {
-          "name": "Kannst du uns den Weg zum Schatz weisen?",
-          "link": "Kannst du uns den Weg zum Schatz weisen?",
-          "pid": "27"
+          "name": "Auf nach Kura-Kura",
+          "link": "Auf nach Kura-Kura",
+          "pid": "20"
         }
       ],
-      "name": "Erzähl uns mehr über den Schatz.",
-      "pid": "24",
+      "name": "\"Erzähl uns mehr über den Schatz.\"",
+      "pid": "17",
       "position": {
-        "x": "1023",
-        "y": "2402"
+        "x": "651",
+        "y": "2688"
       }
     },
     {
-      "text": "Manche sagen, Menara sei eine gemeine Hexe, aber ich weiß, dass das nicht stimmt. Sonst würde sie nicht jede Nacht zu mir kommen und mir von meinen Eltern erzählen.\nSie wohnt auf einer einsamen Insel mit großen Klippen.\n\n[[Wie können wir dir helfen?]]\n[[Kannst du uns den Weg zum Schatz weisen?]]",
+      "text": "\"Ach ich glaube, niemand kann mir in meiner Lage helfen.\" Als das Mädchen schluchtzt, sprühen feine Funken aus ihren Haaren. Dann fasst es sich wieder. \"Aber eines Tages werden mich meine Eltern finden, so wie es Hamba prophezeit hat.\"\n\n[[\"Wenn wir etwas über sie herausfinden, werden wir es dir berichten.\"]]",
       "links": [
         {
-          "name": "Wie können wir dir helfen?",
-          "link": "Wie können wir dir helfen?",
-          "pid": "26"
-        },
-        {
-          "name": "Kannst du uns den Weg zum Schatz weisen?",
-          "link": "Kannst du uns den Weg zum Schatz weisen?",
-          "pid": "27"
+          "name": "\"Wenn wir etwas über sie herausfinden, werden wir es dir berichten.\"",
+          "link": "\"Wenn wir etwas über sie herausfinden, werden wir es dir berichten.\"",
+          "pid": "21"
         }
       ],
-      "name": "Erzähl uns mehr über die alte Menara",
-      "pid": "25",
+      "name": "\"Wie können wir dir helfen?\"",
+      "pid": "18",
       "position": {
-        "x": "1117",
-        "y": "2580"
-      }
-    },
-    {
-      "text": "\"Ach ich glaube, niemand kann mir in meiner Lage helfen.\" Als das Mädchen schluchtst, sprühen feine Funken aus ihren Haaren. Dass fasst es sich wieder. \"Aber eines Tages werden mich meine Eltern finden, so wie es Menara prophezeit hat.\"\n\n[[Wenn wir etwas über sie herausfinden, werden wir es dir berichten.]]",
-      "links": [
-        {
-          "name": "Wenn wir etwas über sie herausfinden, werden wir es dir berichten.",
-          "link": "Wenn wir etwas über sie herausfinden, werden wir es dir berichten.",
-          "pid": "30"
-        }
-      ],
-      "name": "Wie können wir dir helfen?",
-      "pid": "26",
-      "position": {
-        "x": "1270",
-        "y": "2696"
+        "x": "934",
+        "y": "2816"
       }
     },
     {
@@ -485,49 +349,35 @@
         {
           "name": "Auf nach Kura-Kura",
           "link": "Auf nach Kura-Kura",
-          "pid": "28"
+          "pid": "20"
         }
       ],
-      "name": "Kannst du uns den Weg zum Schatz weisen?",
-      "pid": "27",
+      "name": "\"Kannst du uns den Weg zum Schatz weisen?\"",
+      "pid": "19",
       "position": {
-        "x": "883",
-        "y": "2704"
+        "x": "1083",
+        "y": "2832"
       }
     },
     {
-      "text": "Kura-Kura ist eine von zahlreichen Hügeln überzogene fast kreisrunde Insel. Als ihr anlegen wollt, kommt eine Horde merkwürdig aussehender Menschen auf euch zu. Doch irgendwas an ihnen kommt euch merkwürdig vor.\n\n[[Legt lieber direkt wieder ab und kommt später wieder.->Na gut. Wir legen wieder ab.]]\n[[Geht auf die Horde zu. Es wird schon nichts passieren.]]\n[[Rennt sicherheitshalber erst einmal auf einen der Hügel.]]",
+      "text": "(Legt den Hauptmissionsmarker auf das Feld \"Kura-Kura\")\n\n[[Angekommen auf Kura-Kura]]\n\n[[Nebenmission: Meerjungfrau gesichtet]]",
       "links": [
         {
-          "name": "Legt lieber direkt wieder ab und kommt später wieder.",
-          "link": "Na gut. Wir legen wieder ab.",
-          "pid": "38"
+          "name": "Angekommen auf Kura-Kura",
+          "link": "Angekommen auf Kura-Kura",
+          "pid": "34"
         },
         {
-          "name": "Geht auf die Horde zu. Es wird schon nichts passieren.",
-          "link": "Geht auf die Horde zu. Es wird schon nichts passieren.",
-          "pid": "31"
-        },
-        {
-          "name": "Rennt sicherheitshalber erst einmal auf einen der Hügel.",
-          "link": "Rennt sicherheitshalber erst einmal auf einen der Hügel.",
-          "pid": "32"
+          "name": "Nebenmission: Meerjungfrau gesichtet",
+          "link": "Nebenmission: Meerjungfrau gesichtet",
+          "pid": "14"
         }
       ],
       "name": "Auf nach Kura-Kura",
-      "pid": "28",
+      "pid": "20",
       "position": {
-        "x": "1267",
-        "y": "3031"
-      }
-    },
-    {
-      "text": "Double-click this passage to edit it.",
-      "name": "Nebenmission: Dichter Nebel",
-      "pid": "29",
-      "position": {
-        "x": "2757",
-        "y": "2129"
+        "x": "931",
+        "y": "3149"
       }
     },
     {
@@ -536,194 +386,2620 @@
         {
           "name": "Auf nach Kura-Kura",
           "link": "Auf nach Kura-Kura",
-          "pid": "28"
+          "pid": "20"
         }
       ],
-      "name": "Wenn wir etwas über sie herausfinden, werden wir es dir berichten.",
-      "pid": "30",
+      "name": "\"Wenn wir etwas über sie herausfinden, werden wir es dir berichten.\"",
+      "pid": "21",
       "position": {
-        "x": "1270",
-        "y": "2861"
+        "x": "927",
+        "y": "2952"
       }
     },
     {
-      "text": "Als ihr ihnen näherkommt, fallen euch besonders die leeren Blicke der Menschen auf. Völlig in den Bann gezogen, seid ihr wie hypnotisiert und passt euch den rhythmischen Schritten der Horde an. Plötzlich steht ihr ihnen direkt gegenüber.\n\n[[Lasst den Charmeur mit ihnen reden, um sie von eurer friedlichen Absicht zu überzeugen.]]\n[[Lasst die Kämpferin all ihre Willenskraft aufbringen, um sich von den Blicken der Horde loszureißen.]]",
+      "text": "Als ihr ihnen näherkommt, fallen euch besonders die leeren Blicke der Menschen auf. Völlig in den Bann gezogen, seid ihr wie hypnotisiert und passt euch den rhythmischen Schritten der Horde an. Plötzlich steht ihr ihnen direkt gegenüber.\n\n[[Lasst den Charmeur mit ihnen reden, um sie von eurer friedlichen Absicht zu überzeugen.]]\n[[Lasst die Kämpferin all ihre Willenskraft aufbringen, um sich von den Blicken der Gruppe loszureißen.]]",
       "links": [
         {
           "name": "Lasst den Charmeur mit ihnen reden, um sie von eurer friedlichen Absicht zu überzeugen.",
           "link": "Lasst den Charmeur mit ihnen reden, um sie von eurer friedlichen Absicht zu überzeugen.",
-          "pid": "33"
+          "pid": "24"
         },
         {
-          "name": "Lasst die Kämpferin all ihre Willenskraft aufbringen, um sich von den Blicken der Horde loszureißen.",
-          "link": "Lasst die Kämpferin all ihre Willenskraft aufbringen, um sich von den Blicken der Horde loszureißen.",
-          "pid": "34"
+          "name": "Lasst die Kämpferin all ihre Willenskraft aufbringen, um sich von den Blicken der Gruppe loszureißen.",
+          "link": "Lasst die Kämpferin all ihre Willenskraft aufbringen, um sich von den Blicken der Gruppe loszureißen.",
+          "pid": "25"
         }
       ],
-      "name": "Geht auf die Horde zu. Es wird schon nichts passieren.",
-      "pid": "31",
+      "name": "Geht auf die Gruppe zu. Es wird schon nichts passieren.",
+      "pid": "22",
       "position": {
-        "x": "1095",
-        "y": "3242"
+        "x": "684",
+        "y": "4837"
       }
     },
     {
-      "text": "Ohne euch nach ihr umzusehen, lauft ihr so schnell es geht an der Horde vorbei. Auf dem Hügel angekommen, seht ihr, wie sich die Horde langsam zu euch umdreht und in rhythmischen Bewegungen auf euch zu kommt.\n\n[[Lasst den Doktor eine Falle für die Horde errichten.]]\n[[Lasst die Spionin sich heimlich verstecken und der Horde auflauern.]] ",
+      "text": "Ohne euch nach ihr umzusehen, lauft ihr so schnell es geht an der Horde vorbei. Auf dem Hügel angekommen, seht ihr, wie sich die Gruppe langsam zu euch umdreht und in rhythmischen Bewegungen auf euch zu kommt.\n\n[[Lasst den Doktor eine Falle für die Horde errichten.]]\n[[Lasst die Diebin sich heimlich verstecken und der Horde auflauern.]] ",
       "links": [
         {
           "name": "Lasst den Doktor eine Falle für die Horde errichten.",
           "link": "Lasst den Doktor eine Falle für die Horde errichten.",
-          "pid": "35"
+          "pid": "26"
         },
         {
-          "name": "Lasst die Spionin sich heimlich verstecken und der Horde auflauern.",
-          "link": "Lasst die Spionin sich heimlich verstecken und der Horde auflauern.",
-          "pid": "36"
+          "name": "Lasst die Diebin sich heimlich verstecken und der Horde auflauern.",
+          "link": "Lasst die Diebin sich heimlich verstecken und der Horde auflauern.",
+          "pid": "27"
         }
       ],
       "name": "Rennt sicherheitshalber erst einmal auf einen der Hügel.",
-      "pid": "32",
+      "pid": "23",
       "position": {
-        "x": "1257",
-        "y": "3211"
+        "x": "866",
+        "y": "4833"
       }
     },
     {
-      "text": "Zunächst wirkt die Rede des Charmeurs keine Wirkung auf die Horde zu haben. Doch als er den Schatz von Harta Karun erwähnt, geht ein Schaudern durch die Horde.\n\"Verschwindet! Macht, dass ihr so weit weg von hier kommt, wie es nur geht! Und redet nie wieder von diesem Schatz... denkt nicht einmal daran\"\n\n[[Aber was hat es denn mit dem Schatz auf sich?->Es kommt zum Kampf mit drei von den Verrückten.]]\n[[Warum sollen wir nicht über den Schatz sprechen?->Es kommt zum Kampf mit drei von den Verrückten.]]\n[[Na gut. Wir legen wieder ab.]]",
+      "text": "Zunächst scheint die Rede des Charmeurs keine Wirkung auf die Gruppe zu haben. Doch als er den Schatz von Harta Karun erwähnt, geht ein Schaudern durch die Gruppe.\n\"Verschwindet! Macht, dass ihr so weit weg von hier kommt, wie es nur geht! Und erwähnt diesen Schatz nie wieder!\"\n\n[[Aber was hat es denn mit dem Schatz von Harta Karun auf sich?->Es kommt zum Kampf mit vier der Verrückten.]]\n[[Warum sollen wir nicht über den Schatz von Harta Karun sprechen?->Es kommt zum Kampf mit vier der Verrückten.]]\n[[Na gut. Wir legen wieder ab.]]",
       "links": [
         {
-          "name": "Aber was hat es denn mit dem Schatz auf sich?",
-          "link": "Es kommt zum Kampf mit drei von den Verrückten.",
-          "pid": "37"
+          "name": "Aber was hat es denn mit dem Schatz von Harta Karun auf sich?",
+          "link": "Es kommt zum Kampf mit vier der Verrückten.",
+          "pid": "28"
         },
         {
-          "name": "Warum sollen wir nicht über den Schatz sprechen?",
-          "link": "Es kommt zum Kampf mit drei von den Verrückten.",
-          "pid": "37"
+          "name": "Warum sollen wir nicht über den Schatz von Harta Karun sprechen?",
+          "link": "Es kommt zum Kampf mit vier der Verrückten.",
+          "pid": "28"
         },
         {
           "name": "Na gut. Wir legen wieder ab.",
           "link": "Na gut. Wir legen wieder ab.",
-          "pid": "38"
+          "pid": "29"
         }
       ],
       "name": "Lasst den Charmeur mit ihnen reden, um sie von eurer friedlichen Absicht zu überzeugen.",
-      "pid": "33",
+      "pid": "24",
       "position": {
-        "x": "889",
-        "y": "3405"
+        "x": "459",
+        "y": "5017"
       }
     },
     {
-      "text": "Der Kämpferin gelingt es tatsächlich irgendwie sich von den leeren Blicken der Horde loszureißen. Sofort haut sie zweien auf die Mütze. Die anderen weichen zurück und nun könnt ihr euch alle wieder fangen.\n\n[[Es kommt zum Kampf mit drei von den Verrückten.]]",
+      "text": "Der Kämpferin gelingt es tatsächlich irgendwie, sich von den leeren Blicken der Gruppe loszureißen. Sofort haut sie zweien auf die Mütze. Die Verrückten weichen zurück und nun könnt ihr euch alle wieder fangen. Doch nach dem ersten Schrecken stürzen sich die übrigen vier aus der Gruppe auf euch. \n\n3 | 3 | 3 | 3\n\n\n<6 Würfelrunden:\t-4 zufällige Körperteile, +3 Körperteile (Taucherhose (21), Scherenarm (22), Affenarm (24))\n=6 Würfelrunden:\t-4 zufällige Körperteile +2 Körperteile (Taucherhose (21), Scherenarm (22))\n>6 Würfelrunden:\t-4 zufällige Körperteile, +1 Körperteil (Taucherhose (21))\n\n[[Kampf gegen die Verrückten gewonnen.]]\n[[Kampf gegen die Verrückten verloren.]]",
       "links": [
         {
-          "name": "Es kommt zum Kampf mit drei von den Verrückten.",
-          "link": "Es kommt zum Kampf mit drei von den Verrückten.",
-          "pid": "37"
-        }
-      ],
-      "name": "Lasst die Kämpferin all ihre Willenskraft aufbringen, um sich von den Blicken der Horde loszureißen.",
-      "pid": "34",
-      "position": {
-        "x": "1029",
-        "y": "3412"
-      }
-    },
-    {
-      "text": "Nur Doktor:\n[[Baue eine Falle aus Draht.]]\n[[Buddle ein Loch.]]",
-      "links": [
-        {
-          "name": "Baue eine Falle aus Draht.",
-          "link": "Baue eine Falle aus Draht.",
-          "pid": "41"
+          "name": "Kampf gegen die Verrückten gewonnen.",
+          "link": "Kampf gegen die Verrückten gewonnen.",
+          "pid": "40"
         },
         {
-          "name": "Buddle ein Loch.",
-          "link": "Buddle ein Loch.",
-          "pid": "42"
+          "name": "Kampf gegen die Verrückten verloren.",
+          "link": "Kampf gegen die Verrückten verloren.",
+          "pid": "41"
+        }
+      ],
+      "name": "Lasst die Kämpferin all ihre Willenskraft aufbringen, um sich von den Blicken der Gruppe loszureißen.",
+      "pid": "25",
+      "position": {
+        "x": "617",
+        "y": "5006"
+      }
+    },
+    {
+      "text": "Nur Doktor:\n[[Baue eine Stolperfalle aus Draht.]]\n[[Platziere Elektroschocker auf dem Boden.]]",
+      "links": [
+        {
+          "name": "Baue eine Stolperfalle aus Draht.",
+          "link": "Baue eine Stolperfalle aus Draht.",
+          "pid": "32"
+        },
+        {
+          "name": "Platziere Elektroschocker auf dem Boden.",
+          "link": "Platziere Elektroschocker auf dem Boden.",
+          "pid": "35"
         }
       ],
       "name": "Lasst den Doktor eine Falle für die Horde errichten.",
-      "pid": "35",
+      "pid": "26",
       "position": {
-        "x": "1446",
-        "y": "3417"
+        "x": "1035",
+        "y": "5012"
       }
     },
     {
-      "text": "Als die Horde schließlich bei euch ankommt, ist die Spionin nicht mehr zu sehen. Ihr anderen werdet aber plötzlich in den Bann der Horde gezogen, als ihr in die leeren Blicke der Verrückten schaut. Völlig in den Bann gezogen, seid ihr wie hypnotisiert und passt euch den rhythmischen Schritten der Horde an.\n\nnur Spionin:\n[[Greife die Horde aus dem Hinterhalt an.]]\n[[Halte dich versteckt und beobachte das Geschehen.]]",
+      "text": "Als die Gruppe schließlich bei euch ankommt, ist die Diebin nicht mehr zu sehen. Ihr anderen werdet aber plötzlich in den Bann der Gruppe gezogen, als ihr in die leeren Blicke der Verrückten schaut. Wie hypnotisiert geht ihr in rhythmischen Schritten auf die Gruppe zu.\n\nnur Diebin:\n[[Greife die Gruppe aus dem Hinterhalt an.]]\n[[Halte dich versteckt und beobachte das Geschehen.]]",
       "links": [
         {
-          "name": "Greife die Horde aus dem Hinterhalt an.",
-          "link": "Greife die Horde aus dem Hinterhalt an.",
-          "pid": "39"
+          "name": "Greife die Gruppe aus dem Hinterhalt an.",
+          "link": "Greife die Gruppe aus dem Hinterhalt an.",
+          "pid": "30"
         },
         {
           "name": "Halte dich versteckt und beobachte das Geschehen.",
           "link": "Halte dich versteckt und beobachte das Geschehen.",
-          "pid": "40"
+          "pid": "31"
         }
       ],
-      "name": "Lasst die Spionin sich heimlich verstecken und der Horde auflauern.",
+      "name": "Lasst die Diebin sich heimlich verstecken und der Horde auflauern.",
+      "pid": "27",
+      "position": {
+        "x": "782",
+        "y": "5016"
+      }
+    },
+    {
+      "text": "Als ihr den Namen ein zweites Mal aussprecht, attackieren euch vier der Verrückten.\n\"Wir haben gesagt, ihr sollt diesen Namen nie wieder benutzen!!! Das Vieh hat uns zu viel Leid angetan.\"\n\n3 | 3 | 3 | 3\n\n\n<6 Würfelrunden:\t-4 zufällige Körperteile, +3 Körperteile (Taucherhose (21), Scherenarm (22), Affenarm (24))\n=6 Würfelrunden:\t-4 zufällige Körperteile +2 Körperteile (Taucherhose (21), Scherenarm (22))\n>6 Würfelrunden:\t-4 zufällige Körperteile, +1 Körperteil (Taucherhose (21))\n\n[[Kampf gegen die Verrückten gewonnen.]]\n[[Kampf gegen die Verrückten verloren.]]",
+      "links": [
+        {
+          "name": "Kampf gegen die Verrückten gewonnen.",
+          "link": "Kampf gegen die Verrückten gewonnen.",
+          "pid": "40"
+        },
+        {
+          "name": "Kampf gegen die Verrückten verloren.",
+          "link": "Kampf gegen die Verrückten verloren.",
+          "pid": "41"
+        }
+      ],
+      "name": "Es kommt zum Kampf mit vier der Verrückten.",
+      "pid": "28",
+      "position": {
+        "x": "424",
+        "y": "5406"
+      }
+    },
+    {
+      "text": "[[Weiter->Nebenmission: Meerjungfrau gesichtet]]",
+      "links": [
+        {
+          "name": "Weiter",
+          "link": "Nebenmission: Meerjungfrau gesichtet",
+          "pid": "14"
+        }
+      ],
+      "name": "Na gut. Wir legen wieder ab.",
+      "pid": "29",
+      "position": {
+        "x": "305",
+        "y": "5129"
+      }
+    },
+    {
+      "text": "Deine Klinge macht kurzen Prozess mit zwei der Verrückten. Doch als du dich damit offenbarst, dreht sich der Rest der Horde zu dir um. Die anderen Abenteurer können sich dadurch allerdings aus dem Bann befreien und ihr kämpft gemeinsam gegen die übrigen vier aus der Gruppe.\n\n\n3 | 3 | 3 | 3\n\n<6 Würfelrunden:\t-4 zufällige Körperteile, +3 Körperteile (Taucherhose (21), Scherenarm (22), Affenarm (24))\n=6 Würfelrunden:\t-4 zufällige Körperteile +2 Körperteile (Taucherhose (21), Scherenarm (22))\n>6 Würfelrunden:\t-4 zufällige Körperteile, +1 Körperteil (Taucherhose (21))\n\n[[Kampf gegen die Verrückten gewonnen.]]\n[[Kampf gegen die Verrückten verloren.]]",
+      "links": [
+        {
+          "name": "Kampf gegen die Verrückten gewonnen.",
+          "link": "Kampf gegen die Verrückten gewonnen.",
+          "pid": "40"
+        },
+        {
+          "name": "Kampf gegen die Verrückten verloren.",
+          "link": "Kampf gegen die Verrückten verloren.",
+          "pid": "41"
+        }
+      ],
+      "name": "Greife die Gruppe aus dem Hinterhalt an.",
+      "pid": "30",
+      "position": {
+        "x": "637",
+        "y": "5179"
+      }
+    },
+    {
+      "text": "Während du im Verborgenen bleibst, werden die anderen bereits von der Gruppe angegriffen. \n\n[[Attackiere einen Nachzügler der Gruppe und versuche Informationen von ihm zu erlangen.]]\n[[Komme den anderen zur Hilfe und greife die Gruppe an.->Kampf gegen die Verrückten]]",
+      "links": [
+        {
+          "name": "Attackiere einen Nachzügler der Gruppe und versuche Informationen von ihm zu erlangen.",
+          "link": "Attackiere einen Nachzügler der Gruppe und versuche Informationen von ihm zu erlangen.",
+          "pid": "37"
+        },
+        {
+          "name": "Komme den anderen zur Hilfe und greife die Gruppe an.",
+          "link": "Kampf gegen die Verrückten",
+          "pid": "143"
+        }
+      ],
+      "name": "Halte dich versteckt und beobachte das Geschehen.",
+      "pid": "31",
+      "position": {
+        "x": "819",
+        "y": "5156"
+      }
+    },
+    {
+      "text": "Gerade rechtzeitig wird der Doktor fertig. Jetzt spannt sich ein dünner Draht unsichtbar über den Boden und als die Gruppe euch fast erreicht hat, wird die Falle ausgelöst. Verwirrt stolpert die ganze Gruppe übereinander und kugelt den Hügel wieder hinunter.\n\n[[Fragt nach dem Schatz von Harta-Karun.]]",
+      "links": [
+        {
+          "name": "Fragt nach dem Schatz von Harta-Karun.",
+          "link": "Fragt nach dem Schatz von Harta-Karun.",
+          "pid": "36"
+        }
+      ],
+      "name": "Baue eine Stolperfalle aus Draht.",
+      "pid": "32",
+      "position": {
+        "x": "975",
+        "y": "5167"
+      }
+    },
+    {
+      "text": "Sobald ihr auf ein Feld mit einem Symbol oder einem Missionsmarker zieht (auch, wenn ihr nur darüber ziehen wolltet), müsst ihr zunächst stehen bleiben und in der App das entsprechende Symbol antippen.\n\n-> Zieht jetzt auf direktem Weg nach Lanun Harbour! Dafür müsst ihr erst auf das leere Feld vor Lanun Harbour ziehen und dafür eine Ration abgeben und dann auf das Feld Lanun Harbour ziehen und dafür eine weitere Ration abgeben. Da auf dem Feld Lanun Harbour ein Missionsmarker liegt, dürft ihr nun nicht weiter ziehen, sondern müsst in der App das entsprechende Symbol antippen.\n\n[[Haupmissionsmarker-Symbol antippen]]",
+      "links": [
+        {
+          "name": "Haupmissionsmarker-Symbol antippen",
+          "link": "Haupmissionsmarker-Symbol antippen",
+          "pid": "5"
+        }
+      ],
+      "name": "Erklärung Bewegung",
+      "pid": "33",
+      "position": {
+        "x": "954",
+        "y": "731"
+      }
+    },
+    {
+      "text": "Kura-Kura ist eine hügelige Insel mit einem riesigen Totenschädel darauf. Als ihr anlegt, liegen überall verstümmelte Leichen herum. \nEine Gruppe merkwürdig aussehender Menschen kommt direkt auf euch zu.\n\n[[Geht auf die Gruppe zu. Es wird schon nichts passieren.]]\n[[Rennt sicherheitshalber erst einmal auf einen der Hügel.]]",
+      "links": [
+        {
+          "name": "Geht auf die Gruppe zu. Es wird schon nichts passieren.",
+          "link": "Geht auf die Gruppe zu. Es wird schon nichts passieren.",
+          "pid": "22"
+        },
+        {
+          "name": "Rennt sicherheitshalber erst einmal auf einen der Hügel.",
+          "link": "Rennt sicherheitshalber erst einmal auf einen der Hügel.",
+          "pid": "23"
+        }
+      ],
+      "name": "Angekommen auf Kura-Kura",
+      "pid": "34",
+      "position": {
+        "x": "856",
+        "y": "4663"
+      }
+    },
+    {
+      "text": "Kurz bevor die Gruppe zu euch gelangt, schafft es der Doktor einige seiner patentierten Elektroschocker vor euch inden Boden zu stecken. Als die Gruppe diese erreicht, werden die ersten von ihnen geschockt und sie schrecken allesamt zurück.\n\n[[Fragt nach dem Schatz von Harta-Karun.]]",
+      "links": [
+        {
+          "name": "Fragt nach dem Schatz von Harta-Karun.",
+          "link": "Fragt nach dem Schatz von Harta-Karun.",
+          "pid": "36"
+        }
+      ],
+      "name": "Platziere Elektroschocker auf dem Boden.",
+      "pid": "35",
+      "position": {
+        "x": "1124",
+        "y": "5165"
+      }
+    },
+    {
+      "text": "Durch die ohnehin schon verschreckte Gruppe geht ein Raunen. \n\"Diese Pest! Dieser Fluch! Nennt diesen Namen noch einmal, und auch eure Taschenspielertricks werden euch nicht das Leben retten!\"\n\n[[\"Aber was hat es denn mit dem Schatz von Harta Karun auf sich?\"->Es kommt zum Kampf mit vier der Verrückten.]]\n[[\"Warum sollen wir nicht über den Schatz von Harta Karun sprechen?\"->Es kommt zum Kampf mit vier der Verrückten.]]",
+      "links": [
+        {
+          "name": "\"Aber was hat es denn mit dem Schatz von Harta Karun auf sich?\"",
+          "link": "Es kommt zum Kampf mit vier der Verrückten.",
+          "pid": "28"
+        },
+        {
+          "name": "\"Warum sollen wir nicht über den Schatz von Harta Karun sprechen?\"",
+          "link": "Es kommt zum Kampf mit vier der Verrückten.",
+          "pid": "28"
+        }
+      ],
+      "name": "Fragt nach dem Schatz von Harta-Karun.",
       "pid": "36",
       "position": {
-        "x": "1193",
-        "y": "3420"
+        "x": "1061",
+        "y": "5333"
       }
     },
     {
-      "text": "Double-click this passage to edit it.",
-      "name": "Es kommt zum Kampf mit drei von den Verrückten.",
+      "text": "Du schaffst es unbemerkt einen der Verrückten zu überwältigen. Als du ihn nach dem Schatz von Harta Karun fragst heult er laut auf. Ob vom Schmerz deiner Klinge in seiner Schulter oder dem Namen des Schatzes in seinen Ohren ist dir unklar. Der Schrei zieht allerdings die Aufmerksamkeit der restlichen Gruppe auf dich! Immerhin können sich die anderen jetzt aus dem Bann der Gruppe lösen.\n\n(nur Diebin)\n[[Entledige dich deiner Geisel, bevor es zum Kampf mit dem Rest der Gruppe kommt.]]\n[[Verschone die Geisel und versuche von ihr mehr über die Horde zu erfahren.]]",
+      "links": [
+        {
+          "name": "Entledige dich deiner Geisel, bevor es zum Kampf mit dem Rest der Gruppe kommt.",
+          "link": "Entledige dich deiner Geisel, bevor es zum Kampf mit dem Rest der Gruppe kommt.",
+          "pid": "74"
+        },
+        {
+          "name": "Verschone die Geisel und versuche von ihr mehr über die Horde zu erfahren.",
+          "link": "Verschone die Geisel und versuche von ihr mehr über die Horde zu erfahren.",
+          "pid": "75"
+        }
+      ],
+      "name": "Attackiere einen Nachzügler der Gruppe und versuche Informationen von ihm zu erlangen.",
       "pid": "37",
       "position": {
-        "x": "931",
-        "y": "3582"
+        "x": "840",
+        "y": "5293"
       }
     },
     {
-      "text": "Double-click this passage to edit it.",
-      "name": "Na gut. Wir legen wieder ab.",
+      "text": "Euer Plan scheint aufzugehen. Das Schiff verliert an Geschwindigkeit. Doch den Aufprall könnt ihr trotzdem nicht verhindern. Der Einschlag wirbelt euch ganz schön durcheinander und einige Rationen fallen von Bord (legt 3 Rationen aus dem Rationsfass zurück in den Rationsbeutel). Leider war CHARACTERNAME beim Aufprall noch damit beschäftigt, ein Segel abzuschneiden und hat sich versehentlich SEINEN/IHREN Arm abgesäbelt (CHARACTERNAME muss IHREN/SEINEN linken Arm ablegen).\nIhr schwimmt an Land. Doch auf der Insel gibt es außer einigen schroffen Felsen nicht viel zu sehen. Doch als ihr die Klippe hochschaut, entdeckt ihr an der Spitze eine menschliche Silhouette.\n\n[[Ihr besteigt den Felsen.]]\n[[Ihr bleibt lieber unten und macht das Schiff wieder seetüchtig.]]\n[[Zuerst verarbeitet ihr den abgetrennten Arm zu Rationen.]]",
+      "links": [
+        {
+          "name": "Ihr besteigt den Felsen.",
+          "link": "Ihr besteigt den Felsen.",
+          "pid": "3"
+        },
+        {
+          "name": "Ihr bleibt lieber unten und macht das Schiff wieder seetüchtig.",
+          "link": "Ihr bleibt lieber unten und macht das Schiff wieder seetüchtig.",
+          "pid": "39"
+        },
+        {
+          "name": "Zuerst verarbeitet ihr den abgetrennten Arm zu Rationen.",
+          "link": "Zuerst verarbeitet ihr den abgetrennten Arm zu Rationen.",
+          "pid": "71"
+        }
+      ],
+      "name": "Ihr versucht so schnell wie möglich die Segel abzuschneiden, um das Schiff zu bremsen.",
       "pid": "38",
       "position": {
-        "x": "669",
-        "y": "3575"
+        "x": "877",
+        "y": "212"
       }
     },
     {
-      "text": "Double-click this passage to edit it.",
-      "name": "Greife die Horde aus dem Hinterhalt an.",
+      "text": "Nachdem ihr euch von dem Schock etwas erholt habt, macht ihr euch daran euer Schiff wieder auf Vordermann zu bringen. Nachdem ihr die Schäden repariert habt, belohnt ihr euch mit einem ordentlichen Mahl (legt einen Rationsmarker ab). \nZufrieden legt ihr euch schlafen. Doch im Schlaf hört ihr ein seltsames Flüstern: \"Fahrt nach Lanun Harbour! Ein alter Freund erwartet euch...\" \n(Legt den Hauptmissionsmarker auf das Feld Lanun Harbour)\n\n[[Weiter->Auf nach Lanun Harbour!]]",
+      "links": [
+        {
+          "name": "Weiter",
+          "link": "Auf nach Lanun Harbour!",
+          "pid": "4"
+        }
+      ],
+      "name": "Ihr bleibt lieber unten und macht das Schiff wieder seetüchtig.",
       "pid": "39",
       "position": {
-        "x": "1118",
-        "y": "3570"
+        "x": "1128",
+        "y": "456"
       }
     },
     {
-      "text": "Double-click this passage to edit it.",
-      "name": "Halte dich versteckt und beobachte das Geschehen.",
+      "text": "Nach einem zähen Kampf  habt ihr Schaden genommen. Ihr konntet die Verrückten jedoch in die Flucht schlagen.\n\n[[Verfolgt die Verrückten.]]\n[[Geht zurück zum Schiff und nichts wie weg von dieser Insel.]]",
+      "links": [
+        {
+          "name": "Verfolgt die Verrückten.",
+          "link": "Verfolgt die Verrückten.",
+          "pid": "50"
+        },
+        {
+          "name": "Geht zurück zum Schiff und nichts wie weg von dieser Insel.",
+          "link": "Geht zurück zum Schiff und nichts wie weg von dieser Insel.",
+          "pid": "51"
+        }
+      ],
+      "name": "Kampf gegen die Verrückten gewonnen.",
       "pid": "40",
       "position": {
-        "x": "1268",
-        "y": "3570"
+        "x": "462",
+        "y": "5643"
       }
     },
     {
-      "text": "Gerade rechtzeitig wird der Doktor fertig. Jetzt spannt sich ein dünner Draht unsichtbar über den Boden und als die Horde euch fast erreicht hat, wird die Falle ausgelöst. Verwirrt stolpert die ganze Horde übereinander und kugelt den Hügel wieder hinunter.",
-      "name": "Baue eine Falle aus Draht.",
+      "text": "Nach dem Kampf beginnen die Verrückten euch eure Gliedmaßen abzuschneiden. Doch auf einmal hört ihr sie hektisch durcheinander rufen. Dann rennen sie völlig überhastet weg.\nAls ihr euch verdattert umschaut, seht ihr wie sich der Himmel verdunkelt. Haushohe Wellenberge türmen sich auf. Unter dem Wasser steuert ein riesiger Schatten direkt auf euch zu. \n\n[[Versucht das Schiff zu erreichen und nichts wie weg hier.]]\n[[Versucht in Richtung der Verrückten zu fliehen.]]",
+      "links": [
+        {
+          "name": "Versucht das Schiff zu erreichen und nichts wie weg hier.",
+          "link": "Versucht das Schiff zu erreichen und nichts wie weg hier.",
+          "pid": "42"
+        },
+        {
+          "name": "Versucht in Richtung der Verrückten zu fliehen.",
+          "link": "Versucht in Richtung der Verrückten zu fliehen.",
+          "pid": "43"
+        }
+      ],
+      "name": "Kampf gegen die Verrückten verloren.",
       "pid": "41",
       "position": {
-        "x": "1386",
-        "y": "3572"
+        "x": "820",
+        "y": "5639"
       }
     },
     {
-      "text": "Double-click this passage to edit it.",
-      "name": "Buddle ein Loch.",
+      "text": "Wenige Augenblicke bevor der Schatten die Insel erreicht, schafft ihr es auf das Schiff. Ihr beobachtet, wie ein gigantischer Oktopus aus dem Wasser steigt, größer als alles, was ihr je zuvor gesehen habt. Zielstrebig bewegt sich der Koloss auf den großen Totenschädel auf der Insel zu. Im Gebiss des Schädels liegt fein säuberlich aufgereiht ein halbes Dutzend Arme und Beine... oder besser lag. Denn ehe ihr euch versehen könnt, hat sich das Ungeheuer die Gliedmaßen mit einer raschen Bewegung von seinem Tentakel geschnappt. Jetzt vertilgt es die Körperteile eins nach dem andern genüsslich. Dann lässt es sich zurück in das Wasser gleiten und verschwindet.\nNach dem Schauspiel schaut ihr euch verdattert an: \"Was zum Teufel haben wir da gerade gesehen?\"\n- \"Das ist Harta Karun.\" entgegnet eine Stimme an eurer Seite.\nIhr schreckt zusammen. Neben euch sitzt ein Mann auf einer Schildkröte. Er hat weder Arme noch Beine. Ist er einer der Verrückten?\n\n[[\"Wer bist du?\"]]\n[[\"Was machst du auf unserem Schiff?\"]]",
+      "links": [
+        {
+          "name": "\"Wer bist du?\"",
+          "link": "\"Wer bist du?\"",
+          "pid": "44"
+        },
+        {
+          "name": "\"Was machst du auf unserem Schiff?\"",
+          "link": "\"Was machst du auf unserem Schiff?\"",
+          "pid": "46"
+        }
+      ],
+      "name": "Versucht das Schiff zu erreichen und nichts wie weg hier.",
       "pid": "42",
       "position": {
-        "x": "1520",
-        "y": "3574"
+        "x": "760",
+        "y": "5789"
+      }
+    },
+    {
+      "text": "Ihr rennt davon und legt euch flach auf einen Hügel. Von dort beobachtet ihr, wie ein gigantischer Oktopus aus dem Wasser steigt, größer als alles, was ihr je zuvor gesehen habt. Zielstrebig bewegt sich der Koloss auf den großen Totenschädel auf der Insel zu. Im Gebiss des Schädels liegt fein säuberlich aufgereiht ein halbes Dutzend Arme und Beine... oder besser lag. Denn ehe ihr euch versehen könnt, hat sich das Ungeheuer die Gliedmaßen mit einer raschen Bewegung von seinem Tentakel geschnappt. Jetzt vertilgt es die Körperteile eins nach dem andern genüsslich. Dann lässt es sich zurück in das Wasser gleiten und verschwindet.\nNach dem Schauspiel schaut ihr euch verdattert an: \"Was zum Teufel haben wir da gerade gesehen?\"\n- \"Das ist Harta Karun.\" entgegnet eine Stimme an eurer Seite.\nIhr schreckt zusammen. Neben euch sitzt ein Mann auf einer Schildkröte. Er hat weder Arme noch Beine. Ist er einer der Verrückten?\n\n[[\"Wer bist du?\"]]\n[[\"Woher weißt du das?\"]]",
+      "links": [
+        {
+          "name": "\"Wer bist du?\"",
+          "link": "\"Wer bist du?\"",
+          "pid": "44"
+        },
+        {
+          "name": "\"Woher weißt du das?\"",
+          "link": "\"Woher weißt du das?\"",
+          "pid": "45"
+        }
+      ],
+      "name": "Versucht in Richtung der Verrückten zu fliehen.",
+      "pid": "43",
+      "position": {
+        "x": "895",
+        "y": "5787"
+      }
+    },
+    {
+      "text": "\"Wer ich bin, weiß ich selbst nicht mehr genau. Ich weiß nur, dass ich auf der Suche nach dem Schatz von Harta Karun war... und nun bin ich auf dieser Insel gefangen.\"\n\n[[\"Was ist mit dir passiert?\"]]\n[[Lasst den Mann auf der Insel und fahrt weg von hier.]]\n[[Nehmt den Mann mit und fahrt weg von dieser unheimlichen Insel.]]",
+      "links": [
+        {
+          "name": "\"Was ist mit dir passiert?\"",
+          "link": "\"Was ist mit dir passiert?\"",
+          "pid": "47"
+        },
+        {
+          "name": "Lasst den Mann auf der Insel und fahrt weg von hier.",
+          "link": "Lasst den Mann auf der Insel und fahrt weg von hier.",
+          "pid": "48"
+        },
+        {
+          "name": "Nehmt den Mann mit und fahrt weg von dieser unheimlichen Insel.",
+          "link": "Nehmt den Mann mit und fahrt weg von dieser unheimlichen Insel.",
+          "pid": "49"
+        }
+      ],
+      "name": "\"Wer bist du?\"",
+      "pid": "44",
+      "position": {
+        "x": "664",
+        "y": "5984"
+      }
+    },
+    {
+      "text": "\"Ich war einst wie ihr auf der Suche nach dem legendären Schatz, den Harta Karun hütet. Doch hütet euch, denn die Jagd nach diesem Schatz hat bisher noch jeden so enden lassen wie mich: Verzweifelt und ohne Hoffnung durch einen Fluch an diese Insel gebunden.\nJeden Monat müssen wir Harta Karun sieben Gliedmaßen opfern. Nur so können wir unsere Schuld begleichen. Nun habe ich alle Viere verloren und bin frei.\nFlieht so schnell es geht von dieser Insel, aber ich flehe euch an: Lasst mich nicht zurück!\"\n\n[[Nehmt den Mann mit und fahrt weg von dieser unheimlichen Insel.]]\n[[Lasst den Mann auf der Insel und fahrt weg von hier.]]",
+      "links": [
+        {
+          "name": "Nehmt den Mann mit und fahrt weg von dieser unheimlichen Insel.",
+          "link": "Nehmt den Mann mit und fahrt weg von dieser unheimlichen Insel.",
+          "pid": "49"
+        },
+        {
+          "name": "Lasst den Mann auf der Insel und fahrt weg von hier.",
+          "link": "Lasst den Mann auf der Insel und fahrt weg von hier.",
+          "pid": "48"
+        }
+      ],
+      "name": "\"Woher weißt du das?\"",
+      "pid": "45",
+      "position": {
+        "x": "862",
+        "y": "6150"
+      }
+    },
+    {
+      "text": "\"Ich will euch warnen. Wie ihr, war ich auf der Suche nach dem sagenumwobenen Schatz von Harta Karun. Und jetzt seht mich an! Dieser Schatz bringt nichts als Verderben. Ich musste all meine Gliedmaßen opfern, um endlich von dieser verfluchten Insel freizukommen. Bitte nehmt mich mit. Nicht eine Sekunde möchte ich noch auf diesem Eiland verbringen.\"\n\n[[\"Was ist mit dir passiert?\"]]\n[[Lasst den Mann auf der Insel und fahrt weg von hier.]]\n[[Nehmt den Mann mit und fahrt weg von dieser unheimlichen Insel.]]",
+      "links": [
+        {
+          "name": "\"Was ist mit dir passiert?\"",
+          "link": "\"Was ist mit dir passiert?\"",
+          "pid": "47"
+        },
+        {
+          "name": "Lasst den Mann auf der Insel und fahrt weg von hier.",
+          "link": "Lasst den Mann auf der Insel und fahrt weg von hier.",
+          "pid": "48"
+        },
+        {
+          "name": "Nehmt den Mann mit und fahrt weg von dieser unheimlichen Insel.",
+          "link": "Nehmt den Mann mit und fahrt weg von dieser unheimlichen Insel.",
+          "pid": "49"
+        }
+      ],
+      "name": "\"Was machst du auf unserem Schiff?\"",
+      "pid": "46",
+      "position": {
+        "x": "500",
+        "y": "5996"
+      }
+    },
+    {
+      "text": "\"Ich war einst wie ihr auf der Suche nach dem legendären Schatz, den Harta Karun hütet. Doch hütet euch, denn die Jagd nach diesem Schatz hat bisher noch jeden so enden lassen wie mich: Verzweifelt und ohne Hoffnung durch einen Fluch an diese Insel gebunden.\nJeden Monat müssen wir Harta Karun sieben Gliedmaßen opfern. Nur so können wir unsere Schuld begleichen. Wir sind so lange an diese Insel gebunden, bis wir all unsere Gliedmaßen abgegeben haben. Nun habe ich alle Viere verloren und bin deshalb endlich frei.\nFlieht also so schnell es geht von dieser Insel, aber ich flehe euch an: Lasst mich nicht zurück! Dann führe ich euch zu einem Freund, der weiß, wie ihr Harta Karun finden könnt.\"\n\n[[Lasst den Mann auf der Insel und fahrt weg von hier.]]\n[[Nehmt den Mann mit und fahrt weg von dieser unheimlichen Insel.]]",
+      "links": [
+        {
+          "name": "Lasst den Mann auf der Insel und fahrt weg von hier.",
+          "link": "Lasst den Mann auf der Insel und fahrt weg von hier.",
+          "pid": "48"
+        },
+        {
+          "name": "Nehmt den Mann mit und fahrt weg von dieser unheimlichen Insel.",
+          "link": "Nehmt den Mann mit und fahrt weg von dieser unheimlichen Insel.",
+          "pid": "49"
+        }
+      ],
+      "name": "\"Was ist mit dir passiert?\"",
+      "pid": "47",
+      "position": {
+        "x": "598",
+        "y": "6165"
+      }
+    },
+    {
+      "text": "Der die Schildkröte reitende Torso jammert bemittleidenswert, als ihr ohne ihn ablegt: \"Nun werde ich auf dieser scheußlichen Insel verenden. Das Leben meinte es nicht gut mit mir, aber vielleicht habe ich es auch nicht anders verdient. Bitte erfüllt mir meinen letzten Wunsch und erledigt das Monster, welches mir diese Qualen angetan hat, ein für alle mal. Mein alter Freund hat sich auf der Vulkaninsel eine Forschungsstation gebaut. Wenn er nicht weiß, wie man Harta Karun aufspürt, dann weiß es keiner.\"\n\n(Legt den Missionsmarker auf die Vulkaninsel)\n\n[[Vulkaninsel]]",
+      "links": [
+        {
+          "name": "Vulkaninsel",
+          "link": "Vulkaninsel",
+          "pid": "63"
+        }
+      ],
+      "name": "Lasst den Mann auf der Insel und fahrt weg von hier.",
+      "pid": "48",
+      "position": {
+        "x": "746",
+        "y": "6384"
+      }
+    },
+    {
+      "text": "Als ihr unterwegs seid, erzählt euch der die Schildkröte reitende Torso von seinem alten Freund: \"Er forscht schon seit vielen Jahren nach Harta Karun und ihrem Schatz. Er hat sich auf der Vulkaninsel seine Forschungsstation gebaut. Wenn ihr Harta Karun finden wollt, müsst ihr ihn besuchen.\"\n\n(Legt den Missionsmarker auf die Vulkaninsel)\n\n[[Vulkaninsel]]",
+      "links": [
+        {
+          "name": "Vulkaninsel",
+          "link": "Vulkaninsel",
+          "pid": "63"
+        }
+      ],
+      "name": "Nehmt den Mann mit und fahrt weg von dieser unheimlichen Insel.",
+      "pid": "49",
+      "position": {
+        "x": "425",
+        "y": "6381"
+      }
+    },
+    {
+      "text": "Ihr rennt den Verrückten hinterher. Auf einmal hört ihr ein merkwürdiges Geräusch vom Strand. Ein gigantischer Oktopus steigt aus dem Wasser, größer als alles, was ihr je zuvor gesehen habt. Zielstrebig bewegt sich der Koloss auf den großen Totenschädel auf der Insel zu. Im Gebiss des Schädels liegt fein säuberlich aufgereiht ein halbes Dutzend Arme und Beine... oder besser lag. Denn ehe ihr euch versehen könnt, hat sich das Ungeheuer die Gliedmaßen mit einer raschen Bewegung von seinem Tentakel geschnappt. Jetzt vertilgt es die Körperteile eins nach dem andern genüsslich. Dann lässt es sich zurück in das Wasser gleiten und verschwindet.\nNach dem Schauspiel schaut ihr euch verdattert an: \"Was zum Teufel haben wir da gerade gesehen?\"\n- \"Das ist Harta Karun.\" entgegnet eine Stimme an eurer Seite.\nIhr schreckt zusammen. Neben euch sitzt ein Mann auf einer Schildkröte. Er hat weder Arme noch Beine. Ist er einer der Verrückten?\n\n[[\"Wer bist du?\"]]\n[[\"Woher weißt du das?\"]]",
+      "links": [
+        {
+          "name": "\"Wer bist du?\"",
+          "link": "\"Wer bist du?\"",
+          "pid": "44"
+        },
+        {
+          "name": "\"Woher weißt du das?\"",
+          "link": "\"Woher weißt du das?\"",
+          "pid": "45"
+        }
+      ],
+      "name": "Verfolgt die Verrückten.",
+      "pid": "50",
+      "position": {
+        "x": "592",
+        "y": "5798"
+      }
+    },
+    {
+      "text": "Als ihr gerade ablegen wollt, seht ihr in der Ferne eine schemenhafte Gestalt im Wasser. Sie steuert direkt auf die Insel zu. Ihr beobachtet, wie ein gigantischer Oktopus aus dem Wasser steigt, größer als alles, was ihr je zuvor gesehen habt. Zielstrebig bewegt sich der Koloss auf den großen Totenschädel auf der Insel zu. Im Gebiss des Schädels liegt fein säuberlich aufgereiht ein halbes Dutzend Arme und Beine... oder besser lag. Denn ehe ihr euch verseht, hat sich das Ungeheuer die Gliedmaßen mit einem seiner Tentakel geschnappt und vertilgt sie genüsslich. Dann lässt es sich zurück in das Wasser gleiten und verschwindet.\nNach dem Schauspiel schaut ihr euch verdattert an: \"Was zum Teufel haben wir da gerade gesehen?\"\n- \"Das ist Harta Karun.\" entgegnet eine Stimme an eurer Seite.\nIhr schreckt zusammen. Neben euch sitzt ein Mann auf einer Schildkröte. Er hat weder Arme noch Beine. Ist er einer der Verrückten?\n\n[[\"Wer bist du?\"]]\n[[\"Was machst du auf unserem Schiff?\"]]",
+      "links": [
+        {
+          "name": "\"Wer bist du?\"",
+          "link": "\"Wer bist du?\"",
+          "pid": "44"
+        },
+        {
+          "name": "\"Was machst du auf unserem Schiff?\"",
+          "link": "\"Was machst du auf unserem Schiff?\"",
+          "pid": "46"
+        }
+      ],
+      "name": "Geht zurück zum Schiff und nichts wie weg von dieser Insel.",
+      "pid": "51",
+      "position": {
+        "x": "381",
+        "y": "5806"
+      }
+    },
+    {
+      "text": "Diese winzige einsame Insel sieht wirklich traumhaft aus. Vielleicht lassen sich hier ein paar Rationen finden oder ihr gönnt euch einfach mal eine Pause.\n\n[[Erkundet die Insel.]]\n[[Fahrt lieber weiter.]]",
+      "links": [
+        {
+          "name": "Erkundet die Insel.",
+          "link": "Erkundet die Insel.",
+          "pid": "126"
+        },
+        {
+          "name": "Fahrt lieber weiter.",
+          "link": "Fahrt lieber weiter.",
+          "pid": "127"
+        }
+      ],
+      "name": "Nebenmission: Einsame Insel",
+      "pid": "52",
+      "position": {
+        "x": "1384",
+        "y": "8371"
+      }
+    },
+    {
+      "text": "Die Segel an eurem Schiff hängen schlaff herunter. Kein Lüftchen weht und die See scheint heute ungewöhnlich ruhig. Dennoch wird das Schiff aus unerklärlichen Gründen immer schneller.\n\n[[Werft den Anker aus, um das Schiff zum Halt zu bringen.]]\n[[Fahrt einfach weiter. Man sollte nicht alles hinterfragen.->Lasst euch einfach mit der Strömung treiben und betet.]]",
+      "links": [
+        {
+          "name": "Werft den Anker aus, um das Schiff zum Halt zu bringen.",
+          "link": "Werft den Anker aus, um das Schiff zum Halt zu bringen.",
+          "pid": "55"
+        },
+        {
+          "name": "Fahrt einfach weiter. Man sollte nicht alles hinterfragen.",
+          "link": "Lasst euch einfach mit der Strömung treiben und betet.",
+          "pid": "58"
+        }
+      ],
+      "name": "Nebenmission: Wasserstrudel",
+      "pid": "53",
+      "position": {
+        "x": "1182",
+        "y": "9743"
+      }
+    },
+    {
+      "text": "Manche sagen, Hamba sei eine gemeine Hexe, aber ich weiß, dass das nicht stimmt. Sonst würde sie nicht jede Nacht zu mir kommen und mir von meinen Eltern erzählen.\nSie wohnt auf einer einsamen Insel mit großen Klippen.\n\n[[\"Wie können wir dir helfen?\"]]\n[[Und was hat es mit dem Schatz auf sich?->\"Erzähl uns mehr über den Schatz.\"]]",
+      "links": [
+        {
+          "name": "\"Wie können wir dir helfen?\"",
+          "link": "\"Wie können wir dir helfen?\"",
+          "pid": "18"
+        },
+        {
+          "name": "Und was hat es mit dem Schatz auf sich?",
+          "link": "\"Erzähl uns mehr über den Schatz.\"",
+          "pid": "17"
+        }
+      ],
+      "name": "\"Erzähl uns mehr über die alte Hamba\"",
+      "pid": "54",
+      "position": {
+        "x": "820",
+        "y": "2690"
+      }
+    },
+    {
+      "text": "Selbst als der Anker sich in den Meeresboden bohrt, bremst das Schiff nicht ab. Im Gegenteil, in immer kleiner werdenden Kreisen gewinnt es sogar noch an Geschwindigkeit. Langsam dämmert euch, dass ihr in einen gewaltigen Strudel geraten seid. Ein Entkommen scheint unmöglich.\n\n(Nur wenn man sich zuvor mit den Meerjungfrauen angefreundet hat:) [[Nutzt die Flöte, um die Meerjungfrauen zur Hilfe zu rufen.]]\n[[Zieht den Anker wieder ein und versucht mit aller Macht gegen die Strömung anzusteuern]]\n[[Lasst euch einfach mit der Strömung treiben und betet.]]",
+      "links": [
+        {
+          "name": "Nutzt die Flöte, um die Meerjungfrauen zur Hilfe zu rufen.",
+          "link": "Nutzt die Flöte, um die Meerjungfrauen zur Hilfe zu rufen.",
+          "pid": "56"
+        },
+        {
+          "name": "Zieht den Anker wieder ein und versucht mit aller Macht gegen die Strömung anzusteuern",
+          "link": "Zieht den Anker wieder ein und versucht mit aller Macht gegen die Strömung anzusteuern",
+          "pid": "57"
+        },
+        {
+          "name": "Lasst euch einfach mit der Strömung treiben und betet.",
+          "link": "Lasst euch einfach mit der Strömung treiben und betet.",
+          "pid": "58"
+        }
+      ],
+      "name": "Werft den Anker aus, um das Schiff zum Halt zu bringen.",
+      "pid": "55",
+      "position": {
+        "x": "1107",
+        "y": "9893"
+      }
+    },
+    {
+      "text": "Nachdem ihr die zauberhafte Melodie gespielt habt, ist es einen Moment lang still. Dann tauchen eine nach der anderen zwölf Meerjungfrauen neben eurem Schiff auf.\n\"Ihr habt uns gerufen. Wie können wir euch helfen?\", fragen sie im Chor.\n\n[[\"Könnt ihr uns aus dem Strudel herausschieben?\"]]\n[[\"Könnt ihr der Ursache des Strudels auf die Spur gehen?\"]]",
+      "links": [
+        {
+          "name": "\"Könnt ihr uns aus dem Strudel herausschieben?\"",
+          "link": "\"Könnt ihr uns aus dem Strudel herausschieben?\"",
+          "pid": "68"
+        },
+        {
+          "name": "\"Könnt ihr der Ursache des Strudels auf die Spur gehen?\"",
+          "link": "\"Könnt ihr der Ursache des Strudels auf die Spur gehen?\"",
+          "pid": "69"
+        }
+      ],
+      "name": "Nutzt die Flöte, um die Meerjungfrauen zur Hilfe zu rufen.",
+      "pid": "56",
+      "position": {
+        "x": "929",
+        "y": "10048"
+      }
+    },
+    {
+      "text": "Nur mit erheblicher Mühe lässt sich der Anker wieder einziehen. Und schließlich merkt ihr auch wieso: Am Anker hängt nämlich ein riesiger Stöpsel.\n\n[[Versucht den Stöpsel wieder in den Strudel herabzulassen.]]\n[[Macht den Stöpsel vom Anker ab und fahrt in das Zentrum des Strudels.->Lasst euch einfach mit der Strömung treiben und betet.]]",
+      "links": [
+        {
+          "name": "Versucht den Stöpsel wieder in den Strudel herabzulassen.",
+          "link": "Versucht den Stöpsel wieder in den Strudel herabzulassen.",
+          "pid": "62"
+        },
+        {
+          "name": "Macht den Stöpsel vom Anker ab und fahrt in das Zentrum des Strudels.",
+          "link": "Lasst euch einfach mit der Strömung treiben und betet.",
+          "pid": "58"
+        }
+      ],
+      "name": "Zieht den Anker wieder ein und versucht mit aller Macht gegen die Strömung anzusteuern",
+      "pid": "57",
+      "position": {
+        "x": "1107",
+        "y": "10043"
+      }
+    },
+    {
+      "text": "Immer schneller und schneller werdet ihr von der Strömung mitgerissen. Im Zentrum des Strudels angekommen, holt ihr noch einmal tief Luft, dann wird euer Schiff durch den Sog in die Tiefe gesogen. Es scheint, als klemme euer Schiff vor einer Art riesigem Abfluss fest. Neben euch entdeckt ihr den großen Stöpsel. Ihr müsst ihn irgendwie auf den Abfluss setzen.\n\n(Nur wenn man sich zuvor mit den Meerjungfrauen angefreundet hat:) [[Nutzt die Flöte, um die Meerjungfrauen zur Hilfe zu rufen.-> Flöte unter Wasser spielen]]\n\n[[Der Charmeur soll den Stöpsel auf den Abfluss hieven.]]\n[[Das ist eine Aufgabe für die Kämpferin.]]\n[[Der Doktor ist dafür am besten geeignet.]]\n[[Die Diebin wird sich dabei am besten anstellen.]]",
+      "links": [
+        {
+          "name": "Nutzt die Flöte, um die Meerjungfrauen zur Hilfe zu rufen.",
+          "link": " Flöte unter Wasser spielen",
+          "pid": "76"
+        },
+        {
+          "name": "Der Charmeur soll den Stöpsel auf den Abfluss hieven.",
+          "link": "Der Charmeur soll den Stöpsel auf den Abfluss hieven.",
+          "pid": "59"
+        },
+        {
+          "name": "Das ist eine Aufgabe für die Kämpferin.",
+          "link": "Das ist eine Aufgabe für die Kämpferin.",
+          "pid": "60"
+        },
+        {
+          "name": "Der Doktor ist dafür am besten geeignet.",
+          "link": "Der Doktor ist dafür am besten geeignet.",
+          "pid": "61"
+        },
+        {
+          "name": "Die Diebin wird sich dabei am besten anstellen.",
+          "link": "Die Diebin wird sich dabei am besten anstellen.",
+          "pid": "70"
+        }
+      ],
+      "name": "Lasst euch einfach mit der Strömung treiben und betet.",
+      "pid": "58",
+      "position": {
+        "x": "1286",
+        "y": "10027"
+      }
+    },
+    {
+      "text": "Mit der eloquenten Art des Charmeurs kommt ihr hier nicht weiter. Der Charmeur stellt sich sogar so ungeschickt an, dass sein Bein beim Versuch den Stöpsel allein zu ziehen, eingequetscht wird (lege das linke Bein ab). Einer der anderen sollte ihm helfen.\n\n[[Das ist eine Aufgabe für die Kämpferin.]]\n[[Der Doktor ist dafür am besten geeignet.]]\n[[Die Diebin wird sich dabei am besten anstellen.]]",
+      "links": [
+        {
+          "name": "Das ist eine Aufgabe für die Kämpferin.",
+          "link": "Das ist eine Aufgabe für die Kämpferin.",
+          "pid": "60"
+        },
+        {
+          "name": "Der Doktor ist dafür am besten geeignet.",
+          "link": "Der Doktor ist dafür am besten geeignet.",
+          "pid": "61"
+        },
+        {
+          "name": "Die Diebin wird sich dabei am besten anstellen.",
+          "link": "Die Diebin wird sich dabei am besten anstellen.",
+          "pid": "70"
+        }
+      ],
+      "name": "Der Charmeur soll den Stöpsel auf den Abfluss hieven.",
+      "pid": "59",
+      "position": {
+        "x": "1654",
+        "y": "10180"
+      }
+    },
+    {
+      "text": "Es bedarf einiges an Kraft, aber letztlich gelingt es der Kämpferin den Stöpsel einzusetzen und euer Schiff schießt wieder an die Meeresoberfläche.\nIm Abfluss hatten sich ein paar Körperteile angesammelt. Einige wurden zwar beim Einsetzen des Stöpsels zerqutscht, doch einen muschelbesetzen Arm konntet ihr sichern (nehmt muschelbesetzten Arm).\nWieder in Sicherheit müsst ihr mit Bedauern feststellen, dass eure Rationen von dem ganzen Salzwasser nun ungeniesbar sind (legt alle Rationen ab).\n\n[[Weiter ->Hauptmission: Grotte von Harta Karun erreicht.]]",
+      "links": [
+        {
+          "name": "Weiter ",
+          "link": "Hauptmission: Grotte von Harta Karun erreicht.",
+          "pid": "119"
+        }
+      ],
+      "name": "Das ist eine Aufgabe für die Kämpferin.",
+      "pid": "60",
+      "position": {
+        "x": "1244",
+        "y": "10323"
+      }
+    },
+    {
+      "text": "Der aufmerksame Doktor bemerkt, dass im Abfluss noch einige Teile liegen. Er sichert sich und kann die Teile so sicher entfernen (nehmt muschelbedecktes Bein und vermoderter Arm) und den Stöpsel wieder einsetzen. Daraufhin schießt euer Schiff wieder an die Meeresoberfläche.\nWieder in Sicherheit müsst ihr mit Bedauern feststellen, dass eure Rationen von dem ganzen Salzwasser nun ungeniesbar sind (legt alle Rationen ab).\n\n[[Weiter ->Hauptmission: Grotte von Harta Karun erreicht.]]",
+      "links": [
+        {
+          "name": "Weiter ",
+          "link": "Hauptmission: Grotte von Harta Karun erreicht.",
+          "pid": "119"
+        }
+      ],
+      "name": "Der Doktor ist dafür am besten geeignet.",
+      "pid": "61",
+      "position": {
+        "x": "1530",
+        "y": "10316"
+      }
+    },
+    {
+      "text": "Euer Schiff hat schon fast die Mitte des Strudels erreicht, als die Strömung auf einmal nachlässt. Das Schiff dreht sich jetzt immer langsamer und kommt schließlich zum Stehen. Welcher Idiot baut einen Abfluss in ein Meer?! Wäre das ganze Meer abgelaufen? Zum Glück konntet ihr schlimmeres verhindern.\n\n[[Weiter ->Hauptmission: Grotte von Harta Karun erreicht.]]",
+      "links": [
+        {
+          "name": "Weiter ",
+          "link": "Hauptmission: Grotte von Harta Karun erreicht.",
+          "pid": "119"
+        }
+      ],
+      "name": "Versucht den Stöpsel wieder in den Strudel herabzulassen.",
+      "pid": "62",
+      "position": {
+        "x": "1107",
+        "y": "10313"
+      }
+    },
+    {
+      "text": "Lange Zeit fahrt ihr durch schwere Aschewolken aber schließlich seht ihr die feurige Lava des großen Vulkans in der Ferne.\nAm Strand angekommen, macht ihr am Fuße des Vulkans eine Hütte aus. Hier muss der Forscher seine Basis haben.\nAls ihr sie erreicht, müsst ihr allerdings feststellen, dass die Hütte kurz zuvor geplündert und hektisch verlassen worden ist. In der verwüsteten Forschungsstation findet ihr zu eurer Enttäuschung jedoch nichts verwertbares außer einer Suppe, die auf dem Herd vor sich hinköchelt.\nIhr nehmt sie mit und geht zurück zu eurem Schiff. Dort müsst ihr feststellen, dass eure Vorräte verschwunden sind (Legt alle Rationsmarker, bis auf einen aus dem Rationsfass zurück in den Rationsbeutel). Am Horizont seht ihr zwei Schiffe von euch wegfahren. Auf einem der beiden müssen sich die Diebe verstecken. Welches wollt ihr verfolgen?\n\n[[Das größere Schiff.]]\n[[Das kleinere Schiff.]]",
+      "links": [
+        {
+          "name": "Das größere Schiff.",
+          "link": "Das größere Schiff.",
+          "pid": "64"
+        },
+        {
+          "name": "Das kleinere Schiff.",
+          "link": "Das kleinere Schiff.",
+          "pid": "65"
+        }
+      ],
+      "name": "Vulkaninsel",
+      "pid": "63",
+      "position": {
+        "x": "574",
+        "y": "6666"
+      }
+    },
+    {
+      "text": "Zwei Tage lang verfolgt ihr das große Schiff. Eure letzte Ration habt ihr bereits verbraucht und so musstet ihr heute eines eurer Körperteile essen (zieht zu dem Feld mit den Schiffen und legt dafür eine Ration und ein Körperteil ab).\nSchließlich holt ihr das Schiff ein. Es ist schwer gepanzert und bis oben hin mit großen Kanonen beladen. Während euch der Magen knurrt, duftet es vom Schiff her ganz köstlich nach Essen.\n\n[[Fragt die Gauner nach euren Rationen.]]\n[[Fleht die Gauner an, euch etwas zu Essen abzugeben.]]\n[[Greift die Gauner an.]]",
+      "links": [
+        {
+          "name": "Fragt die Gauner nach euren Rationen.",
+          "link": "Fragt die Gauner nach euren Rationen.",
+          "pid": "100"
+        },
+        {
+          "name": "Fleht die Gauner an, euch etwas zu Essen abzugeben.",
+          "link": "Fleht die Gauner an, euch etwas zu Essen abzugeben.",
+          "pid": "101"
+        },
+        {
+          "name": "Greift die Gauner an.",
+          "link": "Greift die Gauner an.",
+          "pid": "99"
+        }
+      ],
+      "name": "Das größere Schiff.",
+      "pid": "64",
+      "position": {
+        "x": "666",
+        "y": "7036"
+      }
+    },
+    {
+      "text": "Zwei Tage lang verfolgt ihr das kleine Schiff. Eure letzte Ration habt ihr bereits verbraucht und so musstet ihr heute eines eurer Körperteile essen (zieht zu dem Feld mit den Schiffen und legt dafür eine Ration und ein Körperteil ab).\nSchließlich holt ihr das Schiff ein. Es ist bis zum Rand voll mit bis an die Zähne bewaffneten Gaunern. Während euch der Magen knurrt, duftet es vom Schiff her ganz köstlich nach Essen.\n\n[[Fragt die Gauner nach euren Rationen.]]\n[[Fleht die Gauner an, euch etwas zu Essen abzugeben.]]\n[[Greift die Gauner an.]]",
+      "links": [
+        {
+          "name": "Fragt die Gauner nach euren Rationen.",
+          "link": "Fragt die Gauner nach euren Rationen.",
+          "pid": "100"
+        },
+        {
+          "name": "Fleht die Gauner an, euch etwas zu Essen abzugeben.",
+          "link": "Fleht die Gauner an, euch etwas zu Essen abzugeben.",
+          "pid": "101"
+        },
+        {
+          "name": "Greift die Gauner an.",
+          "link": "Greift die Gauner an.",
+          "pid": "99"
+        }
+      ],
+      "name": "Das kleinere Schiff.",
+      "pid": "65",
+      "position": {
+        "x": "833",
+        "y": "7038"
+      }
+    },
+    {
+      "text": "Oben angekommen, kommen plötzlich drei Kerle in das Lokal. Sie scheinen nicht gerade zum Spaßen aufgelegt zu sein. Dem größten von ihnen fehlt ein Arm und er sieht merkwürdig schuppig aus. Schnellen Schrittes kommt er auf den alten Seemann zu und schlägt mit seiner Hakenhand auf den Tresen.\n\"Duuuu hasssst meeeinen Aaarrrrrm gestolen! Daaassss giiibt Raaacheee!\" \n\nLangsam dämmert euch, dass der \"großzügige Spender\" von dem der Seemann gesprochen hat, seinen Arm vielleicht doch nicht aus freien Stücken abgegeben hatte.\n\n[[Versteckt euch hinter dem Tresen.]]\n[[Sprecht die Kerle an und versucht die Situation zu klären.]]\n[[Bewerft die Kerle mit eurem Krug.]]",
+      "links": [
+        {
+          "name": "Versteckt euch hinter dem Tresen.",
+          "link": "Versteckt euch hinter dem Tresen.",
+          "pid": "9"
+        },
+        {
+          "name": "Sprecht die Kerle an und versucht die Situation zu klären.",
+          "link": "Sprecht die Kerle an und versucht die Situation zu klären.",
+          "pid": "10"
+        },
+        {
+          "name": "Bewerft die Kerle mit eurem Krug.",
+          "link": "Bewerft die Kerle mit eurem Krug.",
+          "pid": "67"
+        }
+      ],
+      "name": "Echsenauseinandersetzung",
+      "pid": "66",
+      "position": {
+        "x": "1172",
+        "y": "1448"
+      }
+    },
+    {
+      "text": "Hinweis: \nEs kann passieren, dass ihr nach einem Dialog mit Gegnern kämpfen müsst. In diesem Fall wird das Kampfsymbol SYMBOL IM TEXT in der oberen\nlinken Ecke der App angezeigt und die zu bekämpfenden Gegner sind auf dem Bildschirm zu sehen. Jeder Gegner hat eine vorgegebene Anzahl an Lebenspunkten. Ein Gegner ist besiegt, wenn seine Lebenspunkte auf 0 sinken.\nUm zu kämpfen müssen die Abenteurer ihre Körperteile einsetzen. Auf jeder Körperteil-Karte sind eine Würfelkombination sowie ein zugehöriger Effekt abgebildet.\nIm Kampf würfelt ihr für alle Abenteurer gemeinsam und versucht so die Würfelkombination auf einer eurer Körperteil-Karten zu erreichen. Dafür stehen euch 5 Kampfwürfel zur Verfügung. Ihr dürft dabei pro Runde jeweils bis zu dreimal würfeln. Für den ersten Wurf nehmt ihr alle 5 Würfel. Dann entscheidet ihr euch, welche der 5 Würfel ihr behalten und welche ihr im zweiten Wurf neu würfeln wollt. Nach dem zweiten Wurf dürft ihr euch erneut entscheiden, welche der 5 Würfel ihr behalten wollt und welche ihr für den dritten und letzten Wurf neu würfeln wollt.\nWenn ihr mit eurem Wurf zufrieden seid, könnt ihr auf weitere Würfe verzichten.\nNach eurem letzten Wurf überprüft ihr, ob ihr mit eurem Würfelergebnis eine der Würfelkombinationen auf euren Körperteil-Karten bilden könnt. Könnt ihr mehrere Kombinationen erfüllen, müsst ihr euch für eines der Körperteile entscheiden. Der Effekt des gewählten Körperteils wird dann im Kampf aktiviert.\nWurde eines eurer Körperteile aktiviert, so wird die auf der Karte beschriebene Aktion durchgeführt und gegebenenfalls der entsprechende Schadenswert in der App eingegeben, indem auf die Minus-Taste neben den Gegnern gedrückt wird. Kann man nicht allen Gegnern Schaden hinzufügen, so müssen die Spieler entscheiden, an wen sie die Schadenspunkte verteilen. Anschließend muss auf \"Runde bestätigen\" getippt werden.\nKönnt ihr mit euren Würfeln nach den drei Würfen keine der Würfelkombinationen eurer Abenteurer bilden, könnt ihr in dieser Runde leider keinen Schaden verursachen und tippt direkt auf \"Runde bestätigen\".\nDer Abenteurer, dessen Körperteil bei einer erfolgreichen Runde aktiviert wurde, bekommt einen X-Marker. Er darf nun für die nächsten Runden nicht mehr am Kampf teilnehmen, bis jeder Abenteurer einmal gekämpft hat. Dann werden die X-Marker wieder entfernt und jeder Spieler darf wieder kämpfen.\nDies wird so lange weitergeführt, bis alle Gegner besiegt sind. Abhängig davon, wie viele Runden ihr für einen Kampf benötigt habt, bekommt ihr dann von der App mitgeteilt, welche Auswirkungen der Kampf hatte.\n\n\n[[Kampf gegen die drei Kerle.]]",
+      "links": [
+        {
+          "name": "Kampf gegen die drei Kerle.",
+          "link": "Kampf gegen die drei Kerle.",
+          "pid": "140"
+        }
+      ],
+      "name": "Bewerft die Kerle mit eurem Krug.",
+      "pid": "67",
+      "position": {
+        "x": "958",
+        "y": "1675"
+      }
+    },
+    {
+      "text": "Sofort machen sich die Meerjungfrauen daran, euer Boot anzuschieben. Immer schneller und schneller fahrt ihr mit der Strömung. Doch anstatt weiter eingesaugt zu werden, werdet ihr nun Stück für Stück immer weiter nach außen getragen. Schließlich seid ihr wieder frei. Um das zu feiern, ladet ihr die Meerjungfrauen noch zu einem großen Stück Kuchen ein (legt einen Rationsmarker ab).\n\n[[Weiter ->Hauptmission: Grotte von Harta Karun erreicht.]]",
+      "links": [
+        {
+          "name": "Weiter ",
+          "link": "Hauptmission: Grotte von Harta Karun erreicht.",
+          "pid": "119"
+        }
+      ],
+      "name": "\"Könnt ihr uns aus dem Strudel herausschieben?\"",
+      "pid": "68",
+      "position": {
+        "x": "970",
+        "y": "10307"
+      }
+    },
+    {
+      "text": "Die Meerjungfrauen tauchen wieder ab. Erst passiert nichts. Euer Schiff hat schon fast die Mitte des Strudels erreicht, als die Strömung auf einmal nachlässt und das Schiff endlich zum Stehen kommt. Dann tauchen die Meerjungfrauen wieder auf.\nSie lachen: \"Im Meeresboden ist ein großes Abflussrohr und der Stöpsel wurde herausgezogen. Ihr könnt von Glück reden, nicht eingesaugt worden zu sein.\"\nDann reichen sie euch noch ein paar Körperteile (nehmt vermoderter Arm und muschelbesetztes Bein). \"Das hier mussten wir erst noch aus dem Abfluss entfernen, aber dann konnten wir den Stöpsel wieder einsetzen. Zum Glück habt ihr uns gerufen, bevor das ganze Meer abgeflossen ist.\"\n\n[[Weiter ->Hauptmission: Grotte von Harta Karun erreicht.]]",
+      "links": [
+        {
+          "name": "Weiter ",
+          "link": "Hauptmission: Grotte von Harta Karun erreicht.",
+          "pid": "119"
+        }
+      ],
+      "name": "\"Könnt ihr der Ursache des Strudels auf die Spur gehen?\"",
+      "pid": "69",
+      "position": {
+        "x": "807",
+        "y": "10311"
+      }
+    },
+    {
+      "text": "Die aufmerksame Diebin bemerkt, dass im Abfluss noch einige Teile liegen. Als sie diese entfernt hat (nehmt muschelbedecktes Bein und vermoderter Arm), kann sie den Stöpsel wieder einsetzen. Daraufhin schießt euer Schiff allerdings unerwartet schnell wieder an die Meeresoberfläche und ihr rechter Arm wird abgerissen (legt den rechten Arm ab).\nWieder in Sicherheit müsst ihr zudem mit Bedauern feststellen, dass eure Rationen von dem ganzen Salzwasser nun ungeniesbar sind (legt alle Rationen ab).\n\n[[Weiter ->Hauptmission: Grotte von Harta Karun erreicht.]]",
+      "links": [
+        {
+          "name": "Weiter ",
+          "link": "Hauptmission: Grotte von Harta Karun erreicht.",
+          "pid": "119"
+        }
+      ],
+      "name": "Die Diebin wird sich dabei am besten anstellen.",
+      "pid": "70",
+      "position": {
+        "x": "1382",
+        "y": "10322"
+      }
+    },
+    {
+      "text": "Sonderlich appetitlich sieht das zwar nicht aus, aber um hier zu überleben sind euch alle Mittel recht. (Ihr erhaltet einen Rationsmarker)\n\n[[Ihr besteigt den Felsen.]]\n[[Ihr bleibt lieber unten und macht das Schiff wieder seetüchtig.]]",
+      "links": [
+        {
+          "name": "Ihr besteigt den Felsen.",
+          "link": "Ihr besteigt den Felsen.",
+          "pid": "3"
+        },
+        {
+          "name": "Ihr bleibt lieber unten und macht das Schiff wieder seetüchtig.",
+          "link": "Ihr bleibt lieber unten und macht das Schiff wieder seetüchtig.",
+          "pid": "39"
+        }
+      ],
+      "name": "Zuerst verarbeitet ihr den abgetrennten Arm zu Rationen.",
+      "pid": "71",
+      "position": {
+        "x": "949",
+        "y": "372"
+      }
+    },
+    {
+      "text": "Oben angekommen, kommen plötzlich drei Kerle in das Lokal gehumpelt. Sie scheinen nicht gerade zum Spaßen aufgelegt zu sein. Dem größten von ihnen fehlt ein Bein. Schnellen Schrittes kommt er auf den alten Seemann zu und schlägt mit seiner Hakenhand auf den Tresen.\n\"Du hast mein Holzbein gestolen! Das wirst du noch bereuen!\" \n\nLangsam dämmert euch, dass der \"großzügige Spender\" von dem der Seemann gesprochen hat, seine Prothese vielleicht doch nicht aus freien Stücken abgegeben hatte.\n\n[[Versteckt euch hinter dem Tresen.]]\n[[Sprecht die Kerle an und versucht die Situation zu klären.]]\n[[Bewerft die Kerle mit eurem Krug.]]",
+      "links": [
+        {
+          "name": "Versteckt euch hinter dem Tresen.",
+          "link": "Versteckt euch hinter dem Tresen.",
+          "pid": "9"
+        },
+        {
+          "name": "Sprecht die Kerle an und versucht die Situation zu klären.",
+          "link": "Sprecht die Kerle an und versucht die Situation zu klären.",
+          "pid": "10"
+        },
+        {
+          "name": "Bewerft die Kerle mit eurem Krug.",
+          "link": "Bewerft die Kerle mit eurem Krug.",
+          "pid": "67"
+        }
+      ],
+      "name": "Mobberauseinandersetzung",
+      "pid": "72",
+      "position": {
+        "x": "902",
+        "y": "1456"
+      }
+    },
+    {
+      "text": "\"Alte einbeinige Seemänner gibt es in dieser Gegend viele, aber ich glaube ich weiß, wen ihr meint. Wie viele andere hat er einen Teil seines Körpers an Harta Karun verloren. Aber immerhin hat er es geschafft zu entkommen. Andere Seemänner und -frauen waren nicht so glücklich und werden noch vermisst. So auch meine Eltern, doch ich werde so lange hier im Turm brennen, bis ich sie endlich finde.\"\n\n[[\"Erzähl uns mehr über dich.\"]]\n[[\"Erzähl uns mehr über den Schatz.\"]]",
+      "links": [
+        {
+          "name": "\"Erzähl uns mehr über dich.\"",
+          "link": "\"Erzähl uns mehr über dich.\"",
+          "pid": "16"
+        },
+        {
+          "name": "\"Erzähl uns mehr über den Schatz.\"",
+          "link": "\"Erzähl uns mehr über den Schatz.\"",
+          "pid": "17"
+        }
+      ],
+      "name": "\"Ein alter einbeiniger Seemann hat uns geschickt.\"",
+      "pid": "73",
+      "position": {
+        "x": "995",
+        "y": "2393"
+      }
+    },
+    {
+      "text": "Du erhältst \"Gummistiefel\" (23). \n\nDie Verrückten rennen wie Wilde auf dich zu. Zum Glück stehen dir die anderen Abenteurer wieder zur Seite.\n\n3 | 3 | 3 | 3\n\n\n<6 Würfelrunden:\t-4 zufällige Körperteile, +3 Körperteile (Taucherhose (21), Scherenarm (22), Affenarm (24))\n=6 Würfelrunden:\t-4 zufällige Körperteile +2 Körperteile (Taucherhose (21), Scherenarm (22))\n>6 Würfelrunden:\t-4 zufällige Körperteile, +1 Körperteil (Taucherhose (21))\n\n[[Kampf gegen die Verrückten gewonnen.]]\n[[Kampf gegen die Verrückten verloren.]]",
+      "links": [
+        {
+          "name": "Kampf gegen die Verrückten gewonnen.",
+          "link": "Kampf gegen die Verrückten gewonnen.",
+          "pid": "40"
+        },
+        {
+          "name": "Kampf gegen die Verrückten verloren.",
+          "link": "Kampf gegen die Verrückten verloren.",
+          "pid": "41"
+        }
+      ],
+      "name": "Entledige dich deiner Geisel, bevor es zum Kampf mit dem Rest der Gruppe kommt.",
+      "pid": "74",
+      "position": {
+        "x": "791",
+        "y": "5425"
+      }
+    },
+    {
+      "text": "Leider ist die Geisel nicht sehr gesprächig, aber aus Dankbarkeit, dass du sie am Leben gelassen hast, gibt sie dir einen Gummistiefel. (Du erhältst \"Gummistiefel\" (23))\n\nDann stürzt der Rest der Gruppe auf dich zu. Zum Glück stehen dir die anderen Abenteurer wieder zur Seite.\n\n3 | 3 | 3 | 3\n\n\n<6 Würfelrunden:\t-4 zufällige Körperteile, +3 Körperteile (Taucherhose (21), Scherenarm (22), Affenarm (24))\n=6 Würfelrunden:\t-4 zufällige Körperteile +2 Körperteile (Taucherhose (21), Scherenarm (22))\n>6 Würfelrunden:\t-4 zufällige Körperteile, +1 Körperteil (Taucherhose (21))\n\n[[Kampf gegen die Verrückten gewonnen.]]\n[[Kampf gegen die Verrückten verloren.]]",
+      "links": [
+        {
+          "name": "Kampf gegen die Verrückten gewonnen.",
+          "link": "Kampf gegen die Verrückten gewonnen.",
+          "pid": "40"
+        },
+        {
+          "name": "Kampf gegen die Verrückten verloren.",
+          "link": "Kampf gegen die Verrückten verloren.",
+          "pid": "41"
+        }
+      ],
+      "name": "Verschone die Geisel und versuche von ihr mehr über die Horde zu erfahren.",
+      "pid": "75",
+      "position": {
+        "x": "951",
+        "y": "5447"
+      }
+    },
+    {
+      "text": "Unter Wasser bekommt ihr aus der Flöte nur ein Blubbern heraus. Die Meerjungfrauen können euch also im Moment nicht weiterhelfen. Einer von euch muss sich überwinden und den Stöpsel versuchen, auf den Abfluss zu setzen.\n\n[[Der Charmeur soll den Stöpsel auf den Abfluss hieven.]]\n[[Das ist eine Aufgabe für die Kämpferin.]]\n[[Der Doktor ist dafür am besten geeignet.]]\n[[Die Diebin wird sich dabei am besten anstellen.]]",
+      "links": [
+        {
+          "name": "Der Charmeur soll den Stöpsel auf den Abfluss hieven.",
+          "link": "Der Charmeur soll den Stöpsel auf den Abfluss hieven.",
+          "pid": "59"
+        },
+        {
+          "name": "Das ist eine Aufgabe für die Kämpferin.",
+          "link": "Das ist eine Aufgabe für die Kämpferin.",
+          "pid": "60"
+        },
+        {
+          "name": "Der Doktor ist dafür am besten geeignet.",
+          "link": "Der Doktor ist dafür am besten geeignet.",
+          "pid": "61"
+        },
+        {
+          "name": "Die Diebin wird sich dabei am besten anstellen.",
+          "link": "Die Diebin wird sich dabei am besten anstellen.",
+          "pid": "70"
+        }
+      ],
+      "name": " Flöte unter Wasser spielen",
+      "pid": "76",
+      "position": {
+        "x": "1456",
+        "y": "10109"
+      }
+    },
+    {
+      "text": "Noch nie zuvor habt ihr jemanden so schief und schrill Flöte spielen hören. Aber vielleicht kann die Meerjungfrau euch ja bei der Suche nach dem Schatz helfen.\n\n[[Der Charmeur soll die Meerjungfrau bezirzen.]]\n[[Der Doktor soll sich um die Meerjungfrau kümmern.]]\n[[Die Kämpferin soll der Meerjungfrau ihre Meinung geigen.]]\n[[Die Diebin soll die Meerjungfrau bestehlen.]]",
+      "links": [
+        {
+          "name": "Der Charmeur soll die Meerjungfrau bezirzen.",
+          "link": "Der Charmeur soll die Meerjungfrau bezirzen.",
+          "pid": "78"
+        },
+        {
+          "name": "Der Doktor soll sich um die Meerjungfrau kümmern.",
+          "link": "Der Doktor soll sich um die Meerjungfrau kümmern.",
+          "pid": "79"
+        },
+        {
+          "name": "Die Kämpferin soll der Meerjungfrau ihre Meinung geigen.",
+          "link": "Die Kämpferin soll der Meerjungfrau ihre Meinung geigen.",
+          "pid": "80"
+        },
+        {
+          "name": "Die Diebin soll die Meerjungfrau bestehlen.",
+          "link": "Die Diebin soll die Meerjungfrau bestehlen.",
+          "pid": "81"
+        }
+      ],
+      "name": "Fahrt näher an sie heran und lauscht ihrem Spiel.",
+      "pid": "77",
+      "position": {
+        "x": "1535",
+        "y": "3480"
+      }
+    },
+    {
+      "text": "(Nur Charmeur:)\n\n[[\"So wie dich, habe ich noch nie jemanden spielen hören. Du musst wirklich mit dem Spielen aufhören, ansonsten verliere ich den Verstand.\"]]\n[[\"Was macht eine schöne Frau wie du hier ganz allein auf hoher See? Und warum spielst du so grausig?\"]]",
+      "links": [
+        {
+          "name": "\"So wie dich, habe ich noch nie jemanden spielen hören. Du musst wirklich mit dem Spielen aufhören, ansonsten verliere ich den Verstand.\"",
+          "link": "\"So wie dich, habe ich noch nie jemanden spielen hören. Du musst wirklich mit dem Spielen aufhören, ansonsten verliere ich den Verstand.\"",
+          "pid": "87"
+        },
+        {
+          "name": "\"Was macht eine schöne Frau wie du hier ganz allein auf hoher See? Und warum spielst du so grausig?\"",
+          "link": "\"Was macht eine schöne Frau wie du hier ganz allein auf hoher See? Und warum spielst du so grausig?\"",
+          "pid": "82"
+        }
+      ],
+      "name": "Der Charmeur soll die Meerjungfrau bezirzen.",
+      "pid": "78",
+      "position": {
+        "x": "909",
+        "y": "3638"
+      }
+    },
+    {
+      "text": "(Nur Doktor:)\n\n[[Halte deinen Arm ins Wasser, um es zu elektrisieren.]]\n[[Stopfe dir Tücher in die Ohren und warte, bis sie fertig gespielt hat.]]",
+      "links": [
+        {
+          "name": "Halte deinen Arm ins Wasser, um es zu elektrisieren.",
+          "link": "Halte deinen Arm ins Wasser, um es zu elektrisieren.",
+          "pid": "90"
+        },
+        {
+          "name": "Stopfe dir Tücher in die Ohren und warte, bis sie fertig gespielt hat.",
+          "link": "Stopfe dir Tücher in die Ohren und warte, bis sie fertig gespielt hat.",
+          "pid": "85"
+        }
+      ],
+      "name": "Der Doktor soll sich um die Meerjungfrau kümmern.",
+      "pid": "79",
+      "position": {
+        "x": "1828",
+        "y": "3627"
+      }
+    },
+    {
+      "text": "(Nur Kämpferin:)\n\n[[\"He du Pfeife! Wenn du nicht sofort aufhörst in deine Tröte zu pusten, geht mein Verstand flöten...\"]]\n[[Wirf das nächstbeste nach ihr, was dir zwischen die Finger kommt]]",
+      "links": [
+        {
+          "name": "\"He du Pfeife! Wenn du nicht sofort aufhörst in deine Tröte zu pusten, geht mein Verstand flöten...\"",
+          "link": "\"He du Pfeife! Wenn du nicht sofort aufhörst in deine Tröte zu pusten, geht mein Verstand flöten...\"",
+          "pid": "83"
+        },
+        {
+          "name": "Wirf das nächstbeste nach ihr, was dir zwischen die Finger kommt",
+          "link": "Wirf das nächstbeste nach ihr, was dir zwischen die Finger kommt",
+          "pid": "84"
+        }
+      ],
+      "name": "Die Kämpferin soll der Meerjungfrau ihre Meinung geigen.",
+      "pid": "80",
+      "position": {
+        "x": "1268",
+        "y": "3639"
+      }
+    },
+    {
+      "text": "(Nur Diebin:)\n\n[[Stopfe dir Tücher in die Ohren und übe dich in Geduld.]]\n[[Nimm ein Lasso und schnappe ihr damit ihre Flöte weg.]]",
+      "links": [
+        {
+          "name": "Stopfe dir Tücher in die Ohren und übe dich in Geduld.",
+          "link": "Stopfe dir Tücher in die Ohren und übe dich in Geduld.",
+          "pid": "95"
+        },
+        {
+          "name": "Nimm ein Lasso und schnappe ihr damit ihre Flöte weg.",
+          "link": "Nimm ein Lasso und schnappe ihr damit ihre Flöte weg.",
+          "pid": "86"
+        }
+      ],
+      "name": "Die Diebin soll die Meerjungfrau bestehlen.",
+      "pid": "81",
+      "position": {
+        "x": "2275",
+        "y": "3654"
+      }
+    },
+    {
+      "text": "(nur Charmeur:)\n\n\"Ich weiß, dass sich das scheußlich anhört, aber darum bin ich ja hier draußen... damit mich niemand hören muss! Was willst du von mir?\"\n\n[[Wir sind auf der Suche nach dem Schatz von Harta Karun und dachten, du könntest uns vielleicht weiterhelfen...->\"Ich bin völlig durch den Wind, wenn du spielst. Leider haben wir aber keine Zeit, dir weiter zuzuhören. Wir sind nämlich auf der Suche nach dem Schatz von Harta Karun. Kannst du uns da weiterhelfen?]]\n[[\"Wenn du möchtest, kann ich dir helfen und dir beibringen, wie man richtig flötet, damit die anderen nicht mehr vor dir Reißaus nehmen.\"]]",
+      "links": [
+        {
+          "name": "Wir sind auf der Suche nach dem Schatz von Harta Karun und dachten, du könntest uns vielleicht weiterhelfen...",
+          "link": "\"Ich bin völlig durch den Wind, wenn du spielst. Leider haben wir aber keine Zeit, dir weiter zuzuhören. Wir sind nämlich auf der Suche nach dem Schatz von Harta Karun. Kannst du uns da weiterhelfen?",
+          "pid": "88"
+        },
+        {
+          "name": "\"Wenn du möchtest, kann ich dir helfen und dir beibringen, wie man richtig flötet, damit die anderen nicht mehr vor dir Reißaus nehmen.\"",
+          "link": "\"Wenn du möchtest, kann ich dir helfen und dir beibringen, wie man richtig flötet, damit die anderen nicht mehr vor dir Reißaus nehmen.\"",
+          "pid": "89"
+        }
+      ],
+      "name": "\"Was macht eine schöne Frau wie du hier ganz allein auf hoher See? Und warum spielst du so grausig?\"",
+      "pid": "82",
+      "position": {
+        "x": "1038",
+        "y": "3723"
+      }
+    },
+    {
+      "text": "Sie guckt euch mit finsterer Miene an und flucht.\n\"Wie unhöflich von euch! Ihr solltet lieber dankbar sein, dass ich so schlecht spiele. Ansonsten hätte euch meine liebliche Melodie schon längst den Kopf verdreht.\"\n\n[[\"Ich habe schon größere Fische als dich erlegt. Mit deinem Getröte kannst du mir nichts anhaben!\"]]\n[[\"Na gut, ich war selber nie musikalisch. Vielleicht habe ich auch keine Ahnung von guter Musik.\"]]",
+      "links": [
+        {
+          "name": "\"Ich habe schon größere Fische als dich erlegt. Mit deinem Getröte kannst du mir nichts anhaben!\"",
+          "link": "\"Ich habe schon größere Fische als dich erlegt. Mit deinem Getröte kannst du mir nichts anhaben!\"",
+          "pid": "93"
+        },
+        {
+          "name": "\"Na gut, ich war selber nie musikalisch. Vielleicht habe ich auch keine Ahnung von guter Musik.\"",
+          "link": "\"Na gut, ich war selber nie musikalisch. Vielleicht habe ich auch keine Ahnung von guter Musik.\"",
+          "pid": "94"
+        }
+      ],
+      "name": "\"He du Pfeife! Wenn du nicht sofort aufhörst in deine Tröte zu pusten, geht mein Verstand flöten...\"",
+      "pid": "83",
+      "position": {
+        "x": "1255",
+        "y": "3794"
+      }
+    },
+    {
+      "text": "Der gezielter Wurf mit einer Kartoffel sorgt dafür, dass der Meerjungfrau ihre Flöte aus der Hand fällt. (Ihr verliert eine Ration) Entgeistert schaut sie euch an und fängt an zu schluchzen. Im nächsten Moment taucht neben der Meerjungfrau ein Delfin auf. Die beiden schauen sich kurz an und stürzen sich sogleich auf euch.\n\n4 | 7\n\n<3 Würfelrunden:\t-1 zufälliges Körperteil, +2 Körperteile \t\t\t\t\t\t\t\t(Meerjungfrauenflosse & Delfinflosse)\n\n=3 Würfelrunden:\t-1 zufälliges Körperteil, +1 Körperteil (Delfinflosse)\n\n>3 Würfelrunden:\t-2 zufälliges Körperteile, +1 Körperteil (Delfinflosse)\n\n\n[[Weiter->Angekommen auf Kura-Kura]]",
+      "links": [
+        {
+          "name": "Weiter",
+          "link": "Angekommen auf Kura-Kura",
+          "pid": "34"
+        }
+      ],
+      "name": "Wirf das nächstbeste nach ihr, was dir zwischen die Finger kommt",
+      "pid": "84",
+      "position": {
+        "x": "1562",
+        "y": "3948"
+      }
+    },
+    {
+      "text": "Eine gefühlte Ewigkeit später hat die Meerjungfrau ihr Lied endlich beendet.\nErstaunt schaut die Meerjungfrau auf: \"Danke, dass du meinem Flötenspiel gelauscht hast. Sonst fliehen immer alle vor mir, wenn ich anfange zu flöten.\"\n\n[[\"Wir wollen dir nichts böses. Wir suchen nur nach Harta Karun.\"]]\n[[\"Wenn du möchtest, kann ich dir helfen und dir beibringen, wie man richtig flötet, damit die anderen nicht mehr vor dir Reißaus nehmen.\"]]",
+      "links": [
+        {
+          "name": "\"Wir wollen dir nichts böses. Wir suchen nur nach Harta Karun.\"",
+          "link": "\"Wir wollen dir nichts böses. Wir suchen nur nach Harta Karun.\"",
+          "pid": "91"
+        },
+        {
+          "name": "\"Wenn du möchtest, kann ich dir helfen und dir beibringen, wie man richtig flötet, damit die anderen nicht mehr vor dir Reißaus nehmen.\"",
+          "link": "\"Wenn du möchtest, kann ich dir helfen und dir beibringen, wie man richtig flötet, damit die anderen nicht mehr vor dir Reißaus nehmen.\"",
+          "pid": "89"
+        }
+      ],
+      "name": "Stopfe dir Tücher in die Ohren und warte, bis sie fertig gespielt hat.",
+      "pid": "85",
+      "position": {
+        "x": "1917",
+        "y": "3769"
+      }
+    },
+    {
+      "text": "Geschickt gelingt es dir tatsächlich, der Meerjungfrau ihre Flöte zu entwenden. Entgeistert schaut sie euch an und fängt an zu schluchzen. Im nächsten Moment taucht neben der Meerjungfrau ein Delfin auf. Die beiden schauen sich kurz an und stürzen sich sogleich auf euch.\n\n4 | 7\n\n<3 Würfelrunden:\t-1 zufälliges Körperteil, +2 Körperteile \t\t\t\t\t\t\t\t(Meerjungfrauenflosse & Delfinflosse)\n\n=3 Würfelrunden:\t-1 zufälliges Körperteil, +1 Körperteil (Delfinflosse)\n\n>3 Würfelrunden:\t-2 zufälliges Körperteile, +1 Körperteil (Delfinflosse)\n\n\n[[Weiter->Angekommen auf Kura-Kura]]",
+      "links": [
+        {
+          "name": "Weiter",
+          "link": "Angekommen auf Kura-Kura",
+          "pid": "34"
+        }
+      ],
+      "name": "Nimm ein Lasso und schnappe ihr damit ihre Flöte weg.",
+      "pid": "86",
+      "position": {
+        "x": "2412",
+        "y": "3895"
+      }
+    },
+    {
+      "text": "(nur Charmeur:)\n\nErstaunt schaut die Meerjungfrau auf: \"Wirklich? Du magst, was ich spiele? Alle anderen fliehen immer vor mir, wenn ich anfange zu flöten.\"\n\n[[\"Ich bin völlig durch den Wind, wenn du spielst. Leider haben wir aber keine Zeit, dir weiter zuzuhören. Wir sind nämlich auf der Suche nach dem Schatz von Harta Karun. Kannst du uns da weiterhelfen?]]\n[[\"Wenn du möchtest, kann ich dir helfen und dir beibringen, wie man richtig flötet, damit die anderen nicht mehr vor dir Reißaus nehmen.\"]]",
+      "links": [
+        {
+          "name": "\"Ich bin völlig durch den Wind, wenn du spielst. Leider haben wir aber keine Zeit, dir weiter zuzuhören. Wir sind nämlich auf der Suche nach dem Schatz von Harta Karun. Kannst du uns da weiterhelfen?",
+          "link": "\"Ich bin völlig durch den Wind, wenn du spielst. Leider haben wir aber keine Zeit, dir weiter zuzuhören. Wir sind nämlich auf der Suche nach dem Schatz von Harta Karun. Kannst du uns da weiterhelfen?",
+          "pid": "88"
+        },
+        {
+          "name": "\"Wenn du möchtest, kann ich dir helfen und dir beibringen, wie man richtig flötet, damit die anderen nicht mehr vor dir Reißaus nehmen.\"",
+          "link": "\"Wenn du möchtest, kann ich dir helfen und dir beibringen, wie man richtig flötet, damit die anderen nicht mehr vor dir Reißaus nehmen.\"",
+          "pid": "89"
+        }
+      ],
+      "name": "\"So wie dich, habe ich noch nie jemanden spielen hören. Du musst wirklich mit dem Spielen aufhören, ansonsten verliere ich den Verstand.\"",
+      "pid": "87",
+      "position": {
+        "x": "804",
+        "y": "3783"
+      }
+    },
+    {
+      "text": "\"Alle wollen immer über Harta Karun reden, aber nie will mir jemand zuhören... Naja, ich weiß nur, dass Harta Karun einmal im Monat nach Kura-Kura kommt und dort Körperteile einsammelt. Früher war das anders. Da ist sie noch überall in dieser Gegend auf Jagd gegangen.\nJetzt lasst mich in Ruhe!\"\n\n[[Weiter->Angekommen auf Kura-Kura]]",
+      "links": [
+        {
+          "name": "Weiter",
+          "link": "Angekommen auf Kura-Kura",
+          "pid": "34"
+        }
+      ],
+      "name": "\"Ich bin völlig durch den Wind, wenn du spielst. Leider haben wir aber keine Zeit, dir weiter zuzuhören. Wir sind nämlich auf der Suche nach dem Schatz von Harta Karun. Kannst du uns da weiterhelfen?",
+      "pid": "88",
+      "position": {
+        "x": "811",
+        "y": "4030"
+      }
+    },
+    {
+      "text": "\"Oh das wäre so toll!\". Begeistert reicht sie dir ihre Flöte und als du anfängst einige Melodien zu spielen, schmilzt sie dahin. Nach und nach tauchen rund um euer Schiff immer weitere Meerjungfrauen auf.\nGefesselt von der Musik schenkt sie euch die Flöte: \"Du kannst sie so viel besser gebrauchen als ich. Wenn du sie spielst, werden wir zu euch kommen. Ich wünsche euch nur das Beste für eure Reise.\"\n\n[[Weiter->Angekommen auf Kura-Kura]]",
+      "links": [
+        {
+          "name": "Weiter",
+          "link": "Angekommen auf Kura-Kura",
+          "pid": "34"
+        }
+      ],
+      "name": "\"Wenn du möchtest, kann ich dir helfen und dir beibringen, wie man richtig flötet, damit die anderen nicht mehr vor dir Reißaus nehmen.\"",
+      "pid": "89",
+      "position": {
+        "x": "948",
+        "y": "4004"
+      }
+    },
+    {
+      "text": "Bei dem leichten Schock schreckt die Meerjungfrau zurück. Sie guckt euch mit finsterer Miene an und flucht.\n\"Wie unhöflich von euch! Ihr solltet lieber dankbar sein, dass ich so schlecht spiele. Ansonsten hätte euch meine liebliche Melodie schon längst den Kopf verdreht.\"\n\n[[\"Wir wollen dir nichts böses. Wir suchen nur nach Harta Karun.\"]]\n[[\"Selbst ein Gehörloser würde bei diesem Getröte lieber über Bord springen, als sich den Kopf verdrehen zu lassen.]]",
+      "links": [
+        {
+          "name": "\"Wir wollen dir nichts böses. Wir suchen nur nach Harta Karun.\"",
+          "link": "\"Wir wollen dir nichts böses. Wir suchen nur nach Harta Karun.\"",
+          "pid": "91"
+        },
+        {
+          "name": "\"Selbst ein Gehörloser würde bei diesem Getröte lieber über Bord springen, als sich den Kopf verdrehen zu lassen.",
+          "link": "\"Selbst ein Gehörloser würde bei diesem Getröte lieber über Bord springen, als sich den Kopf verdrehen zu lassen.",
+          "pid": "92"
+        }
+      ],
+      "name": "Halte deinen Arm ins Wasser, um es zu elektrisieren.",
+      "pid": "90",
+      "position": {
+        "x": "1774",
+        "y": "3774"
+      }
+    },
+    {
+      "text": "\"Alle wollen immer über Harta Karun reden, aber nie will mir jemand zuhören... Naja, ich weiß nur, dass Harta Karun einmal im Monat nach Kura-Kura kommt und dort Körperteile einsammelt. Früher war das anders. Da ist sie noch überall in dieser Gegend auf Jagd gegangen. Aber jetzt lasst mich in Ruhe!\"\n\n[[Weiter->Angekommen auf Kura-Kura]]",
+      "links": [
+        {
+          "name": "Weiter",
+          "link": "Angekommen auf Kura-Kura",
+          "pid": "34"
+        }
+      ],
+      "name": "\"Wir wollen dir nichts böses. Wir suchen nur nach Harta Karun.\"",
+      "pid": "91",
+      "position": {
+        "x": "1955",
+        "y": "3954"
+      }
+    },
+    {
+      "text": "Entgeistert schaut sie euch an und fängt an zu schluchzen. Im nächsten Moment taucht neben der Meerjungfrau ein Delfin auf. Die beiden schauen sich kurz an und stürzen sich sogleich auf euch.\n\n4 | 7\n\n<3 Würfelrunden:\t-1 zufälliges Körperteil, +2 Körperteile \t\t\t\t\t\t\t\t(Meerjungfrauenflosse & Delfinflosse)\n\n=3 Würfelrunden:\t-1 zufälliges Körperteil, +1 Körperteil (Delfinflosse)\n\n>3 Würfelrunden:\t-2 zufälliges Körperteile, +1 Körperteil (Delfinflosse)\n\n\n[[Weiter->Angekommen auf Kura-Kura]]",
+      "links": [
+        {
+          "name": "Weiter",
+          "link": "Angekommen auf Kura-Kura",
+          "pid": "34"
+        }
+      ],
+      "name": "\"Selbst ein Gehörloser würde bei diesem Getröte lieber über Bord springen, als sich den Kopf verdrehen zu lassen.",
+      "pid": "92",
+      "position": {
+        "x": "1752",
+        "y": "3948"
+      }
+    },
+    {
+      "text": "Die Meerjungfrau schaut dich finster an. Als auf einmal zwei weitere Meerjungfrauen auftauchen ist klar, dass ein Kampf unausweichlich ist.\n\n4 | 4 | 4\n\n<7 Würfelrunden:\t-1 zufälliges Körperteil, +1 Körperteil \t\t\t\t\t\t\t\t(Meerjungfrauenflosse)\n\n=7 Würfelrunden:\t-1 zufälliges Körperteil, +1 Körperteil \t\t\t\t\t\t\t\t(Meerjungfrauenflosse)\n\n>7 Würfelrunden:\t-2 zufälliges Körperteile, +1 Körperteil \t\t\t\t\t\t\t\t(Meerjungfrauenflosse)\n\n\n[[Weiter->Angekommen auf Kura-Kura]]",
+      "links": [
+        {
+          "name": "Weiter",
+          "link": "Angekommen auf Kura-Kura",
+          "pid": "34"
+        }
+      ],
+      "name": "\"Ich habe schon größere Fische als dich erlegt. Mit deinem Getröte kannst du mir nichts anhaben!\"",
+      "pid": "93",
+      "position": {
+        "x": "1145",
+        "y": "3994"
+      }
+    },
+    {
+      "text": "Die Meerjungfrau scheint Mitleid mit euch zu haben.\n\"Du siehst mir auch eher aus, als würdest du mit deinen Fäusten das Lied des Todes auf den Knochen deiner Gegner spielen. Aber falls du dich trotzdem mal an richtiger Musik versuchen willst kannst du meine Ersatzflöte haben. Sie hat mehr auf Lager als du denkst\"\n\nSie überreicht dir eine Flöte.\n\n[[Weiter->Angekommen auf Kura-Kura]]",
+      "links": [
+        {
+          "name": "Weiter",
+          "link": "Angekommen auf Kura-Kura",
+          "pid": "34"
+        }
+      ],
+      "name": "\"Na gut, ich war selber nie musikalisch. Vielleicht habe ich auch keine Ahnung von guter Musik.\"",
+      "pid": "94",
+      "position": {
+        "x": "1350",
+        "y": "3977"
+      }
+    },
+    {
+      "text": "Mit den Tüchern im Ohr kannst du es ertragen. Deine Crewmitglieder verziehen gequält die Gesichter.\n\nDie Meerjungfrau scheint so bald nicht aufzuhören...\n\n[[Nimm ein Lasso und schnappe ihr damit ihre Flöte weg.]]\n[[Springe geschickt auf den Stein.]]",
+      "links": [
+        {
+          "name": "Nimm ein Lasso und schnappe ihr damit ihre Flöte weg.",
+          "link": "Nimm ein Lasso und schnappe ihr damit ihre Flöte weg.",
+          "pid": "86"
+        },
+        {
+          "name": "Springe geschickt auf den Stein.",
+          "link": "Springe geschickt auf den Stein.",
+          "pid": "96"
+        }
+      ],
+      "name": "Stopfe dir Tücher in die Ohren und übe dich in Geduld.",
+      "pid": "95",
+      "position": {
+        "x": "2218",
+        "y": "3803"
+      }
+    },
+    {
+      "text": "Die Meerjungfrau schreckt auf, als du neben ihr landest.\n\"Du wurdest von meinem wundervollen Flötenspiel angelockt? Das habe ich bisher noch nie geschafft!\"\n\nDer Stein ist unfassbar rutschig und du fällst kurz nach der Landung ins Wasser. Um dich herum siehst du mehrere schemenhafte Gestalten.\n\n[[Schieße auf die Meerjungfrauen um dich herum.]]\n[[Vertraue auf die Zuneigung der Meerjungfrau.]]",
+      "links": [
+        {
+          "name": "Schieße auf die Meerjungfrauen um dich herum.",
+          "link": "Schieße auf die Meerjungfrauen um dich herum.",
+          "pid": "97"
+        },
+        {
+          "name": "Vertraue auf die Zuneigung der Meerjungfrau.",
+          "link": "Vertraue auf die Zuneigung der Meerjungfrau.",
+          "pid": "98"
+        }
+      ],
+      "name": "Springe geschickt auf den Stein.",
+      "pid": "96",
+      "position": {
+        "x": "2219",
+        "y": "3932"
+      }
+    },
+    {
+      "text": "Als du den Schuss abgibst stürmen die Meerjungfrauen auf dich zu. Eine Konfrontation in feindlichen Gewässern steht bevor.\n\n4 | 4 | 4\n\n<7 Würfelrunden:\t-1 zufälliges Körperteil, +1 Körperteil \t\t\t\t\t\t\t\t(Meerjungfrauenflosse)\n\n=7 Würfelrunden:\t-1 zufälliges Körperteil, +1 Körperteil \t\t\t\t\t\t\t\t(Meerjungfrauenflosse)\n\n>7 Würfelrunden:\t-2 zufälliges Körperteile, +1 Körperteil \t\t\t\t\t\t\t\t(Meerjungfrauenflosse)\n\n\n[[Weiter->Angekommen auf Kura-Kura]]",
+      "links": [
+        {
+          "name": "Weiter",
+          "link": "Angekommen auf Kura-Kura",
+          "pid": "34"
+        }
+      ],
+      "name": "Schieße auf die Meerjungfrauen um dich herum.",
+      "pid": "97",
+      "position": {
+        "x": "2136",
+        "y": "4136"
+      }
+    },
+    {
+      "text": "Nach einem kurzen Moment der Panik zieht dich eine schuppige Hand auf den Stein zurück. Dein linkes Bein ist jedoch gebrochen und nicht länger zu gebrauchen. (lege es ab)\n\"Es freut mich, dass dir meine Melodie gefallen hat. Ich glaube diese Delfinflosse kannst du besser gebrauchen, als der vorherige Besitzer.\"\n(Erhalte Delfinflossenbein)\n\nAls ihr euch unterhalten habt, konntest du unbemerkt die Flöte der Meerjungfrau an dich nehmen. Wozu diese wohl noch nützlich sein könnte...\n\n[[Weiter->Angekommen auf Kura-Kura]]",
+      "links": [
+        {
+          "name": "Weiter",
+          "link": "Angekommen auf Kura-Kura",
+          "pid": "34"
+        }
+      ],
+      "name": "Vertraue auf die Zuneigung der Meerjungfrau.",
+      "pid": "98",
+      "position": {
+        "x": "2376",
+        "y": "4192"
+      }
+    },
+    {
+      "text": "Bevor es zum Kampf kommt, beschießen euch die Gauner mit ihren Kanonen. (Zwei Abenteurer verlieren vor dem Kampf ein Körperteil)\nDann klettern drei der Gauner auf euer Schiff und attackieren euch.\n\n7 | 3 | 2\n\n<4 Würfelrunden:\t-1 zufälliges Körperteil, +3 Körperteile (Piratensäbel (25), Handkanone (26), Schiffsmast (27))\n=4 Würfelrunden:\t-1 zufälliges Körperteil +2 Körperteile (Piratensäbel (21), Handkanone (22))\n>4 Würfelrunden:\t-2 zufällige Körperteile, +2 Körperteil (Piratensäbel (21))\n\n[[Weiter->Kampf gegen Gauner vorbei]]",
+      "links": [
+        {
+          "name": "Weiter",
+          "link": "Kampf gegen Gauner vorbei",
+          "pid": "144"
+        }
+      ],
+      "name": "Greift die Gauner an.",
+      "pid": "99",
+      "position": {
+        "x": "973",
+        "y": "7314"
+      }
+    },
+    {
+      "text": "\"Nein, wir haben niemanden gesehen, der euer Essen gestohlen hat.\" Schallendes Gelächter ertönt. \"Aber hier sollen ein paar gefährliche Seeleute unterwegs sein. Nehmt euch besser in Acht.\"\n\n[[Greift die Gauner an.]]\n[[Die Diebin versucht, die Gauner zu bestehlen.]]\n[[Die Kämpferin versucht, die Gauner zu beeindrucken.]]\n[[Der Doktor versucht, mit den Gaunern zu verhandeln.]]\n[[Der Charmeur versucht, die Gauner zu umzustimmen.]]",
+      "links": [
+        {
+          "name": "Greift die Gauner an.",
+          "link": "Greift die Gauner an.",
+          "pid": "99"
+        },
+        {
+          "name": "Die Diebin versucht, die Gauner zu bestehlen.",
+          "link": "Die Diebin versucht, die Gauner zu bestehlen.",
+          "pid": "102"
+        },
+        {
+          "name": "Die Kämpferin versucht, die Gauner zu beeindrucken.",
+          "link": "Die Kämpferin versucht, die Gauner zu beeindrucken.",
+          "pid": "103"
+        },
+        {
+          "name": "Der Doktor versucht, mit den Gaunern zu verhandeln.",
+          "link": "Der Doktor versucht, mit den Gaunern zu verhandeln.",
+          "pid": "105"
+        },
+        {
+          "name": "Der Charmeur versucht, die Gauner zu umzustimmen.",
+          "link": "Der Charmeur versucht, die Gauner zu umzustimmen.",
+          "pid": "106"
+        }
+      ],
+      "name": "Fragt die Gauner nach euren Rationen.",
+      "pid": "100",
+      "position": {
+        "x": "477",
+        "y": "7203"
+      }
+    },
+    {
+      "text": "Auf eure Anfrage hört ihr schallendes Gelächter zu euch herüberhallen.\n\"Sehen wir aus wie ein verdammter Lieferdienst? Wenn ihr was essen wollt, müsst ihr euch das schon selbst holen.\"\n\n[[Greift die Gauner an.]]\n[[Die Diebin versucht, die Gauner zu bestehlen.]]\n[[Die Kämpferin versucht, die Gauner zu beeindrucken.]]\n[[Der Doktor versucht, mit den Gaunern zu verhandeln.]]\n[[Der Charmeur versucht, die Gauner zu umzustimmen.]]",
+      "links": [
+        {
+          "name": "Greift die Gauner an.",
+          "link": "Greift die Gauner an.",
+          "pid": "99"
+        },
+        {
+          "name": "Die Diebin versucht, die Gauner zu bestehlen.",
+          "link": "Die Diebin versucht, die Gauner zu bestehlen.",
+          "pid": "102"
+        },
+        {
+          "name": "Die Kämpferin versucht, die Gauner zu beeindrucken.",
+          "link": "Die Kämpferin versucht, die Gauner zu beeindrucken.",
+          "pid": "103"
+        },
+        {
+          "name": "Der Doktor versucht, mit den Gaunern zu verhandeln.",
+          "link": "Der Doktor versucht, mit den Gaunern zu verhandeln.",
+          "pid": "105"
+        },
+        {
+          "name": "Der Charmeur versucht, die Gauner zu umzustimmen.",
+          "link": "Der Charmeur versucht, die Gauner zu umzustimmen.",
+          "pid": "106"
+        }
+      ],
+      "name": "Fleht die Gauner an, euch etwas zu Essen abzugeben.",
+      "pid": "101",
+      "position": {
+        "x": "688",
+        "y": "7213"
+      }
+    },
+    {
+      "text": "(nur Diebin)\n\n[[Opfere ein Körperteil und zwänge dich durch eine winzige Luke auf das Schiff.]]\n[[Klettere über das Segel auf das andere Schiff.]]",
+      "links": [
+        {
+          "name": "Opfere ein Körperteil und zwänge dich durch eine winzige Luke auf das Schiff.",
+          "link": "Opfere ein Körperteil und zwänge dich durch eine winzige Luke auf das Schiff.",
+          "pid": "109"
+        },
+        {
+          "name": "Klettere über das Segel auf das andere Schiff.",
+          "link": "Klettere über das Segel auf das andere Schiff.",
+          "pid": "110"
+        }
+      ],
+      "name": "Die Diebin versucht, die Gauner zu bestehlen.",
+      "pid": "102",
+      "position": {
+        "x": "415",
+        "y": "7427"
+      }
+    },
+    {
+      "text": "(nur Kämpferin)\n\n[[Fordere den Anführer der Gauner zum Armdrücken heraus.]]\n[[Erzähle den Gaunern von deinen kühnsten Abenteuern.]]",
+      "links": [
+        {
+          "name": "Fordere den Anführer der Gauner zum Armdrücken heraus.",
+          "link": "Fordere den Anführer der Gauner zum Armdrücken heraus.",
+          "pid": "104"
+        },
+        {
+          "name": "Erzähle den Gaunern von deinen kühnsten Abenteuern.",
+          "link": "Erzähle den Gaunern von deinen kühnsten Abenteuern.",
+          "pid": "107"
+        }
+      ],
+      "name": "Die Kämpferin versucht, die Gauner zu beeindrucken.",
+      "pid": "103",
+      "position": {
+        "x": "584",
+        "y": "7425"
+      }
+    },
+    {
+      "text": "(nur Kämpferin)\n\nDer Anführer stimmt einem Armdrückduell mit dir zu. Wenn du gewinnst, bekommt ihr Rationen, wenn du verlierst, musst du den Gaunern einen Monat lang die Füße massieren.\n\n*Wirf wie im Kampf bis zu drei mal mit den Würfeln und lege nach jedem Wurf beliebige Würfel zur Seite.\nDu gewinnst, wenn nach drei Würfen keine schwarzen oder weißen Würfel hast.\n\n[[Armdrücken gewonnen->Würfelspiel gewonnen.]]\n[[Armdrücken verloren->Würfelspiel verloren.]]",
+      "links": [
+        {
+          "name": "Armdrücken gewonnen",
+          "link": "Würfelspiel gewonnen.",
+          "pid": "117"
+        },
+        {
+          "name": "Armdrücken verloren",
+          "link": "Würfelspiel verloren.",
+          "pid": "118"
+        }
+      ],
+      "name": "Fordere den Anführer der Gauner zum Armdrücken heraus.",
+      "pid": "104",
+      "position": {
+        "x": "781",
+        "y": "7574"
+      }
+    },
+    {
+      "text": "(nur Doktor)\n\n[[Fordere die Gauner zu einem Würfelspiel um die Rationen heraus.]]\n[[Biete an, die Gauner medizinisch zu versorgen.]]",
+      "links": [
+        {
+          "name": "Fordere die Gauner zu einem Würfelspiel um die Rationen heraus.",
+          "link": "Fordere die Gauner zu einem Würfelspiel um die Rationen heraus.",
+          "pid": "111"
+        },
+        {
+          "name": "Biete an, die Gauner medizinisch zu versorgen.",
+          "link": "Biete an, die Gauner medizinisch zu versorgen.",
+          "pid": "112"
+        }
+      ],
+      "name": "Der Doktor versucht, mit den Gaunern zu verhandeln.",
+      "pid": "105",
+      "position": {
+        "x": "220",
+        "y": "7426"
+      }
+    },
+    {
+      "text": "(nur Charmeur)\n\n[[Appelliere an die Vernunft der Gauner.]]\n[[Schmeichle den Gaunern.]]",
+      "links": [
+        {
+          "name": "Appelliere an die Vernunft der Gauner.",
+          "link": "Appelliere an die Vernunft der Gauner.",
+          "pid": "108"
+        },
+        {
+          "name": "Schmeichle den Gaunern.",
+          "link": "Schmeichle den Gaunern.",
+          "pid": "116"
+        }
+      ],
+      "name": "Der Charmeur versucht, die Gauner zu umzustimmen.",
+      "pid": "106",
+      "position": {
+        "x": "793",
+        "y": "7429"
+      }
+    },
+    {
+      "text": "Den Gaunern gefällt, was sie hören und sie bitten dich, an Bord zu kommen und ihnen weiter Gesellschaft zu leisten.\nAbends kommt ihr Anführer zu dir: \"So jemanden wie dich können wir hier gut gebrauchen. Du heiterst die ganze Meute auf. Komm, wir holen eure Rationen aus dem Lager...\"\nAlso hatten die Gauner doch eure Rationen geklaut. Doch das ungute Gefühl kommt zu spät. Bevor du dich versiehst, bist du unter Deck in einem Käfig eingesperrt.\nZum Glück hast du immer einen Dietrich dabei. So gelingt es dir, die Käfigtür zu öffnen. Plötzlich schrickst du zusammen. In dem kleinen Käfig neben deinem sitzt ein hagerer Greis.\nEr schluchtzt: \"Die Gauner haben mein Boot gekapert und mich gefangen genommen. Wenn du mich befreist, kann ich dir mehr über Harta Karun erzählen.\"\n\n[[Befreie den Greis, nimm ein paar Rationen und dann nichts wie weg hier.->Befreie den Greis.]]\n[[Dafür bleibt keine Zeit. Nimm dir stattdessen lieber noch mehr Rationen mit. ->Lass ihn hier.]]",
+      "links": [
+        {
+          "name": "Befreie den Greis, nimm ein paar Rationen und dann nichts wie weg hier.",
+          "link": "Befreie den Greis.",
+          "pid": "113"
+        },
+        {
+          "name": "Dafür bleibt keine Zeit. Nimm dir stattdessen lieber noch mehr Rationen mit. ",
+          "link": "Lass ihn hier.",
+          "pid": "114"
+        }
+      ],
+      "name": "Erzähle den Gaunern von deinen kühnsten Abenteuern.",
+      "pid": "107",
+      "position": {
+        "x": "918",
+        "y": "7590"
+      }
+    },
+    {
+      "text": "Dein moralischer Appell provoziert die Gauner.\nZur Antwort, beschießen euch die Gauner mit ihren Kanonen. (Zwei Abenteurer verlieren vor dem Kampf ein Körperteil)\nDann klettern drei der Gauner auf euer Schiff und attackieren euch.\n\n7 | 3 | 2\n\n<4 Würfelrunden:\t-1 zufälliges Körperteil, +3 Körperteile (Piratensäbel (25), Handkanone (26), Schiffsmast (27))\n=4 Würfelrunden:\t-1 zufälliges Körperteil +2 Körperteile (Piratensäbel (21), Handkanone (22))\n>4 Würfelrunden:\t-2 zufällige Körperteile, +2 Körperteil (Piratensäbel (21))\n\n[[Weiter->Kampf gegen Gauner vorbei]]",
+      "links": [
+        {
+          "name": "Weiter",
+          "link": "Kampf gegen Gauner vorbei",
+          "pid": "144"
+        }
+      ],
+      "name": "Appelliere an die Vernunft der Gauner.",
+      "pid": "108",
+      "position": {
+        "x": "1208",
+        "y": "7572"
+      }
+    },
+    {
+      "text": "(nur Diebin)\n\nDu verlierst ein beliebiges Körperteil, aber dafür gelangst du in den Frachtraum des Gaunerschiffs. Hier liegen tatsächlich eure Rationen.\nAls du dir die Taschen vollmachst, hörst du plötzlich eine Stimme.\nIn einem kleinen Käfig sitzt ein hagerer Greis.\nEr schluchtzt: \"Die Gauner haben mein Boot gekapert und mich gefangen genommen. Wenn du mich befreist, kann ich dir mehr über Harta Karun erzählen.\"\n\n[[Befreie den Greis.]]\n[[Lass ihn hier.]]",
+      "links": [
+        {
+          "name": "Befreie den Greis.",
+          "link": "Befreie den Greis.",
+          "pid": "113"
+        },
+        {
+          "name": "Lass ihn hier.",
+          "link": "Lass ihn hier.",
+          "pid": "114"
+        }
+      ],
+      "name": "Opfere ein Körperteil und zwänge dich durch eine winzige Luke auf das Schiff.",
+      "pid": "109",
+      "position": {
+        "x": "484",
+        "y": "7586"
+      }
+    },
+    {
+      "text": "(nur Diebin)\n\nGeschickt schwingst du dich auf den Mast des Gaunerschiffes und schaffst es sogar unbemerkt in den Frachtraum. Hier liegen tatsächlich eure Rationen.\nAls du dir die Taschen vollmachst, hörst du plötzlich eine Stimme.\nIn einem kleinen Käfig sitzt ein hagerer Greis.\nEr schluchtzt: \"Die Gauner haben mein Boot gekapert und mich gefangen genommen. Wenn du mich befreist, kann ich dir mehr über Harta Karun erzählen.\"\n\n[[Befreie den Greis.]]\n[[Lass ihn hier.]]",
+      "links": [
+        {
+          "name": "Befreie den Greis.",
+          "link": "Befreie den Greis.",
+          "pid": "113"
+        },
+        {
+          "name": "Lass ihn hier.",
+          "link": "Lass ihn hier.",
+          "pid": "114"
+        }
+      ],
+      "name": "Klettere über das Segel auf das andere Schiff.",
+      "pid": "110",
+      "position": {
+        "x": "623",
+        "y": "7578"
+      }
+    },
+    {
+      "text": "(nur Arzt)\n\nDie Gauner stimmen zu.\n\n*Wirf wie im Kampf bis zu drei mal mit den Würfeln und lege nach jedem Wurf beliebige Würfel zur Seite.\nDu gewinnst, wenn nach drei Würfen keine roten oder blauen Würfel hast.\n\n[[Würfelspiel gewonnen.]]\n[[Würfelspiel verloren.]]",
+      "links": [
+        {
+          "name": "Würfelspiel gewonnen.",
+          "link": "Würfelspiel gewonnen.",
+          "pid": "117"
+        },
+        {
+          "name": "Würfelspiel verloren.",
+          "link": "Würfelspiel verloren.",
+          "pid": "118"
+        }
+      ],
+      "name": "Fordere die Gauner zu einem Würfelspiel um die Rationen heraus.",
+      "pid": "111",
+      "position": {
+        "x": "145",
+        "y": "7589"
+      }
+    },
+    {
+      "text": "(nur Arzt)\n\nTatsächlich lassen die Gauner dich auf ihr Schiff kommen. Als sie dich unter Deck geleiten und du dort eure Rationen siehst, überkommt dich ein ungutes Gefühl. Aber es ist zu spät, denn schon fällt eine schwere Käfigtür hinter dir zu. \nZum Glück hast du immer einen Dietrich dabei. So gelingt es dir, die Käfigtür zu öffnen. Plötzlich schrickst du zusammen. In dem kleinen Käfig neben deinem sitzt ein hagerer Greis.\nEr schluchtzt: \"Die Gauner haben mein Boot gekapert und mich gefangen genommen. Wenn du mich befreist, kann ich dir mehr über Harta Karun erzählen.\"\n\n[[Befreie den Greis, nimm ein paar Rationen und dann nichts wie weg hier.->Befreie den Greis.]]\n[[Dafür bleibt keine Zeit. Nimm dir stattdessen lieber noch mehr Rationen mit. ->Lass ihn hier.]]",
+      "links": [
+        {
+          "name": "Befreie den Greis, nimm ein paar Rationen und dann nichts wie weg hier.",
+          "link": "Befreie den Greis.",
+          "pid": "113"
+        },
+        {
+          "name": "Dafür bleibt keine Zeit. Nimm dir stattdessen lieber noch mehr Rationen mit. ",
+          "link": "Lass ihn hier.",
+          "pid": "114"
+        }
+      ],
+      "name": "Biete an, die Gauner medizinisch zu versorgen.",
+      "pid": "112",
+      "position": {
+        "x": "339",
+        "y": "7589"
+      }
+    },
+    {
+      "text": "Es gelingt euch gemeinsam unbemerkt zurück auf euer Schiff zu gelangen und ein paar Rationen mitzunehmen (nehmt 2 Rationen aus dem Rationsfass). Als ihr schließlich losfahrt, gröhlen die Gauner vor Schadenfreude über euren Rückzug.\nIn sicherem Abstand zu den Gaunern dankt euch der Greis und erzählt euch, dass er sein gesamtes Leben darauf verwendet habe, die Geheimnisse der See zu lüften. Besonders von Harta Karun sei er fasziniert:\n\"Jahrelang habe ich geforscht und versucht Harta Karun zu beobachten. Das ist allerdings nicht so einfach, wie ihr euch das vielleicht vorstellt. Sie ist sehr scheu und zeigt sich nur äußerst selten. Aber ich habe ein Gerät entwickelt, welches es mir ermöglicht Harta Karun aufzuspüren, wo immer sie sich gerade versteckt.\"\nAus seinem Arm fährt ein kleiner Greifarm mit einer Art Kompass heraus.\n\"Wo immer dieser Kompass hinzeigt, müsst ihr fahren, wenn ihr Harta Karun finden wollt. Aber fahrt dort nur hin, wenn ihr euch wirklich für stark genug haltet, um sie zu besiegen.\"\n\n[[Richtung wird angegeben.]]",
+      "links": [
+        {
+          "name": "Richtung wird angegeben.",
+          "link": "Richtung wird angegeben.",
+          "pid": "115"
+        }
+      ],
+      "name": "Befreie den Greis.",
+      "pid": "113",
+      "position": {
+        "x": "612",
+        "y": "7802"
+      }
+    },
+    {
+      "text": "Als du fliehst, fängt der Greis an lauthals zu schreien. Sofort kommen die Gauner angelaufen. Du schaffst es noch gerade rechtzeitig zurück auf euer Schiff, bevor drei der Gauner auf euer Schiff klettern und euch angreifen.\n\n7 | 3 | 2\n\n<4 Würfelrunden:\t-1 zufälliges Körperteil, +3 Körperteile (Piratensäbel (25), Handkanone (26), Schiffsmast (27))\n=4 Würfelrunden:\t-1 zufälliges Körperteil +2 Körperteile (Piratensäbel (21), Handkanone (22))\n>4 Würfelrunden:\t-2 zufällige Körperteile, +2 Körperteil (Piratensäbel (21))\n\n[[Weiter->Kampf gegen Gauner vorbei]]",
+      "links": [
+        {
+          "name": "Weiter",
+          "link": "Kampf gegen Gauner vorbei",
+          "pid": "144"
+        }
+      ],
+      "name": "Lass ihn hier.",
+      "pid": "114",
+      "position": {
+        "x": "793",
+        "y": "7762"
+      }
+    },
+    {
+      "text": "[[Hauptmission: Grotte von Harta Karun erreicht.]]\n\n[[Nebenmission: Einsame Insel]]\n[[Nebenmission: Wasserstrudel]]",
+      "links": [
+        {
+          "name": "Hauptmission: Grotte von Harta Karun erreicht.",
+          "link": "Hauptmission: Grotte von Harta Karun erreicht.",
+          "pid": "119"
+        },
+        {
+          "name": "Nebenmission: Einsame Insel",
+          "link": "Nebenmission: Einsame Insel",
+          "pid": "52"
+        },
+        {
+          "name": "Nebenmission: Wasserstrudel",
+          "link": "Nebenmission: Wasserstrudel",
+          "pid": "53"
+        }
+      ],
+      "name": "Richtung wird angegeben.",
+      "pid": "115",
+      "position": {
+        "x": "533",
+        "y": "8106"
+      }
+    },
+    {
+      "text": "Den Gaunern gefällt, was sie hören und sie bitten dich, an Bord zu kommen und ihnen weiter Gesellschaft zu leisten.\nAbends kommt ihr Anführer zu dir: \"So jemanden wie dich können wir hier gut gebrauchen. Du heiterst die ganze Meute auf. Komm, wir holen eure Rationen aus dem Lager...\"\nAlso hatten die Gauner doch eure Rationen geklaut. Doch das ungute Gefühl kommt zu spät. Bevor du dich versiehst, bist du unter Deck in einem Käfig eingesperrt.\nZum Glück hast du immer einen Dietrich dabei. So gelingt es dir, die Käfigtür zu öffnen. Plötzlich schrickst du zusammen. In dem kleinen Käfig neben deinem sitzt ein hagerer Greis.\nEr schluchtzt: \"Die Gauner haben mein Boot gekapert und mich gefangen genommen. Wenn du mich befreist, kann ich dir mehr über Harta Karun erzählen.\"\n\n[[Befreie den Greis, nimm ein paar Rationen und dann nichts wie weg hier.->Befreie den Greis.]]\n[[Dafür bleibt keine Zeit. Nimm dir stattdessen lieber noch mehr Rationen mit. ->Lass ihn hier.]]",
+      "links": [
+        {
+          "name": "Befreie den Greis, nimm ein paar Rationen und dann nichts wie weg hier.",
+          "link": "Befreie den Greis.",
+          "pid": "113"
+        },
+        {
+          "name": "Dafür bleibt keine Zeit. Nimm dir stattdessen lieber noch mehr Rationen mit. ",
+          "link": "Lass ihn hier.",
+          "pid": "114"
+        }
+      ],
+      "name": "Schmeichle den Gaunern.",
+      "pid": "116",
+      "position": {
+        "x": "1053",
+        "y": "7581"
+      }
+    },
+    {
+      "text": "Es scheint, als stünden die Gauner tatsächlich zu ihrem Wort. Sie tragen eine schwere Kiste auf euer Schiff, die bis oben hin mit Rationen gefüllt ist.\nBevor die Gauner es sich doch noch einmal anders überlegen, macht ihr euch aus dem Staub. So bemerkt ihr das Klopfen aus der Kiste erst, als sie schon verschwunden sind. Die Kiste, die ihr von den Gaunern bekommen habt, hat einen doppelten Boden unter dem ein Greis kauert. Er war von den Gaunern gefangen gehalten worden und jetzt hatten sie die Gelegenheit genutzt, um ihn loszuwerden.\n\nEr sagt euch, dass er sein gesamtes Leben darauf verwendet habe, die Geheimnisse der See zu lüften. Besonders von Harta Karun sei er fasziniert:\n\"Jahrelang habe ich geforscht und versucht Harta Karun zu beobachten. Das ist allerdings nicht so einfach, wie ihr euch das vielleicht vorstellt. Sie ist sehr scheu und zeigt sich nur äußerst selten. Aber ich habe ein Gerät entwickelt, welches es mir ermöglicht Harta Karun aufzuspüren, wo immer sie sich gerade versteckt.\"\nAus seinem Arm fährt ein kleiner Greifarm mit einer Art Kompass.\n\"Wo immer dieser Kompass hinzeigt, müsst ihr fahren, wenn ihr Harta Karun finden wollt. Aber fahrt dort nur hin, wenn ihr euch wirklich für stark genug haltet, um sie zu besiegen.\"\n\n[[Richtung wird angegeben.]]",
+      "links": [
+        {
+          "name": "Richtung wird angegeben.",
+          "link": "Richtung wird angegeben.",
+          "pid": "115"
+        }
+      ],
+      "name": "Würfelspiel gewonnen.",
+      "pid": "117",
+      "position": {
+        "x": "199",
+        "y": "7733"
+      }
+    },
+    {
+      "text": "Du hast leider zu hoch gepokert und wirst jetzt von den Gaunern unter Deck in einen Käfig gesperrt.\nZum Glück hast du immer einen Dietrich dabei. So gelingt es dir, die Käfigtür zu öffnen. Plötzlich schrickst du zusammen. In dem kleinen Käfig neben deinem sitzt ein hagerer Greis.\nEr schluchtzt: \"Die Gauner haben mein Boot gekapert und mich gefangen genommen. Wenn du mich befreist, kann ich dir mehr über Harta Karun erzählen.\"\n\n[[Befreie den Greis, nimm ein paar Rationen und dann nichts wie weg hier.->Befreie den Greis.]]\n[[Dafür bleibt keine Zeit. Nimm dir stattdessen lieber noch mehr Rationen mit. ->Lass ihn hier.]]",
+      "links": [
+        {
+          "name": "Befreie den Greis, nimm ein paar Rationen und dann nichts wie weg hier.",
+          "link": "Befreie den Greis.",
+          "pid": "113"
+        },
+        {
+          "name": "Dafür bleibt keine Zeit. Nimm dir stattdessen lieber noch mehr Rationen mit. ",
+          "link": "Lass ihn hier.",
+          "pid": "114"
+        }
+      ],
+      "name": "Würfelspiel verloren.",
+      "pid": "118",
+      "position": {
+        "x": "383",
+        "y": "7714"
+      }
+    },
+    {
+      "text": "Ihr erreicht eine zerklüftete Insel. Der Kompass des Greises beginnt zu zittern. Er zeigt geradewegs auf den riesigen Eingang einer Grotte. Immer dem Kompasspfeil nach geht ihr hinein.\nPlötzlich ertönt ein ohrenbetäubender Knall und die Hexe Hamba steht vor euch in der Höhle.\n\"Halt!\", ruft sie. \"Geht nicht weiter! Ich warne euch, wenn ihr Harta Karun provoziert, werdet nicht nur ihr sterben, sondern auch unzählige Unschuldige in dieser Gegend. Wie früher wird Harta Karun dann über die Inseln herfallen. Jahrelang habe ich sie durch Opfergaben milde gestimmt. Setzt das nicht aufs Spiel!\"\n\n[[Ignoriert die Warnung von Hamba und geht weiter. Ihr müsst den Auftrag erfüllen.]]\n[[Versucht Hamba zu überzeugen, dass ihr Harta Karun gemeinsam mit ihr besiegen könnt.]]\n[[Hört auf Hamba und lasst Harta Karun in Frieden.]]",
+      "links": [
+        {
+          "name": "Ignoriert die Warnung von Hamba und geht weiter. Ihr müsst den Auftrag erfüllen.",
+          "link": "Ignoriert die Warnung von Hamba und geht weiter. Ihr müsst den Auftrag erfüllen.",
+          "pid": "120"
+        },
+        {
+          "name": "Versucht Hamba zu überzeugen, dass ihr Harta Karun gemeinsam mit ihr besiegen könnt.",
+          "link": "Versucht Hamba zu überzeugen, dass ihr Harta Karun gemeinsam mit ihr besiegen könnt.",
+          "pid": "121"
+        },
+        {
+          "name": "Hört auf Hamba und lasst Harta Karun in Frieden.",
+          "link": "Hört auf Hamba und lasst Harta Karun in Frieden.",
+          "pid": "122"
+        }
+      ],
+      "name": "Hauptmission: Grotte von Harta Karun erreicht.",
+      "pid": "119",
+      "position": {
+        "x": "405",
+        "y": "10389"
+      }
+    },
+    {
+      "text": "Als ihr kommentarlos an Hamba vorbei schreitet, werden ihre Augen vor Wut ganz schmal.\n\"Für wen haltet ihr euch eigentlich? Ihr werdet schon sehen, was ihr davon habt...\"\nNoch bevor das Echo ihrer Stimme in der Grotte verhallt ist, werdet ihr wie von Geisterhand in die Höhe gehoben.\nEs kommt zum Kampf mit Hamba, aber zuerst müsst ihr euch aus der magischen Umklammerung lösen. \n(Bevor ihr eure Körperteile verwenden könnt, müssen in einer Würfelrunde alle Würfel die selbe Farbe anzeigen.)\n\n13 Leben\n\n<5 Würfelrunden:\t+Hambas Zauberstab(30)\n=5 Würfelrunden:\t-1 zufälliges Körperteil, +Hambas Zauberstab (30)\n>5 Würfelrunden:\t-1 zufälliges Körperteil\n\n\n\n[[Weiter->Auswirkungen des Kampfes gegen Hamba]]",
+      "links": [
+        {
+          "name": "Weiter",
+          "link": "Auswirkungen des Kampfes gegen Hamba",
+          "pid": "125"
+        }
+      ],
+      "name": "Ignoriert die Warnung von Hamba und geht weiter. Ihr müsst den Auftrag erfüllen.",
+      "pid": "120",
+      "position": {
+        "x": "226",
+        "y": "10539"
+      }
+    },
+    {
+      "text": "Ihr entlockt Hamba mit eurem Vorschlag nur ein hämisches Lachen.\n\"Niemals kann ich mich gegen Harta Karun wenden. Stellt ihr euch gegen sie, stellt ihr euch auch gegen mich.\"\n\n[[Greift Hamba an.->Kampf gegen Hamba]]\n[[Macht euch auf den Rückweg.->Hört auf Hamba und lasst Harta Karun in Frieden.]]",
+      "links": [
+        {
+          "name": "Greift Hamba an.",
+          "link": "Kampf gegen Hamba",
+          "pid": "123"
+        },
+        {
+          "name": "Macht euch auf den Rückweg.",
+          "link": "Hört auf Hamba und lasst Harta Karun in Frieden.",
+          "pid": "122"
+        }
+      ],
+      "name": "Versucht Hamba zu überzeugen, dass ihr Harta Karun gemeinsam mit ihr besiegen könnt.",
+      "pid": "121",
+      "position": {
+        "x": "405",
+        "y": "10539"
+      }
+    },
+    {
+      "text": "Ihr wollt gerade aus der Grotte treten, doch stolpert ihr über etwas merkwürdig glitschiges. Ihr rappelt euch auf und erkennt worauf ihr getreten seid: Einen riesigen Tentakel.\nIhr könnt noch gerade rechtzeitig in Deckung gehen, bevor euch Harta Karun anfällt.\n\nHarta Karun startet mit 30 Lebenspunkten und einem Tentakel mit 1 Leben.\nNach je 4 Würfelrunden wächst ein Tentakel mit 1 Leben nach.\n\nSobald Harta Karun nur noch 20 Lebenspunkte hat:\n1. Auswertung:\n\n<4 Würfelrunden:\t-1 zufälliges Körperteil, +Tentakelarm (31), + Tentakelbein (33)\n=4 Würfelrunden:\t-2 zufällige Körperteile, +Tentakelarm (31), + Tentakelbein (33)\n>4 Würfelrunden:\t-2 zufällige Körperteile, +Tentakelarm (31)\n\nSobald Harta Karun nur noch 10 Lebenspunkte hat:\n2. Auswertung\n\n<4 Würfelrunden:\t-2 zufällige Körperteile, +Goldener Tentakel Arm (32), + Elektro Tentakel (34)\n=4 Würfelrunden:\t-3 zufällige Körperteile, +Goldener Tentakel Arm (32), + Elektro Tentakel (34)\n>4 Würfelrunden:\t-3 zufällige Körperteile, +Goldener Tentakel Arm (32)\n\nletzte Auswertung (Harta Karun und ihre Tentakel sind besiegt):\n<4 Würfelrunden:\t\n=4 Würfelrunden:\t-1 zufälliges Körperteil\n>4 Würfelrunden:\t-2 zufällige Körperteile\n\n\nNach einem Kampf um Leben und Tod ist es vollbracht. Harta Karun ist besiegt. Die Gefahr aus der See ist gebannt. Nun muss niemand mehr seine Gliedmaßen opfern, keine Hafenstädte werden überfallen und keine weiteren Abenteurer werden dem Ungeheuer auf der Suche nach seinem Schatz zum Opfer fallen.\nApropos Schatz: War da nicht was?\nIhr sucht die gesamte Grotte ab, aber von einem Schatz keine Spur. Stattdessen liegt die Hexe Hamba benommen am Boden.\n\n[[Fragt sie, was es denn nun mit dem Schatz auf sich hat.]]\n[[Macht euch auf den Heimweg.]]",
+      "links": [
+        {
+          "name": "Fragt sie, was es denn nun mit dem Schatz auf sich hat.",
+          "link": "Fragt sie, was es denn nun mit dem Schatz auf sich hat.",
+          "pid": "145"
+        },
+        {
+          "name": "Macht euch auf den Heimweg.",
+          "link": "Macht euch auf den Heimweg.",
+          "pid": "124"
+        }
+      ],
+      "name": "Hört auf Hamba und lasst Harta Karun in Frieden.",
+      "pid": "122",
+      "position": {
+        "x": "554",
+        "y": "10539"
+      }
+    },
+    {
+      "text": "Noch bevor ihr Hamba erreichen könnt, werdet ihr wie von Geisterhand in die Höhe gehoben. Es kommt zum Kampf mit Hamba, aber zuerst müsst ihr euch aus der magischen Umklammerung lösen. \n(Bevor ihr eure Körperteile verwenden könnt, müssen in einer Würfelrunde alle Würfel die selbe Farbe anzeigen.)\n\n13 Leben\n\n<5 Würfelrunden:\t+Hambas Zauberstab(30)\n=5 Würfelrunden:\t-1 zufälliges Körperteil, +Hambas Zauberstab (30)\n>5 Würfelrunden:\t-1 zufälliges Körperteil\n\n\n\n[[Weiter->Auswirkungen des Kampfes gegen Hamba]]\n",
+      "links": [
+        {
+          "name": "Weiter",
+          "link": "Auswirkungen des Kampfes gegen Hamba",
+          "pid": "125"
+        }
+      ],
+      "name": "Kampf gegen Hamba",
+      "pid": "123",
+      "position": {
+        "x": "359",
+        "y": "10707"
+      }
+    },
+    {
+      "text": "Ihr macht euch auf die lange Heimreise. Seid gespannt, welche Erlebnisse euch dabei noch erwarten.\n\nVielen Dank für das Spielen des ersten Szenarios von Untamed Seas!\nDas zweite Szenario, welches sich an diese Geschichte direkt anfügt, ist noch in Planung. ",
+      "name": "Macht euch auf den Heimweg.",
+      "pid": "124",
+      "position": {
+        "x": "339",
+        "y": "11583"
+      }
+    },
+    {
+      "text": "Als sie zusammenbricht, könnt ihr Hamba ihren Zauberstab entwenden. Aber anstatt zu verzweifeln, legt sich ein Lächeln auf ihre Lippen.\nIhr könnt noch gerade rechtzeitig in Deckung gehen, bevor euch ein gigantischer Kraken anfällt: Harta Karun.\n\nHarta Karun startet mit 30 Lebenspunkten und einem Tentakel mit 1 Leben.\nNach je 4 Würfelrunden wächst ein Tentakel mit 1 Leben nach.\n\nSobald Harta Karun nur noch 20 Lebenspunkte hat:\n1. Auswertung:\n\n<4 Würfelrunden:\t-1 zufälliges Körperteil, +Tentakelarm (31), + Tentakelbein (33)\n=4 Würfelrunden:\t-2 zufällige Körperteile, +Tentakelarm (31), + Tentakelbein (33)\n>4 Würfelrunden:\t-2 zufällige Körperteile, +Tentakelarm (31)\n\nSobald Harta Karun nur noch 10 Lebenspunkte hat:\n2. Auswertung\n\n<4 Würfelrunden:\t-2 zufällige Körperteile, +Goldener Tentakel Arm (32), + Elektro Tentakel (34)\n=4 Würfelrunden:\t-3 zufällige Körperteile, +Goldener Tentakel Arm (32), + Elektro Tentakel (34)\n>4 Würfelrunden:\t-3 zufällige Körperteile, +Goldener Tentakel Arm (32)\n\nletzte Auswertung (Harta Karun und ihre Tentakel sind besiegt):\n<4 Würfelrunden:\t\n=4 Würfelrunden:\t-1 zufälliges Körperteil\n>4 Würfelrunden:\t-2 zufällige Körperteile\n\n\nNach einem Kampf um Leben und Tod ist es vollbracht. Harta Karun ist besiegt. Die Gefahr aus der See ist gebannt. Nun muss niemand mehr seine Gliedmaßen opfern, keine Hafenstädte werden überfallen und keine weiteren Abenteurer werden dem Ungeheuer auf der Suche nach seinem Schatz zum Opfer fallen.\nApropos Schatz: War da nicht was?\nIhr sucht die gesamte Grotte ab, aber von einem Schatz keine Spur. Stattdessen liegt die Hexe Hamba benommen am Boden.\n\n[[Fragt sie, was es denn nun mit dem Schatz auf sich hat.]]\n[[Macht euch auf den Heimweg.]]",
+      "links": [
+        {
+          "name": "Fragt sie, was es denn nun mit dem Schatz auf sich hat.",
+          "link": "Fragt sie, was es denn nun mit dem Schatz auf sich hat.",
+          "pid": "145"
+        },
+        {
+          "name": "Macht euch auf den Heimweg.",
+          "link": "Macht euch auf den Heimweg.",
+          "pid": "124"
+        }
+      ],
+      "name": "Auswirkungen des Kampfes gegen Hamba",
+      "pid": "125",
+      "position": {
+        "x": "266",
+        "y": "10883"
+      }
+    },
+    {
+      "text": "Auf der Suche nach etwas zu Essen und einem schattigen Plätzchen entdeckt ihr im Gebüsch eine Hütte aus Ästen und Blättern. Als ihr herantreten wollt, klettern zwei Menschen aus der Behausung. Sie haben wallendes Haar und betrachten euch neugierig mit ihren glühenden Augen. Es scheint, als hätte sich seit langer Zeit niemand mehr zu ihnen verirrt.\n\n[[\"Wer seid ihr?\"]]\n[[\"Habt ihr etwas zu essen für uns?\"]]\n[[Greift sie an.]]",
+      "links": [
+        {
+          "name": "\"Wer seid ihr?\"",
+          "link": "\"Wer seid ihr?\"",
+          "pid": "128"
+        },
+        {
+          "name": "\"Habt ihr etwas zu essen für uns?\"",
+          "link": "\"Habt ihr etwas zu essen für uns?\"",
+          "pid": "129"
+        },
+        {
+          "name": "Greift sie an.",
+          "link": "Greift sie an.",
+          "pid": "130"
+        }
+      ],
+      "name": "Erkundet die Insel.",
+      "pid": "126",
+      "position": {
+        "x": "1308",
+        "y": "8560"
+      }
+    },
+    {
+      "text": "[[Weiter->Hauptmission: Grotte von Harta Karun erreicht.]]",
+      "links": [
+        {
+          "name": "Weiter",
+          "link": "Hauptmission: Grotte von Harta Karun erreicht.",
+          "pid": "119"
+        }
+      ],
+      "name": "Fahrt lieber weiter.",
+      "pid": "127",
+      "position": {
+        "x": "1015",
+        "y": "8580"
+      }
+    },
+    {
+      "text": "Der Mann antwortet: \"Wir waren auf der Suche nach dem Schatz von Harta Karun. Doch unser Schiff kenterte  und so mussten wir uns auf diese verlassene Insel retten. Irgendwo hier in der Nähe muss Harta Karun ihre Höhle haben.\"\nDie Frau ergänzt: \"Das Leben hier ist wirklich traumhaft. Das einzige, das wir vermissen ist unsere kleine Tochter. Ich hoffe, es geht ihr gut.\"\n\n[[Bietet den beiden an, sie zu ihrer Tochter zu bringen.]]\n[[Bedankt euch, für die Gastfreundschaft und macht euch wieder auf den Weg.]]",
+      "links": [
+        {
+          "name": "Bietet den beiden an, sie zu ihrer Tochter zu bringen.",
+          "link": "Bietet den beiden an, sie zu ihrer Tochter zu bringen.",
+          "pid": "131"
+        },
+        {
+          "name": "Bedankt euch, für die Gastfreundschaft und macht euch wieder auf den Weg.",
+          "link": "Bedankt euch, für die Gastfreundschaft und macht euch wieder auf den Weg.",
+          "pid": "132"
+        }
+      ],
+      "name": "\"Wer seid ihr?\"",
+      "pid": "128",
+      "position": {
+        "x": "1146",
+        "y": "8702"
+      }
+    },
+    {
+      "text": "Die beiden scheinen recht freundlich zu sein und laden euch zu sich ein. Es ist zwar eng und das Essen schmeckt gewöhnungsbedürftig, aber ihr genießt die Zeit sehr und die beiden bestehen darauf, dass ihr die Reste einpackt (ihr erhaltet eine Ration).\nIm Laufe des Abends erfahrt ihr, dass sie selbst auch auf der Suche nach dem Schatz von Harta Karun waren. Ihr Schiff kenterte jedoch und sie mussten sich auf diese verlassene Insel retten.\n\"Das Leben hier ist wirklich traumhaft. Das einzige, das wir vermissen ist unsere kleine Tochter. Ich hoffe, es geht ihr gut.\"\n\n[[Bietet den beiden an, sie zu ihrer Tochter zu bringen.]]\n[[Bedankt euch, für die Gastfreundschaft und macht euch wieder auf den Weg.]]",
+      "links": [
+        {
+          "name": "Bietet den beiden an, sie zu ihrer Tochter zu bringen.",
+          "link": "Bietet den beiden an, sie zu ihrer Tochter zu bringen.",
+          "pid": "131"
+        },
+        {
+          "name": "Bedankt euch, für die Gastfreundschaft und macht euch wieder auf den Weg.",
+          "link": "Bedankt euch, für die Gastfreundschaft und macht euch wieder auf den Weg.",
+          "pid": "132"
+        }
+      ],
+      "name": "\"Habt ihr etwas zu essen für uns?\"",
+      "pid": "129",
+      "position": {
+        "x": "1479",
+        "y": "8703"
+      }
+    },
+    {
+      "text": "Eure Aggressivität überrascht die beiden sichtlich. Doch als sie sich fangen, stellen sie sich als starke Gegner heraus.\n\n6 | 6\n\n<3 Würfelrunden:\t-1 zufälliges Körperteil, +Flammenhandschuh (35), +2 Rationen\n=3 Würfelrunden:\t-2 zufällige Körperteile, +Flammenhandschuh (35), +2 Rationen\n>3 Würfelrunden:\t-2 zufällige Körperteile, +2 Rationen\n\nIhr plündert das Lager der beiden und fahrt weiter.\n\n[[Weiter->Nebenmission: Wasserstrudel]]",
+      "links": [
+        {
+          "name": "Weiter",
+          "link": "Nebenmission: Wasserstrudel",
+          "pid": "53"
+        }
+      ],
+      "name": "Greift sie an.",
+      "pid": "130",
+      "position": {
+        "x": "1472",
+        "y": "9321"
+      }
+    },
+    {
+      "text": "Ihr nehmt die beiden mit an Bord. Sie haben zwar einige Vorräte eingepackt (nehmt 5 Rationen). Auf eurem Schiff wird es jetzt schon recht eng und die Rationen müsst ihr mit euren Passagieren teilen (von nun an müsst ihr pro Feld, das ihr euch bewegt, 2 Rationen abgeben). Findet also möglichst schnell die Tochter der beiden.\n\n[[Ihr erreicht den Leuchtturm mit den beiden.]]",
+      "links": [
+        {
+          "name": "Ihr erreicht den Leuchtturm mit den beiden.",
+          "link": "Ihr erreicht den Leuchtturm mit den beiden.",
+          "pid": "133"
+        }
+      ],
+      "name": "Bietet den beiden an, sie zu ihrer Tochter zu bringen.",
+      "pid": "131",
+      "position": {
+        "x": "1297",
+        "y": "8867"
+      }
+    },
+    {
+      "text": "[[Weiter->Nebenmission: Wasserstrudel]]",
+      "links": [
+        {
+          "name": "Weiter",
+          "link": "Nebenmission: Wasserstrudel",
+          "pid": "53"
+        }
+      ],
+      "name": "Bedankt euch, für die Gastfreundschaft und macht euch wieder auf den Weg.",
+      "pid": "132",
+      "position": {
+        "x": "991",
+        "y": "9331"
+      }
+    },
+    {
+      "text": "\"Mama, Papa!\" Als Menara ihre Eltern sieht, sprühen ihre Haare vor Glück leuchtende Funken, dann erlöschen die Flammen auf ihrem Kopf.\n\"Ihr habt sie tatsächlich gefunden. Ich bin euch ja so unglaublich dankbar!\"\nUnd auch ihre Eltern jauchzen vor Glück.\n\"Wie können wir uns bei euch bedanken?\"\n\n[[Für unsere Reise werden wir vermutlich noch einige Rationen brauchen.]]\n[[Die gute Tat ist uns Belohnung genug.]]",
+      "links": [
+        {
+          "name": "Für unsere Reise werden wir vermutlich noch einige Rationen brauchen.",
+          "link": "Für unsere Reise werden wir vermutlich noch einige Rationen brauchen.",
+          "pid": "134"
+        },
+        {
+          "name": "Die gute Tat ist uns Belohnung genug.",
+          "link": "Die gute Tat ist uns Belohnung genug.",
+          "pid": "135"
+        }
+      ],
+      "name": "Ihr erreicht den Leuchtturm mit den beiden.",
+      "pid": "133",
+      "position": {
+        "x": "1240",
+        "y": "9165"
+      }
+    },
+    {
+      "text": "(Ihr erhaltet 3 Rationen.)\nHinweis: Von nun an, müsst ihr wieder nur eine Ration pro zurückgelegtes Feld abgeben.\n\n[[Hauptmission: Grotte von Harta Karun erreicht.]]\n[[Nebenmission: Wasserstrudel]]",
+      "links": [
+        {
+          "name": "Hauptmission: Grotte von Harta Karun erreicht.",
+          "link": "Hauptmission: Grotte von Harta Karun erreicht.",
+          "pid": "119"
+        },
+        {
+          "name": "Nebenmission: Wasserstrudel",
+          "link": "Nebenmission: Wasserstrudel",
+          "pid": "53"
+        }
+      ],
+      "name": "Für unsere Reise werden wir vermutlich noch einige Rationen brauchen.",
+      "pid": "134",
+      "position": {
+        "x": "1150",
+        "y": "9320"
+      }
+    },
+    {
+      "text": "\"Ihr seid einfach zu gutherzig, aber das können wir so nicht stehen lassen. Diesen Handschuh bekommt ihr als Geschenk. Möge er euch beim Kampf gegen Harta Karun helfen.\"\n\n(Ihr erhaltet den \"Flammenhandschuh\" (35))\nHinweis: Von nun an, müsst ihr wieder nur eine Ration pro zurückgelegtes Feld abgeben.\n\n[[Hauptmission: Grotte von Harta Karun erreicht.]]\n[[Nebenmission: Wasserstrudel]]",
+      "links": [
+        {
+          "name": "Hauptmission: Grotte von Harta Karun erreicht.",
+          "link": "Hauptmission: Grotte von Harta Karun erreicht.",
+          "pid": "119"
+        },
+        {
+          "name": "Nebenmission: Wasserstrudel",
+          "link": "Nebenmission: Wasserstrudel",
+          "pid": "53"
+        }
+      ],
+      "name": "Die gute Tat ist uns Belohnung genug.",
+      "pid": "135",
+      "position": {
+        "x": "1286",
+        "y": "9326"
+      }
+    },
+    {
+      "text": "Langsam werdet ihr ganz schön beschwippst und der Seemann fragt, ob ihr endlich mit nach unten kommen wollt.\n\n[[Ihr reißt euch endlich von der Bar los und geht mit in den Keller.->Runter geht's! Was soll schon passieren?!]]\n[[Hoch mit euren Humpen, Ihr Seebären!]]",
+      "links": [
+        {
+          "name": "Ihr reißt euch endlich von der Bar los und geht mit in den Keller.",
+          "link": "Runter geht's! Was soll schon passieren?!",
+          "pid": "7"
+        },
+        {
+          "name": "Hoch mit euren Humpen, Ihr Seebären!",
+          "link": "Hoch mit euren Humpen, Ihr Seebären!",
+          "pid": "137"
+        }
+      ],
+      "name": "Lasst den Seemann euch stattdessen nochmal nachfüllen.",
+      "pid": "136",
+      "position": {
+        "x": "646",
+        "y": "1179"
+      }
+    },
+    {
+      "text": "Mit ein paar Einheimischen tanzt ihr schon torkelnd über die Tische.\n\n[[Im Keller steigt bestimmt die richtige Party.->Runter geht's! Was soll schon passieren?!]]\n[[Je mehr wir trinken, desto besser singen wir.]]",
+      "links": [
+        {
+          "name": "Im Keller steigt bestimmt die richtige Party.",
+          "link": "Runter geht's! Was soll schon passieren?!",
+          "pid": "7"
+        },
+        {
+          "name": "Je mehr wir trinken, desto besser singen wir.",
+          "link": "Je mehr wir trinken, desto besser singen wir.",
+          "pid": "138"
+        }
+      ],
+      "name": "Hoch mit euren Humpen, Ihr Seebären!",
+      "pid": "137",
+      "position": {
+        "x": "643",
+        "y": "1308"
+      }
+    },
+    {
+      "text": "Inzwischen seht ihr alles doppelt. Es ist wirklich an der Zeit, dem Alkohol abzuschwören.\n\n[[Sucht im Keller nach einem weiteren edlen Tropfen.->Runter geht's! Was soll schon passieren?!]]\n[[Nehmt einander Huckepack und lauft um die Wette.]]",
+      "links": [
+        {
+          "name": "Sucht im Keller nach einem weiteren edlen Tropfen.",
+          "link": "Runter geht's! Was soll schon passieren?!",
+          "pid": "7"
+        },
+        {
+          "name": "Nehmt einander Huckepack und lauft um die Wette.",
+          "link": "Nehmt einander Huckepack und lauft um die Wette.",
+          "pid": "139"
+        }
+      ],
+      "name": "Je mehr wir trinken, desto besser singen wir.",
+      "pid": "138",
+      "position": {
+        "x": "638",
+        "y": "1436"
+      }
+    },
+    {
+      "text": "In eurem Rausch stolpert ihr nur so durch die Gegend. Wer den Wettlauf gewonnen hat, lässt sich nicht mehr sagen, denn schon purzelt ihr alle miteinander die Kellertreppe hinunter.\nDaraufhin müsst ihr euch erst einmal übergeben und bleibt dann benommen liegen.\nDer alte Seemann kommt euch lachend zur Hilfe: \"Da habt ihr's ja doch noch in meinen Keller geschafft! Ich habe gesehen, dass ihr einen Invaliden unter euch habt. Das ist nicht weiter schlimm und wird euch in dieser gefährlichen Gegend immer wieder passieren. Wenn ihr ein Körperteil verliert, solltet ihr euch aber immer schnell um Ersatz kümmern.\"\nEr zeigt auf den Holztisch in der Mitte des schummrigen Raumes. \"Leg dich hin! Ich habe hier was für dich.\"\n\n[[Lasst ihn euch das Holzbein anbauen.]]\n[[Lasst ihn euch den Schuppenarm anbauen.]]",
+      "links": [
+        {
+          "name": "Lasst ihn euch das Holzbein anbauen.",
+          "link": "Lasst ihn euch das Holzbein anbauen.",
+          "pid": "141"
+        },
+        {
+          "name": "Lasst ihn euch den Schuppenarm anbauen.",
+          "link": "Lasst ihn euch den Schuppenarm anbauen.",
+          "pid": "142"
+        }
+      ],
+      "name": "Nehmt einander Huckepack und lauft um die Wette.",
+      "pid": "139",
+      "position": {
+        "x": "638",
+        "y": "1586"
+      }
+    },
+    {
+      "text": "Wutentbrannt stürzen die drei Männer auf euch zu und es kommt zu einer Schlägerei.\n\n5 | 2 | 1\n\n\n<3 Würfelrunden:\t+1 Körperteil (Hakenhand (36))\n=3 Würfelrunden:\t+1 Körperteil (Hakenhand (36))\n>3 Würfelrunden:\t-1 zufälliges Körperteil, +1 Körperteil (Hakenhand (36))\n\n\nHinweis: Erhaltet ihr ein Körperteil nach einem Kampf, so müsst ihr dieses entweder direkt anlegen und dafür gegebenenfalls ein anderes Körperteil ablegen oder das neu erhaltene Körperteil ablehnen. Körperteile können nicht für später aufbewahrt werden.\n\n[[Weiter->Jetzt lasst uns schnell packen und uns auf die Suche nach dem Schatz machen.]]",
+      "links": [
+        {
+          "name": "Weiter",
+          "link": "Jetzt lasst uns schnell packen und uns auf die Suche nach dem Schatz machen.",
+          "pid": "11"
+        }
+      ],
+      "name": "Kampf gegen die drei Kerle.",
+      "pid": "140",
+      "position": {
+        "x": "953",
+        "y": "1798"
+      }
+    },
+    {
+      "text": "(Nehmt die \"Holzbein\"-Karte (17) und legt sie an die entsprechende Stelle auf den Charakterbogen eines eurer Charaktere. Hinweis: Liegt an dieser Stelle bereits ein Körperteil, so muss dieses entfernt werden.)\n\n\"Das hier habe ich... nun ja sagen wir von einem großzügigen Spender bekommen. Ich hoffe ihr habt mir gut zugeschaut. Ich gebe euch etwas von meinem Werkzeug mit, dann könnt ihr solche Operationen zukünftig auch selber durchführen... Jetzt aber nichts wie hoch. Ihr seht aus, als könntet ihr noch den ein oder anderen Grog gebrauchen.\"\n\n[[Weiter->Mobberauseinandersetzung]]",
+      "links": [
+        {
+          "name": "Weiter",
+          "link": "Mobberauseinandersetzung",
+          "pid": "72"
+        }
+      ],
+      "name": "Lasst ihn euch das Holzbein anbauen.",
+      "pid": "141",
+      "position": {
+        "x": "896",
+        "y": "1304"
+      }
+    },
+    {
+      "text": "(Nehmt die \"Schuppiger Arm\"-Karte (18) und legt sie an die entsprechende Stelle auf den Charakterbogen eines eurer Charaktere. Hinweis: Liegt an dieser Stelle bereits ein Körperteil, so muss dieses entfernt werden.)\n\n\"Das hier habe ich... nun ja sagen wir von einem großzügigen Spender bekommen. Ich hoffe ihr habt mir gut zugeschaut. Ich gebe euch etwas von meinem Werkzeug mit, dann könnt ihr solche Operationen zukünftig auch selber durchführen... Jetzt aber nichts wie hoch. Ihr seht aus, als könntet ihr noch den ein oder anderen Grog gebrauchen.\"\n\n[[Weiter->Echsenauseinandersetzung]]",
+      "links": [
+        {
+          "name": "Weiter",
+          "link": "Echsenauseinandersetzung",
+          "pid": "66"
+        }
+      ],
+      "name": "Lasst ihn euch den Schuppenarm anbauen.",
+      "pid": "142",
+      "position": {
+        "x": "1150",
+        "y": "1293"
+      }
+    },
+    {
+      "text": "Als du auf die Gruppe zustürmst, können sich die anderen Abenteurer sich  aus dem Bann befreien und ihr kämpft gemeinsam gegen vier Verrückte aus der Gruppe.\n\n\n3 | 3 | 3 | 3\n\n<6 Würfelrunden:\t-4 zufällige Körperteile, +3 Körperteile (Taucherhose (21), Scherenarm (22), Affenarm (24))\n=6 Würfelrunden:\t-4 zufällige Körperteile +2 Körperteile (Taucherhose (21), Scherenarm (22))\n>6 Würfelrunden:\t-4 zufällige Körperteile, +1 Körperteil (Taucherhose (21))\n\n[[Kampf gegen die Verrückten gewonnen.]]\n[[Kampf gegen die Verrückten verloren.]]",
+      "links": [
+        {
+          "name": "Kampf gegen die Verrückten gewonnen.",
+          "link": "Kampf gegen die Verrückten gewonnen.",
+          "pid": "40"
+        },
+        {
+          "name": "Kampf gegen die Verrückten verloren.",
+          "link": "Kampf gegen die Verrückten verloren.",
+          "pid": "41"
+        }
+      ],
+      "name": "Kampf gegen die Verrückten",
+      "pid": "143",
+      "position": {
+        "x": "632",
+        "y": "5419"
+      }
+    },
+    {
+      "text": "Als ihr die Gauner besiegt habt, geht ihr in ihr Vorratslager und holt euch eure Rationen zurück, die dort fein säuberlich aufeinander gestapelt liegen.\nWährend ihr euch die Taschen vollmacht, hört ihr eine Stimme. In einem kleinen Käfig sitzt ein hagerer Greis. Nachdem ihr ihn befreit habt, erzählt er euch, dass er sein gesamtes Leben darauf verwendet habe, die Geheimnisse der See zu lüften. Besonders von Harta Karun ist er fasziniert:\n\"Jahrelang habe ich geforscht und versucht Harta Karun zu beobachten. Das ist allerdings nicht so einfach, wie ihr euch das vielleicht vorstellt. Sie ist sehr scheu und zeigt sich nur äußerst selten. Aber ich habe ein Gerät entwickelt, welches es mir ermöglicht Harta Karun aufzuspüren, wo immer sie sich gerade versteckt.\"\nAus seinem Arm fährt ein kleiner Greifarm mit einer Art Kompass.\n\"Wo immer dieser Kompass hinzeigt, müsst ihr fahren, wenn ihr Harta Karun finden wollt. Aber fahrt dort nur hin, wenn ihr euch wirklich für stark genug haltet, um sie zu besiegen.\"\n\n[[Richtung wird angegeben.]]",
+      "links": [
+        {
+          "name": "Richtung wird angegeben.",
+          "link": "Richtung wird angegeben.",
+          "pid": "115"
+        }
+      ],
+      "name": "Kampf gegen Gauner vorbei",
+      "pid": "144",
+      "position": {
+        "x": "1046",
+        "y": "7933"
+      }
+    },
+    {
+      "text": "Hamba lacht gehässig. \"Es hat nie einen Schatz gegeben. Ich habe ihn mir ausgedacht, um verirrte Seeleute wie euch anzulocken. Wie sonst konnte es gelingen, immer wieder neues Fressen für Harta Karun zu bekommen. Aber jetzt ist sie tot... und damit verliere ich auch meine Magie, die sie mir vermacht hat.\"\n\n[[\"Sind wir jetzt frei?\"]]\n[[Macht euch auf den Heimweg.]]",
+      "links": [
+        {
+          "name": "\"Sind wir jetzt frei?\"",
+          "link": "\"Sind wir jetzt frei?\"",
+          "pid": "146"
+        },
+        {
+          "name": "Macht euch auf den Heimweg.",
+          "link": "Macht euch auf den Heimweg.",
+          "pid": "124"
+        }
+      ],
+      "name": "Fragt sie, was es denn nun mit dem Schatz auf sich hat.",
+      "pid": "145",
+      "position": {
+        "x": "501",
+        "y": "11230"
+      }
+    },
+    {
+      "text": "\"Der große Nebel hatte euch vergessen lassen, wer ihr seid und wo ihr herkommt. Harta Karun hat ihn vor tausenden von Jahren enstehen lassen... jetzt ist seine Magie verwirkt. Ihr seid also frei und könnt wieder nach Hause fahren.\"\n\n[[Macht euch auf den Heimweg.]]",
+      "links": [
+        {
+          "name": "Macht euch auf den Heimweg.",
+          "link": "Macht euch auf den Heimweg.",
+          "pid": "124"
+        }
+      ],
+      "name": "\"Sind wir jetzt frei?\"",
+      "pid": "146",
+      "position": {
+        "x": "501",
+        "y": "11380"
+      }
+    },
+    {
+      "text": "Die See ist ruhiger als beim letzten Mal. Dennoch müsst ihr euer Schiff vorsichtig zu der Insel manövrieren, um es nicht zu beschädigen.\nAm Strand findet ihr einige Kisten, die wohl von anderen hier verunglückten Schiffen stammen. (Nehmt euch 2 Rationen aus dem Rationsbeutel)\nVon der Hexe Hamba ist hier jedoch keine Spur.",
+      "name": "Klippeninsel 2. Version",
+      "pid": "147",
+      "position": {
+        "x": "2092",
+        "y": "233.33333333333331"
+      }
+    },
+    {
+      "text": "Der Vulkan speiht Feuer in den Himmel. Hier jetzt anzulegen, wäre zu gefährlich.",
+      "name": "Vulkaninsel 2. Version",
+      "pid": "148",
+      "position": {
+        "x": "2256",
+        "y": "236.33333333333331"
+      }
+    },
+    {
+      "text": "Die Verrückten haben euer Schiff anfahren sehen und stehen jetzt in einer riesigen Gruppe bereit. Doch der Empfang dürfte nicht freundlich werden, denn das Säbelrasseln ist bis zu eurem Schiff zu hören.\nWenn ihr euch nicht umbringen lassen wollt, fahrt lieber weiter.",
+      "name": "Kura-Kura 2. Version",
+      "pid": "149",
+      "position": {
+        "x": "2421",
+        "y": "238.33333333333331"
+      }
+    },
+    {
+      "text": "Als ihr in den Hafen einfahrt, seht ihr den alten Seemann mit seinem Holzbein auf zu zulaufen:\n\"Was für eine Freude, euch wiederzusehen. Ihr seht aus, als könntet ihr noch ein paar Rationen gebrauchen. Aber kommt bitte erst wieder, wenn ihr Harta Karun bezwungen habt.\" (Nehmt 5 Rationen)",
+      "name": "Lanun Harbour Version 2",
+      "pid": "150",
+      "position": {
+        "x": "1763",
+        "y": "228.33333333333331"
+      }
+    },
+    {
+      "text": "Ihr seht Menaras brennende Haare schon aus der Ferne. Als ihr ihr erzählt, dass ihr ihre Eltern noch nicht gefunden habt, fängt sie an bitterlich zu weinen. Ihr solltet erst wieder kommen, wenn ihr gute Nachrichten für sie habt.",
+      "name": "Leuchtturm Version 2",
+      "pid": "151",
+      "position": {
+        "x": "1935",
+        "y": "233.33333333333331"
+      }
+    },
+    {
+      "text": "Ihr findet eine zerklüftete Insel. Die vielen Grotten und Höhlen gleichen einem Labyrinth. Hier braucht ihr einen kundigen Helfer, um euch nicht zu verlaufen. Vielleicht könnt ihr ja später zurück kommen.",
+      "name": "Grotte von Harta Karun Version 2",
+      "pid": "152",
+      "position": {
+        "x": "2568",
+        "y": "241.33333333333331"
+      }
+    },
+    {
+      "text": "Der Seemann ist nicht mehr so erfreut, euch schon wieder zu sehen.\n\"Habt ihr euren Auftrag etwa vergessen? Findet den Schatz von Harta Karun. Hier in Lanun Harbour werdet ihr da nicht fündig werden.\"",
+      "name": "Lanun Harbour Version 3",
+      "pid": "153",
+      "position": {
+        "x": "1765",
+        "y": "372.3333333333333"
       }
     }
   ],
