@@ -55,7 +55,7 @@ Verluste:
 6
 
 A
-B
+B Diebin rechter Arm, Doktor rechter Arm
 C
 
 Variable activeplayer nutzen!
