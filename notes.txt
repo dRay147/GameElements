@@ -48,14 +48,14 @@ shortest mainquest: 13
 
 Verluste:
 1 Kämpferin linker Arm, Doktor rechtes Bein
-2 Charmeur linkes Bein, 
+2 
 3
 4
 5
 6
 
 A
-B Diebin rechter Arm, Doktor rechter Arm
+B
 C
 
 Variable activeplayer nutzen!
