@@ -1,0 +1,31 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="Erzähler_6_525_data" version="1.3.0" audacityversion="2.4.2" sel0="0.0000000000" sel1="3.6455328798" vpos="0" h="0.0000000000" zoom="86.1328125000" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags/>
+	<wavetrack name="Audiospur" isSelected="1" height="150" minimized="0" channel="0" linked="1" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="160768">
+				<waveblock start="0">
+					<simpleblockfile filename="e080dc23.au" len="146331" min="-0.299591" max="0.314819" rms="0.034505"/>
+				</waveblock>
+				<waveblock start="146331">
+					<simpleblockfile filename="e080d426.au" len="14437" min="-0.115143" max="0.097626" rms="0.024389"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Audiospur" isSelected="1" height="150" minimized="0" channel="1" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="160768">
+				<waveblock start="0">
+					<simpleblockfile filename="e080d94d.au" len="146331" min="-0.293732" max="0.308716" rms="0.03384"/>
+				</waveblock>
+				<waveblock start="146331">
+					<simpleblockfile filename="e080d720.au" len="14437" min="-0.112946" max="0.095764" rms="0.02392"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>
