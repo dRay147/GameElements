@@ -1,0 +1,67 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="Erzähler_11_50_data" version="1.3.0" audacityversion="2.4.2" sel0="0.0000000000" sel1="29.9421315193" vpos="0" h="0.0000000000" zoom="86.1328125000" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags/>
+	<wavetrack name="Audiospur" isSelected="1" height="153" minimized="0" channel="0" linked="1" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="1320448">
+				<waveblock start="0">
+					<simpleblockfile filename="e0801147.au" len="162048" min="-0.630359" max="0.686186" rms="0.079145"/>
+				</waveblock>
+				<waveblock start="162048">
+					<simpleblockfile filename="e08011c7.au" len="141440" min="-0.523878" max="0.514327" rms="0.062624"/>
+				</waveblock>
+				<waveblock start="303488">
+					<simpleblockfile filename="e0801da7.au" len="138368" min="-0.480893" max="0.485137" rms="0.05999"/>
+				</waveblock>
+				<waveblock start="441856">
+					<simpleblockfile filename="e0801c63.au" len="186112" min="-0.423107" max="0.370133" rms="0.044253"/>
+				</waveblock>
+				<waveblock start="627968">
+					<simpleblockfile filename="e080177b.au" len="186112" min="-0.49695" max="0.651713" rms="0.067166"/>
+				</waveblock>
+				<waveblock start="814080">
+					<simpleblockfile filename="e08018c7.au" len="231936" min="-0.467928" max="0.574312" rms="0.059867"/>
+				</waveblock>
+				<waveblock start="1046016">
+					<simpleblockfile filename="e08095ec.au" len="262144" min="-0.546279" max="0.579244" rms="0.06411"/>
+				</waveblock>
+				<waveblock start="1308160">
+					<simpleblockfile filename="e080162b.au" len="12288" min="-0.187779" max="0.205357" rms="0.028808"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Audiospur" isSelected="1" height="147" minimized="0" channel="1" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="1320448">
+				<waveblock start="0">
+					<simpleblockfile filename="e08018b7.au" len="162048" min="-0.618245" max="0.673034" rms="0.077596"/>
+				</waveblock>
+				<waveblock start="162048">
+					<simpleblockfile filename="e0801741.au" len="141440" min="-0.513783" max="0.504432" rms="0.061392"/>
+				</waveblock>
+				<waveblock start="303488">
+					<simpleblockfile filename="e0801258.au" len="138368" min="-0.471706" max="0.475785" rms="0.058832"/>
+				</waveblock>
+				<waveblock start="441856">
+					<simpleblockfile filename="e0801f25.au" len="186112" min="-0.4149" max="0.362945" rms="0.043395"/>
+				</waveblock>
+				<waveblock start="627968">
+					<simpleblockfile filename="e0801315.au" len="186112" min="-0.487292" max="0.639156" rms="0.065835"/>
+				</waveblock>
+				<waveblock start="814080">
+					<simpleblockfile filename="e0801997.au" len="231936" min="-0.458984" max="0.563473" rms="0.058689"/>
+				</waveblock>
+				<waveblock start="1046016">
+					<simpleblockfile filename="e080a753.au" len="262144" min="-0.535766" max="0.568054" rms="0.062859"/>
+				</waveblock>
+				<waveblock start="1308160">
+					<simpleblockfile filename="e0801d3e.au" len="12288" min="-0.184106" max="0.201401" rms="0.028253"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>
